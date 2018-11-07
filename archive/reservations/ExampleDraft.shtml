@@ -1,0 +1,112 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- InstanceBegin template="/Templates/template_one_col_r.dwt" codeOutsideHTMLIsLocked="false" -->
+	<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<!-- InstanceBeginEditable name="doctitle" --><title>Draft</title><!-- InstanceEndEditable -->
+	<meta name="description" content="Information resources and collections of the Hesburgh Libraries, University of Notre Dame." />
+	<meta name="viewport" content="width=device-width" />
+	<link rel="shortcut icon" href="/favicon.ico" />
+	<link rel="stylesheet" href="//asset.library.nd.edu/assets/hesburgh_assets/main/1.0/index.css" />
+		
+	<script src="//asset.library.nd.edu/assets/hesburgh_assets/main/1.0/index.js"></script>
+		<!-- InstanceBeginEditable name="head" -->
+		
+
+		<style type="text/css">
+<!--
+.style5 {font-size: 24px}
+-->
+        </style>
+		<style type="text/css">
+<!--
+.style6 {
+  font-size: 24px;
+  font-weight: bold;
+}
+-->
+        </style>
+		<!-- InstanceEndEditable -->
+	<link rel="stylesheet" href="/local_css/quickfix.css" />
+</head>
+	<body>
+		<div class="container">
+		  <div class="row header">
+			<div class="twelve columns">
+			  <!--#include virtual="/local_ssi/responsive/header.shtml" -->
+		    </div>
+		  </div> <!-- End #header -->
+		  <div class="row menu">
+			<div class="twelve columns"><!-- InstanceBeginEditable name="menu" -->
+		    <!--#include virtual="/ssi/main-menu.shtml" -->
+			<!-- InstanceEndEditable --></div>
+		  </div><!-- End #main-menu -->
+		  <div class="row breadcrumb hide-on-phones">
+			<div class="twelve columns">
+			  <p><!-- InstanceBeginEditable name="crumbs" -->
+<a href="/">Hesburgh Libraries</a> &gt; 
+<a href="/about/">About</a> &gt; 
+<!-- InstanceEndEditable --></p>
+		    </div>
+		  </div>
+			<div class="row content">
+				<div class="twelve columns">
+					<div class="container">
+					<!-- InstanceBeginEditable name="pg-title" -->
+					<h1 align="justify">Center for Digital Scholarship<br />
+			        <span class="style5">Classroom &amp; Conference Room </span></h1>
+					<!-- InstanceEndEditable -->
+
+					
+					<!-- InstanceBeginEditable name="single-column-content" -->
+<div class="map">
+  <div align="left">
+    <div class="map">
+      <div align="left">
+        <blockquote>
+          <p align="left"><img src="/cds/reservations/images/CDSJCV.jpg" width="650" height="634" hspace="2" vspace="2" border="5" align="left" style="border-color:#000000;border-style:none;"/><span class="style5"><a href="https://ems.nd.edu/VirtualEms/Default.aspx" target="_blank">Make a Reservation</a></span></p>
+          <p><span class="style6"></span><strong>The Center for Digital Scholarship is located on the NE corner of the 1st floor of the Hesburgh building.</strong></p>
+        </blockquote>
+        </div>
+    </div>
+  </div>
+</div> 
+<blockquote>
+  <p><a href="#"  data-reveal-id="zone1">Classroom 129</a><br/>
+    Capacity: 20
+    <br />
+    Features: ...
+    <br />
+    <br />
+    <a href="#"  data-reveal-id="zone2">Classroom 131A</a> <br/>
+    Capacity: 12<br />
+    Features: ...
+    <br />
+  </p>
+  <blockquote>
+    <blockquote>&nbsp;    </blockquote>
+    </blockquote>
+</blockquote>
+<div id="zone1" class="reveal-modal">
+  <p><a href="#"  data-reveal-id="zone1">Classroom 129</a><br />
+    <br/>
+      <img src="/cds/reservations/images/classroom-photocopy_000.jpg" width="700" height="359" />    </p>
+   	<p class="attribute">Photo by Mandy Havert</p>
+   	<a class="close-reveal-modal">&#215;</a>
+    <br />
+</div>
+<div id="zone2" class="reveal-modal">
+<p><a href="#"  data-reveal-id="zone2">Conference Room 131A</a>
+  <p><img src="/cds/reservations/images/ConfRoom2.JPG" width="700" height="525" />
+   	</p>
+   	<p class="attribute">Photo by Mandy Havert</p>
+   	<a class="close-reveal-modal">&#215;</a></div>
+					<!-- InstanceEndEditable -->
+				  </div><!-- End .container -->
+			  </div> 
+			</div> <!-- End #content --> 
+				
+			
+		  <!--#include virtual="/local_ssi/responsive/footer.shtml" -->
+	</div>	<!-- End #container -->
+	</body>
+<!-- InstanceEnd --></html>

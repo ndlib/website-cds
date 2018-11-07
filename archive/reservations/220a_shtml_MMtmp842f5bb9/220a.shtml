@@ -1,0 +1,74 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- InstanceBegin template="/Templates/template_one_col_r.dwt" codeOutsideHTMLIsLocked="false" -->
+	<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<!-- InstanceBeginEditable name="doctitle" --><title>220a</title><!-- InstanceEndEditable -->
+	<meta name="description" content="Information resources and collections of the Hesburgh Libraries, University of Notre Dame." />
+	<meta name="viewport" content="width=device-width" />
+	<link rel="shortcut icon" href="/favicon.ico" />
+	<link rel="stylesheet" href="http://asset.library.nd.edu/assets/hesburgh_assets/main/1.0/index.css" />
+		
+	<script src="http://asset.library.nd.edu/assets/hesburgh_assets/main/1.0/index.js"></script>
+		<!-- InstanceBeginEditable name="head" -->
+	<!-- InstanceEndEditable -->
+	<link rel="stylesheet" href="/local_css/quickfix.css" />
+</head>
+	<body>
+		<div class="container">
+		  <div class="row header">
+			<div class="twelve columns">
+			  <!--#include virtual="/local_ssi/responsive/header.shtml" -->
+		    </div>
+		  </div> <!-- End #header -->
+		  <div class="row menu">
+			<div class="twelve columns"><!-- InstanceBeginEditable name="menu" -->
+		    <!--#include virtual="/ssi/main-menu.shtml" -->
+			<!-- InstanceEndEditable --></div>
+		  </div><!-- End #main-menu -->
+		  <div class="row breadcrumb hide-on-phones">
+			<div class="twelve columns">
+			  <p><!-- InstanceBeginEditable name="crumbs" -->
+<a href="/">Hesburgh Libraries</a> &gt; 
+<a href="/about/">About</a> &gt; 
+<!-- InstanceEndEditable --></p>
+		    </div>
+		  </div>
+		  <div class="row content">
+			<div class="twelve columns">
+			  <div class="container">
+				<!-- InstanceBeginEditable name="pg-title" -->
+				<h1 align="justify">Room 222</h1><!-- InstanceEndEditable -->
+
+					
+				<!-- InstanceBeginEditable name="single-column-content" -->
+				<table width="989" cellspacing="5" cellpadding="10" border="1">
+				  <tr valign="top">
+				    <td width="427"><img src="/cds/reservations/220a_shtml_MMtmp842f5bb9/DSC02164_000.JPG" width="450" height="299"/></td>
+				    <td width="465"><p><strong>Make a Reservation &lt;insert link&gt;</strong></p>
+				      <p><strong>Capacity</strong>: 25</p>
+			          <p><strong>Description</strong>: Room 220 is a collaborative instruction room for classes of  up to 25 students. When not used for classes, it can be reserved for group  meetings. The room is configured in five &quot;pods.&quot; Each pod contains a  table seating 4 or 5 chairs, a 42&quot; monitor on a rolling stand, one laptop,  and a switch box allowing 3 additional VGA connections for monitor sharing.  Each pod is independent of the others (cross-pod screen-sharing is not  available a this time). This room provides adequate sound control for normal conversation, but  does not provide a secure environment for confidential discussions.<br />
+			            <br />
+		              <strong>Note</strong>: Please plan on a 20-minute set-up session with technical  support prior to your meting if you are a new user of this room.</p>
+		            <p>&nbsp;</p></td>
+		          </tr>
+				  <tr valign="top">
+				    <td><p><strong>Room Diagrams</strong></p>
+				      <ul>
+				        <li><a href="/cds/reservations/220a_shtml_MMtmp842f5bb9/Room222layout.pdf" target="_blank">Standard  Configuration</a></li>
+				        <li><a href="/cds/reservations/220a_shtml_MMtmp842f5bb9/Room222layoutalternate.pdf" target="_blank">Alternate  Configuration</a><br />
+		                </li>
+	                </ul></td>
+				    <td><p><strong>Features</strong></p>
+		            <p>&nbsp;</p></td>
+			      </tr>
+			    </table>
+				<!-- InstanceEndEditable -->
+		      </div><!-- End .container -->
+		    </div> 
+		  </div> <!-- End #content --> 
+				
+			
+		  <!--#include virtual="/local_ssi/responsive/footer.shtml" -->
+	</div>	<!-- End #container -->
+</body>
+<!-- InstanceEnd --></html>

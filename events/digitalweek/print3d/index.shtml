@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!-- InstanceBegin template="/Templates/cds_template_left.dwt" codeOutsideHTMLIsLocked="false" --> <!--<![endif]-->
+<head>
+<meta charset="utf-8" />
+
+<!-- Set the viewport width to device width for mobile -->
+<meta name="viewport" content="width=device-width" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>3D Printing Contest | Digital Week</title>
+<!-- InstanceEndEditable -->
+<!-- Included CSS Files (Uncompressed) -->
+<!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  
+<!-- Included CSS Files (Compressed) -->
+<link rel="stylesheet" href="/cds/css/foundation.min.css">
+<link rel="stylesheet" href="/cds/css/app.css">
+<link rel="stylesheet" href="/cds/css/fonts.css">
+
+<script src="../../../javascripts/modernizr.foundation.js"></script>
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700,300italic' rel='stylesheet' type='text/css'>
+  <!-- InstanceBeginEditable name="head" -->
+  <style type="text/css">
+<!--
+.style5 {font-size: 18px; color: #006699;}
+-->
+  </style>
+  <meta charset='utf-8'>
+<!-- InstanceEndEditable -->
+</head>
+<body>
+
+<div id="wrapper">
+<header id="header" role="banner" class="gtype blue">
+    <hgroup>
+      <h3 class="nddotedu"><a href="http://nd.edu">University <i>of</i> Notre Dame <img src="/cds/images/ndmark300.png" class="ndmark" alt="University of Notre Dame"></a></h3>
+      <h2 class="dept-prov"><a href="http://library.nd.edu">Hesburgh Libraries</a></h2>
+      <h1><a href="/cds" accesskey="1">Center <span>for</span> Digital Scholarship</a></h1>
+    </hgroup>
+    <div id="header-util">
+      <form method="get" id="search-header" action="/search/" role="search"><input type="hidden" name="as_sitesearch" value="nd.edu"><input type="hidden" name="entqr" value="3"><label for="search-input">Search</label><input type="search" name="q" id="search-input" placeholder="Search" accesskey="4"><button type="submit" id="search-button">Search</button></form>
+      
+    </div>
+</header></div>
+
+<div class="rotator">
+  <div class="row">
+    <div class="twelve columns"><!-- InstanceBeginEditable name="banner" -->
+
+    <!-- InstanceEndEditable --></div>
+  </div>
+</div>
+<!--#include virtual="/cds/ssi/nav.shtml" -->
+<div class="row content">
+    
+  <div class="twelve columns full">
+      
+
+      
+    <div class="row content-inner">
+      <div class="three columns sidebar">
+        <!-- InstanceBeginEditable name="left-column" --><!--#include virtual="/cds/ssi/nav-spaces.shtml" -->
+        <!-- InstanceEndEditable -->
+      </div>
+      <div class="nine columns"><!-- InstanceBeginEditable name="content" -->
+        <h1>3D Printing Contest</h1>
+        <h1 class="style5"><a href="/cds/digitalweek/index.shtml" target="_blank">2014 Digital Week</a></h1>
+        <p><br>
+        <span class="sub-nav"><em>Open to all students, faculty, and staff.  No experience necessary.</em></span></p>
+        <h2 class="style5">Winners will be announced the week of 10/13<br>
+          <br>
+        </h2>
+        <p>Prizes will be awarded for <strong>overall best design</strong>, <strong>creativity</strong>, and the<strong> most &quot;loved&quot; design</strong> in the <a href="http://www.thingiverse.com/cds/collections/2014-digital-week-3d-printing-contest" target="_blank">Thingiverse contest collection</a>, on Thursday, October 9.  Winners will be notified via email, and additional announcements will be made via Twitter (#NDDigitalWeek) and posted to the CDS and Office of Digital Learning web sites.</p>
+        <h4><strong>Design Assignment</strong></h4>
+        <p>Design or improve upon an existing design for a functional object or accessory  used in everday life. <br>
+        </p>
+        <h4><strong>Submission Deadline </strong></h4>
+        <p>5 PM on Wednesday, October 8. <br>
+        </p>
+<h4><strong>Rules</strong></h4>
+        <ul>
+          <li>Designs must be created in the free, online application <a href="https://www.tinkercad.com/" target="_blank">Tinkercad</a>.</li>
+          <li>Maximum dimensions: <strong>X (l) 250 mm/9.8 in</strong> | <strong>Y (w) 160 mm/6.3 in</strong> | <strong>Z (h) 150 mm/5.9 in</strong></li>
+          <li>Files must be uploaded to <a href="http://www.thingiverse.com/" target="_blank">Thingiverse</a> by the submission deadline (Wed., 10/8/14 at 5 PM). (The CDS will move all eligible, properly-tagged submissions to the <a href="http://www.thingiverse.com/cds/collections/2014-digital-week-3d-printing-contest" target="_blank">contest collection</a> page for voting.)</li>
+          <li>The Thingiverse &quot;Thing Info&quot; description must contain a brief explanation of your object/accessory's function, or, if it is an improvement on an existing object/accessory, why your design is an enhancement to the existing model.</li>
+          <li>Thingiverse files must contain tags <strong>#NDDigitalWeek</strong> and <strong>#CDS</strong>.</li>
+          <li>Entries must conform to the CDS 3D Printing <a href="/cds/print/#limitations" target="_blank">Limitations</a>.</li>
+        </ul>
+        <!-- InstanceEndEditable --></div>
+    </div>
+  </div>
+
+     
+
+  
+</div>
+
+<div class="row">
+  <div class="twelve columns">
+    <footer role="contentinfo" class="vcard" id="footer">
+    <p class="url fn org" id="copyright" style="display:none;">
+      <a href="http://nd.edu/copyright/">Copyright</a> &copy; 2013
+      <a class="org" href="http://nd.edu">University of Notre Dame</a>
+    </p>
+
+    <p class="adr" id="contact-info">
+      <span class="address"><span class="street-address">Hesburgh Library</span>, <span class="locality">Notre Dame</span>, <span title="Indiana" class="region">IN</span> <span class="postal-code">46556</span></span>
+      <span class="tel"><span class="type">Phone</span> 574.631.4900</span>
+      <span class="tel fax"><span class="type">Fax</span> 574.631.6772</span>
+      <span class="email"><a href="mailto:cds@nd.edu">cds@nd.edu</a></span>
+    </p>
+    <a id="ndmark" href="http://library.nd.edu"><img alt="University of Notre Dame" class="ndmark" src="/cds/images/ndmark300.png"></a>
+  </footer>
+  </div>
+</div>
+  
+  
+  
+
+
+  
+  
+
+  
+<!-- Included JS Files (Compressed) -->
+<script src="/cds/js/jquery.js"></script>
+<script src="/cds/js/foundation.min.js"></script>
+
+  
+<!-- Initialize JS Plugins -->
+<script src="/cds/js/app.js"></script>
+
+  
+<script>
+    $(window).load(function(){
+      $("#featured").orbit({
+        animation: 'fade',
+        advanceSpeed: 14000,  
+        bullets: true,
+        captions: true,
+        captionAnimation: 'slideOpen',  
+      });
+      $('ul.orbit-bullets').wrap('<div class="slide-dots" />');
+    });
+    </script> 
+  
+</body>
+<!-- InstanceEnd --></html>

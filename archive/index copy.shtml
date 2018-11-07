@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!-- InstanceBegin template="/Templates/cds_template_left.dwt" codeOutsideHTMLIsLocked="false" --> <!--<![endif]-->
+<head>
+<meta charset="utf-8" />
+
+<!-- Set the viewport width to device width for mobile -->
+<meta name="viewport" content="width=device-width" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Workshops</title>
+<!-- InstanceEndEditable -->
+<!-- Included CSS Files (Uncompressed) -->
+<!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  
+<!-- Included CSS Files (Compressed) -->
+<link rel="stylesheet" href="/cds/css/foundation.min.css">
+<link rel="stylesheet" href="/cds/css/app.css">
+<link rel="stylesheet" href="/cds/css/fonts.css">
+
+<script src="../../javascripts/modernizr.foundation.js"></script>
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700,300italic' rel='stylesheet' type='text/css'>
+  <!-- InstanceBeginEditable name="head" -->
+  <style type="text/css">
+<!--
+.style4 {color: #006699; font-weight: bold; }
+.style6 {color: #006699; font-style: italic; }
+.style7 {color: #000099}
+-->
+  </style>
+<!-- InstanceEndEditable -->
+</head>
+<body>
+
+<div id="wrapper">
+<header id="header" role="banner" class="gtype blue">
+    <hgroup>
+      <h3 class="nddotedu"><a href="http://nd.edu">University <i>of</i> Notre Dame <img src="/cds/images/ndmark300.png" class="ndmark" alt="University of Notre Dame"></a></h3>
+      <h2 class="dept-prov"><a href="http://library.nd.edu">Hesburgh Libraries</a></h2>
+      <h1><a href="/cds" accesskey="1">Center <span>for</span> Digital Scholarship</a></h1>
+    </hgroup>
+    <div id="header-util">
+      <form method="get" id="search-header" action="/search/" role="search"><input type="hidden" name="as_sitesearch" value="nd.edu"><input type="hidden" name="entqr" value="3"><label for="search-input">Search</label><input type="search" name="q" id="search-input" placeholder="Search" accesskey="4"><button type="submit" id="search-button">Search</button></form>
+      
+    </div>
+</header></div>
+
+<div class="rotator">
+  <div class="row">
+    <div class="twelve columns"><!-- InstanceBeginEditable name="banner" -->
+
+    <!-- InstanceEndEditable --></div>
+  </div>
+</div>
+<!--#include virtual="/cds/ssi/nav.shtml" -->
+<div class="row content">
+    
+  <div class="twelve columns full">
+      
+
+      
+    <div class="row content-inner">
+      <div class="three columns sidebar">
+        <!-- InstanceBeginEditable name="left-column" --><!--#include virtual="/cds/ssi/nav-workshops.shtml" -->
+        <!-- InstanceEndEditable -->
+      </div>
+      <div class="nine columns"><!-- InstanceBeginEditable name="content" -->
+        <h1>Workshops</h1>
+        <p>The  Center for Digital Scholarship is pleased to offer an expanded selection of introductory workshops. Attendance is free, and all Notre Dame students, faculty, and  staff are  welcome to attend. </p>
+        <p>To see scheduled course dates and  register, see the Library Workshops<a href="http://library.nd.edu/about/workshops.shtml" target="_blank"> Registration Portal</a>. </p>
+        <p>Workshops can also be taught on-demand for classes or small  groups.  Please contact <a href="mailto:cds@nd.edu">cds@nd.edu</a> with inquiries.</p>
+        <p><br>
+        </p>
+        <h5><span class="style4"><a name="Top"></a>SPRING 2015 WORKSHOP SERIES </span><span class="style6"><br>
+          <br>
+          </span><a href="#DataAnalysis">Data Use &amp; Analysis</a> | <a href="#GIS">GIS</a> | <a href="#TextMining">Text Mining &amp; Analysis</a> <span class="style8"><span class="style13">|</span> <span class="style11"><a href="#visual">Visual Resources</a></span></span><span class="style10"><br>
+          </span><span class="style6"><a href="http://library.nd.edu/about/workshops.shtml" target="_blank"><strong><br>
+          Register Now!</strong></a></span><br>
+        </h5>
+        <h4><br>
+        <a name="DataAnalysis"></a>Data Use &amp; Analysis </h4>
+        <p><em>Presenter: James Ng | Economics &amp; Business Librarian</em> <br>
+        </p>
+        <p><strong>Introduction to Using Stata for Data  Analysis</strong><br>
+        Stata  is a complete statistical software package that provides everything you need  for data manipulation and statistical analysis. It is widely  used in empirical research in the social sciences and epidemiology. This  workshop will demonstrate Stata&rsquo;s frequently-used capabilities in data  manipulation and analysis.  No knowledge of statistics is assumed. [<a href="workshops/resources/index.shtml">Related resources</a>]</p>
+        <p>[<a href="#Top">top</a>]        <br>
+          <br>
+        </p>
+        <h4><a name="GIS"></a>Geographic Information Systems (GIS)<br>
+        </h4>
+        <p><em>Presenter: Matthew Sisk | Data Curation &amp; GIS Postdoctoral Fellow </em><strong><br>
+          <br>
+          Geographic Information Systems (GIS): A  Brief Introduction</strong><br>
+          GIS  is a system of hardware and software for the storage, retrieval, mapping and  analysis of geographic data. It provides a system for organizing spatial  and related information into a single analytical framework and is used in a  variety of academic and industry settings for understanding spatial  relationships. This workshop will address the question &ldquo;What is GIS,&rdquo; provide a  variety of examples, and present the resources available in the Center for  Digital Scholarship. [<a href="workshops/resources/index.shtml">Related resources</a>]<br>
+          <br>
+          <strong>Basic Satellite Imagery Analysis </strong><strong><br>
+          </strong>Using wavelengths of light beyond  what our eyes can see, multi-spectral satellite imagery can tell us a lot about  the earth's environment. This workshop will present both the main types of  satellite imagery available for GIS and remote sensing applications and some of  the different analytical techniques.  No  previous use of satellite imagery is necessary, but some understanding of the  fundamentals of GIS would be useful.<br>
+          <strong><br>
+          Georeferencing in ArcGIS </strong><strong><br>
+          </strong>A key component of GIS analysis  is overlaying different layers of spatial data.   In the case of scanned maps or photographs, they have to be  georeferenced before they can be used. This involves taking an image of an  unknown location and telling the GIS software where is located in the real  world. This workshop will go over the process for georeferencing scanned maps  and images with and without coordinates. [<a href="workshops/resources/index.shtml">Related resources</a>]<br>
+         <br>
+         <strong>Incorporating Time into GIS</strong><br>
+Visualizing time in a static map or in GIS software has generally been a difficult process. Some new innovations have made it dramatically easier, though specific types and layouts of data are required. This workshop introduces the temporal tools in ESRI's ArcGIS software package and goes over the current limitations.<br>
+<br>
+<strong>Using Python in ArcGIS</strong><br>
+          The ArcPy module provides a powerful tool for advanced users to automate GIS  workflows, create custom tools and interact with other packages using the  Python programming language.  This  workshop will demonstrate how to Python scripts for use in ArcGIS.  Familiarity with GIS software is required,  but no programing experience is necessary.<br>
+          <br>
+          <strong>Vector Editing in ArcGIS</strong><strong><br>
+        </strong>A common task in GIS workflows is  creating vector (point-based) data either from text, scanned paper maps, or  from features visible in aerial imagery.   This workshop will go over basic and advanced techniques for creating  vector data.</p>
+        <p>[<a href="#Top">top</a>]        </p>
+        <h4><br>
+        <a name="TextMining"></a>Text Mining &amp; Analysis</h4>
+        <p><em>Presenter: Eric Lease Morgan | Digital Initiatives  Librarian</em> </p>
+        <p><strong>Analyzing Articles Using JSTOR&rsquo;s Data for  Research Service</strong><strong><br>
+         </strong>Data For Research (DFR) is an alternative interface to JSTOR enabling  the reader to download statistical information describing JSTOR search results.  For example, using DFR a person can create a graph illustrating when sets of  citations where written, create a word cloud illustrating the most frequently  used words in a journal article, or classify sets of JSTOR articles according  to a set of broad subject headings. More advanced features enable the reader to  extract frequently used phrases in a text as well as list statistically  significant keywords. JSTOR's DFR is a powerful tool enabling the reader to  look for trends in large sets of articles as well as drill down into the  specifics of individual articles. This hands-on workshop leads the student  through a set of exercises demonstrating these techniques.<br>
+         <br>
+         <em>Requirements: </em>Attendees are  expected to bring their own computer to the workshop. Attendees are also  expected to register for a JSTOR DFR user account prior to the date of the  workshop. See: <a href="http://dfr.jstor.org/accounts/register/">http://dfr.jstor.org/accounts/register/</a><br>
+         <br>
+         <strong>Analyzing Books Using HathiTrust Research  Center</strong> [<a href="../../ltd/registration/group/33/" target="_blank">register</a>]<strong><br>
+          </strong>The  HathiTrust Research Center (HTRC) enables a person to generate statistical  reports against user-created sets of public domain documents from the  HathiTrust. Examples include the creation of word clouds, the extraction and  tabulation of names, places, or organizations, or the subdivision a large  corpus of documents into smaller clusters. Using the facilities of the HTRC a  person can discover similarities and differences between texts as well as get  an overview of what the texts discuss. Attendees of this hands-on workshop will  be led through a set of exercises demonstrating these techniques.<br>
+         <br>
+         <em>Requirements: </em>Attendees are  expected to bring their own computer to the workshop. Attendees are also  expected to register for a HTRC user account prior to the date of the workshop.  See: <a href="http://bit.ly/19HBd63">http://bit.ly/19HBd63</a><br>
+         <br>
+         <strong>Simple Text Analysis with Voyant Tools</strong><strong><br>
+         </strong>Voyant Tools is a Web-based application for doing a number of  straightforward text analysis functions, including but not limited to: word  counts, tag cloud creation, concordancing, and word trending. Using Voyant  Tools a person is able to read a document &quot;from a distance&quot;. It  enables the reader to extract characteristics of a corpus quickly and  accurately. Voyant Tools can be used to discover underlying themes in texts or  verify propositions against them. This one-hour, hands-on workshop familiarizes  the student with Voyant Tools and provides a means for understanding the  concepts of text mining.<br>
+         <br>
+         <em>Requirements</em>:         Attendees are expected to bring their own computer to the workshop.  Attendees are also expected to bring to the workshop two URLs pointing to plain  text (not Word, HTML nor PDF) versions of any novel-length pieces of fiction.  These URLs (and the corresponding pieces of fiction) will be analyzed by the  student. Project Gutenberg (<a href="http://www.gutenberg.org">www.gutenberg.org</a>) is a good place to find  novel-length works. <br>
+         <br>
+         <strong>Text Mining in a Nutshell</strong><strong><br>
+        </strong>At its core, text mining is about discovering patterns and anomalies  in sets of written documents. Invariably, the process begins with the creation  of a digitized corpus of materials. The content of the corpus may then be  cleaned up, marked up, and organized, thus making it easier for computers to  read and parse. From there, &ldquo;tokens&rdquo; — usually words — are identified, counted,  and tabulated. These techniques — usually employed under the rubric of &ldquo;natural  language processing&rdquo; — form the basis for more sophisticated applications. This  one-hour workshop familiarizes participants with the fundamentals of text  mining — what it can do and what it can't. </p>
+        <p>[<a href="#Top">top</a>]          <br>
+          <br>
+        </p>
+        <h4><a name="visual"></a>Visual Resources</h4>
+        <p><em>Presenter: Denise J. Massa | Curator, Visual Resources Center</em></p>
+        <p><strong>Finding Images: Teaching and Researching through ARTstor</strong><strong><br>
+        </strong>ARTstor is an educational resource that shares over a million digital images rich in the a<span style="color: rgb(48, 48, 46); background-image: initial; background-repeat: initial;">rts, architecture, humanities,and sciences.  This workshop combines online demonstrations and hands-on practice to show </span>participants how to search for images, <span style="color: rgb(48, 48, 46); background-image: initial; background-repeat: initial;">build a lecture, present images online or offline and organize image groups for personal or shared uses.  ARTstor’s Digital Library covers a wide range of  </span>pedagogical disciplines including<span style="color: rgb(48, 48, 46); background-image: initial; background-repeat: initial;">:  African-American Studies, American Studies, Anthropology, Architecture &amp; the Built Environment, Asian Studies, Classical Studies, Decorative Arts, Design, Fashion &amp; Costume, Languages &amp; Literature, Latin American Studies, Maps &amp; Geography, Medieval Studies, Medicine &amp; Natural Science, Middle Eastern Studies, Music History, Native American Studies, Photography, Religious Studies, Renaissance Studies, Theater and Dance and Women’s Studies. </span>                   </p>
+        <p><em>Requirements:</em> Attendees are expected to bring their own computer to the workshop.
+        </p>
+        <p>[<a href="#Top">top</a>] <br>
+        </p>
+
+      <!-- InstanceEndEditable --></div>
+    </div>
+  </div>
+
+     
+
+  
+</div>
+
+<div class="row">
+  <div class="twelve columns">
+    <footer role="contentinfo" class="vcard" id="footer">
+    <p class="url fn org" id="copyright" style="display:none;">
+      <a href="http://nd.edu/copyright/">Copyright</a> &copy; 2013
+      <a class="org" href="http://nd.edu">University of Notre Dame</a>
+    </p>
+
+    <p class="adr" id="contact-info">
+      <span class="address"><span class="street-address">Hesburgh Library</span>, <span class="locality">Notre Dame</span>, <span title="Indiana" class="region">IN</span> <span class="postal-code">46556</span></span>
+      <span class="tel"><span class="type">Phone</span> 574.631.4900</span>
+      <span class="tel fax"><span class="type">Fax</span> 574.631.6772</span>
+      <span class="email"><a href="mailto:cds@nd.edu">cds@nd.edu</a></span>
+    </p>
+    <a id="ndmark" href="http://library.nd.edu"><img alt="University of Notre Dame" class="ndmark" src="/cds/images/ndmark300.png"></a>
+  </footer>
+  </div>
+</div>
+  
+  
+  
+
+
+  
+  
+
+  
+<!-- Included JS Files (Compressed) -->
+<script src="/cds/js/jquery.js"></script>
+<script src="/cds/js/foundation.min.js"></script>
+
+  
+<!-- Initialize JS Plugins -->
+<script src="/cds/js/app.js"></script>
+
+  
+<script>
+    $(window).load(function(){
+      $("#featured").orbit({
+        animation: 'fade',
+        advanceSpeed: 14000,  
+        bullets: true,
+        captions: true,
+        captionAnimation: 'slideOpen',  
+      });
+      $('ul.orbit-bullets').wrap('<div class="slide-dots" />');
+    });
+    </script> 
+  
+</body>
+<!-- InstanceEnd --></html>

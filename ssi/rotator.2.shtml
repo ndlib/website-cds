@@ -1,0 +1,32 @@
+<script type="text/javascript">
+     $(window).load(function() {
+         $('#featured').orbit({
+              bullets: true
+         });
+     });
+</script>
+	    <div id="featured">
+	       
+	   <img src="/cds/ssi/NNN-Map.jpg" width="1024" height="473" alt="" data-caption="#captionOneA">
+       
+       <img src="/cds/ssi/Java-Map.jpg" width="1024" height="538" alt="" data-caption="#captionOneB">
+       
+       <img src="/cds/ssi/DB3.jpg" width="1024" height="" data-caption="#captionOneC">
+          
+	<span class="orbit-caption" id="captionOneA">
+    <h2>Community-Based Mapping</h2>
+    <p>A variety of collaborators on behalf of the CDS, Notre Dame's Center for Social Concerns, and South Bend have worked to develop tools for mapping property conditions throught the city.</p>
+    <p><a href="project.shtml">Read More...</a></p>
+    </span>
+      <span class="orbit-caption" id="captionOneB">
+      <h2>Business on the Front Lines</h2>
+      <p>The CDS assisted MBA students with research questions related to the effects of flooding on textile manufacture with making web and static maps of findings from field visits to West Java, Indonesia.</p>
+      <p><a href="project.shtml">Read More...</a></p>
+      </span>
+      <span class="orbit-caption" id="captionOneC">
+      <h2>Catholic Social Teaching & International Human Rights Database</h2>
+      <p>The Center for Civil and Human Rights, in partnership with the CDS, has created an online research tool that allows simultaneous searching of Catholic social teaching documents and instruments of international human rights law, bringing Church teaching into conversation with international law, and enabling interdisciplinary dialogue on human dignity and human rights.</p>
+      <p><a href="project.shtml">Read More...</a></p>
+      </span>
+
+</div>

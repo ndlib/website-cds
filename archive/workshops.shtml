@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!-- InstanceBegin template="/Templates/cds_template_left.dwt" codeOutsideHTMLIsLocked="false" --> <!--<![endif]-->
+<head>
+<meta charset="utf-8" />
+
+<!-- Set the viewport width to device width for mobile -->
+<meta name="viewport" content="width=device-width" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Workshops | Center for Digital Scholarship</title>
+<!-- InstanceEndEditable -->
+<!-- Included CSS Files (Uncompressed) -->
+<!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  
+<!-- Included CSS Files (Compressed) -->
+<link rel="stylesheet" href="/css/foundation.min.css">
+<link rel="stylesheet" href="/css/app.css">
+<link rel="stylesheet" href="/css/fonts.css">
+
+<script src="../javascripts/modernizr.foundation.js"></script>
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700,300italic' rel='stylesheet' type='text/css'>
+  <!-- InstanceBeginEditable name="head" -->
+  <style type="text/css">
+<!--
+.style4 {color: #006699; font-weight: bold; } <!--gray blue-->
+.style6 {color: #006699; font-style: italic; }
+.style8 {color: #006699}
+.style10 {color: #000099; font-style: italic; } <!--dark blue-->
+.style11 {color: #000066}
+.style13 {color: #FF9900} <!--orange-->
+.style14 {
+  color: #000066;
+  font-style: italic;
+}
+.style15 {color: #CC9900} <!--gold-->
+  </style>
+
+<!-- InstanceEndEditable -->
+</head>
+<body>
+
+<div id="wrapper">
+<header id="header" role="banner" class="gtype blue">
+    <hgroup>
+      <h3 class="nddotedu"><a href="http://nd.edu">University <i>of</i> Notre Dame <img src="/images/ndmark300.png" class="ndmark" alt="University of Notre Dame"></a></h3>
+      <h2 class="dept-prov"><a href="http://library.nd.edu">Hesburgh Libraries</a></h2>
+      <h1><a href="/cds" accesskey="1">Center <span>for</span> Digital Scholarship</a></h1>
+    </hgroup>
+    <div id="header-util">
+      <form method="get" id="search-header" action="/search/" role="search"><input type="hidden" name="as_sitesearch" value="nd.edu"><input type="hidden" name="entqr" value="3"><label for="search-input">Search</label><input type="search" name="q" id="search-input" placeholder="Search" accesskey="4"><button type="submit" id="search-button">Search</button></form>
+      
+    </div>
+</header></div>
+
+<div class="rotator">
+  <div class="row">
+    <div class="twelve columns"><!-- InstanceBeginEditable name="banner" -->
+
+    <!-- InstanceEndEditable --></div>
+  </div>
+</div>
+<!--#include virtual="/ssi/nav.shtml" -->
+<div class="row content">
+    
+  <div class="twelve columns full">
+      
+
+      
+    <div class="row content-inner">
+      <div class="three columns sidebar">
+        <!-- InstanceBeginEditable name="left-column" --><!--#include virtual="/ssi/nav-workshops.shtml" --><iframe src="https://api3.libcal.com/embed_mini_calendar.php?mode=month&iid=3037&cal_id=447&l=10&tar=0&h=500&c=&z=" style="border-width:0" width="90%" height="700" frameborder="0" scrolling="yes"></iframe>
+        <!-- InstanceEndEditable -->
+      </div>
+      <div class="nine columns"><!-- InstanceBeginEditable name="content" -->
+        <h1>Workshops</h1>
+        <p>The  Center for Digital Scholarship is pleased to offer an expanded selection of introductory workshops. Workshops run 1 hour unless otherwise specified. Attendance is free, and all Notre Dame students, faculty, and  staff are  welcome to attend. </p>
+        <p>To see scheduled course dates and  register, see the Library Workshops <a href="http://nd.libcal.com/calendar/allworkshops#!/month/2015/03" target="_blank">Registration Portal</a>. </p>
+        <p>Workshops can also be taught on-demand for classes or small  groups.  Please contact <a href="mailto:cds@nd.edu">cds@nd.edu</a> with inquiries.<br>
+          <br>
+        </p>
+        <h5><span class="style4">ONLINE GIS MODULES<br>
+          </span><a href="https://edge.edx.org/courses/course-v1:NotreDame+GIS000+0000/about" target="_blank" class="style14">Click here to create an edX account and enroll in the online modules!</a><br>
+          <br>
+        </h5>
+        <h5><span class="style4"><a name="Top"></a>FALL/SPRING SEMESTER WORKSHOPS </span><span class="style6"><br>
+          <br>
+          </span><a href="#modeling">3D Modeling</a> <span class="style13">|</span> <a href="#DataAnalysis">Data Use &amp; Analysis</a> | <a href="#dh">Digital Humanities</a> <span class="style15">|</span> <a href="#GIS">GIS</a> | <a href="#Multimedia">Multimedia Tools</a> <span class="style15">|</span> <a href="#TextMining">Text Mining &amp; Analysis</a> <span class="style8"><span class="style13">|</span><span class="style11"><a href="#visual"> Visual Resources</a></span></span><span class="style10"><br>
+          </span><span class="style6"><a href="http://nd.libcal.com/calendar/allworkshops#!/month/2015/03" target="_blank"><strong><br>
+          <br>
+          </strong></a></span><span class="style10"><a href="http://nd.libcal.com/calendar/allworkshops#!/month/2015/03" target="_blank"><strong>
+          Register Now!</strong></a><br>
+        </span></h5>
+        <h4><br>
+        <a name="modeling"></a>3D Modeling &amp; Printing </h4>
+        <p><em>Presenter: Adam Heet | Digital Projects Specialist</em> <br>
+        </p>
+        <p><strong>SketchUp Introductory Tools</strong><br>
+        <b style="font-weight:normal;" id="docs-internal-guid-4b899fee-e072-8291-d2e3-b1d3fa12106a"><span style="color:#000000;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;">This Workshop will focus on utilizing SketchUp's large tool. &nbsp;We will set the stage for success by understanding how to avoid 3D modeling pitfalls before they happen. &nbsp;Attendees will leave with an appreciation of the core principles that guide a successful SketchUp model. &nbsp;Personal laptops are encouraged as the workshop will operate as a live demo where attendees may follow along and ask questions.</b></p>
+        <p><strong>SketchUp Intermediate Tools</strong><br>
+        </strong><b style="font-weight:normal;" id="docs-internal-guid-4b899fee-e072-dfc8-2b8f-f58e8c91e09b2"><span style="color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;">This Workshop will focus build upon the earlier SketchUp Introductory Tools session though it is not a prerequisite. We will explore layering and grouping of components to allow maximum flexibility in your modeling options. &nbsp;Attendees will leave with an understanding of SketchUp's Scenes, Styles, and Components. Personal laptops are encouraged as the workshop will operate as a live demo where attendees may follow along and ask questions.</span></b></p>
+        <p><strong>SketchUp Modeling for 3D Printing<br>
+        </strong><b style="font-weight:normal;" id="docs-internal-guid-4b899fee-e073-d583-8c35-9763bcf3350c"><span style="color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;">This workshop will focus on the necessary specs for a SketchUp model to smoothly transition into a 3D Print-ready file. &nbsp;We will focus on the use of Components and Groups within your model and leveraging a few SketchUp Plug-ins to automate much of the process. &nbsp;Attendees will have the option to print a small model at no additional charge after the conclusion of the session. Personal laptops are encouraged as the workshop will operate as a live demo where attendees may follow along and ask questions.</span></b></p>
+        <p>[<a href="#Top">top</a>]</p>
+        <h4><br>
+          <br>
+        <a name="DataAnalysis"></a>Data Use &amp; Analysis</h4>
+        <p><em>Presenter: James Ng | Economics  Librarian</em> <br>
+        </p>
+        <p><strong>Introduction to Using Stata for Data  Analysis</strong><br>
+        Stata  is a complete statistical software package that provides everything you need  for data manipulation and statistical analysis. It is widely  used in empirical research in the social sciences and epidemiology. This  workshop will demonstrate Stata&rsquo;s frequently-used capabilities in data  manipulation and analysis.  No knowledge of statistics is assumed. [<a href="workshops/resources/index.shtml">Related resources</a>]</p>
+        <p><strong>Introduction to Python/pandas</strong><br>
+        <span style="color: rgb(51, 51, 51); font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 20.8px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255);"><span style="color: rgb(34, 34, 34); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); display: inline !important; float: none;">Python is a free, open source general-purpose programming language that has been widely adopted in the research community. Pandas is a free Python library for data manipulation and analysis. This introductory<span class="Apple-converted-space"> </span></span><span class="il" style="color: rgb(34, 34, 34); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);">workshop</span><span style="color: rgb(34, 34, 34); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); display: inline !important; float: none;"><span class="Apple-converted-space"> </span>will demonstrate some of the capabilities of pandas for data manipulation and analysis. No prior knowledge is assumed.</span><br>
+        <br>
+        </span><strong>Hands-On Stata</strong><br>
+        <span style="color: rgb(51, 51, 51); font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 20.8px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255);"><span style="color: rgb(34, 34, 34); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); display: inline !important; float: none;">Stata is a commercial statistical software package popular in the social sciences, especially economics.. It is flexible and allows relatively easy access to programming features. In this hands-on<span class="Apple-converted-space"> </span></span><span class="il" style="color: rgb(34, 34, 34); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);">workshop</span><span style="color: rgb(34, 34, 34); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); display: inline !important; float: none;">, participants will be guided through the basics of data manipulation, including manipulating variables and merging multiple datasets. Participants will also produce analytical output such as tables, graphs, and maps.<span class="Apple-converted-space"> </span></span><span style="color: rgb(34, 34, 34); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); display: inline !important; float: none;">No prior knowledge is assumed.</span> <span style="color: rgb(34, 34, 34); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); display: inline !important; float: none;">College-level knowledge of statistics is helpful but not required.<span class="Apple-converted-space"> </span></span><span style="color: rgb(34, 34, 34); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); display: inline !important; float: none;">This is NOT a<span class="Apple-converted-space"> </span></span><span class="il" style="color: rgb(34, 34, 34); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);">workshop</span><span style="color: rgb(34, 34, 34); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); display: inline !important; float: none;"><span class="Apple-converted-space"> </span>on statistical methods or big data.</span><br>
+        <br>
+        </span><strong>Using Stata for Data Work</strong><br>
+        <span style="color: rgb(51, 51, 51); font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 20.8px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255);">We will work through some examples of basic data manipulation, including manipulating variables and merging multiple datasets. We will also work through some examples of producing analytical output such as tables, graphs, and maps.</span></p>
+        <p>[<a href="#Top">top</a>] <br>
+          <br>
+        </p>
+        <h4><a name="dh"></a>Digital Humanities </h4>
+        <p><em>Presenter: Daniel Johnson | Digital Humanities &amp; English Literature Librarian</em> <br>
+        </p>
+        <p><strong>DH Primer: what does computation in the humanities look like, and how does it work?</strong><br>
+        <span style="color: rgb(34, 34, 34); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); display: inline !important; float: none;">A workshop for those who are curious about digital humanities, but don’t know where to start. What are DH tools and projects, what impact do they have on humanistic study, what would I need to learn to start dabbling myself? Come explore these and related issues. No technical experience required.</span></p>
+        <p><strong>Digital Scholarly Editing - the Very Basics</strong><br>
+        Participants will learn about digital text editing by examining existing digital editions and peeking under the hood at their underlying software. We will discuss, at an accessible level, the logic of &ldquo;tagging&rdquo; that is used in editing environments such as TEI XML, HTML, markdown, and LaTeX, and how it expands editorial options for scholars. Designed for the newcomer and the curious, no previous experience with these technologies is needed.</p>
+        <p><strong>Digital Text Editing with the TEI</strong><br>
+          <span style="color: rgb(34, 34, 34); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); display: inline !important; float: none;"><span style="color: rgb(34, 34, 34); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); display: inline !important; float: none;">This workshop on the Text Encoding Initiative (TEI) is a quick introduction to digital scholarly editing, as well as a good refresher for previous dabblers. Participants will learn how to navigate the TEI Guidelines, encode a very short piece of text, and transform it into a simple web page. Though not required,</span><a href="http://dh.obdurodon.org/what-is-xml.xhtml" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://dh.obdurodon.org/what-is-xml.xhtml&amp;source=gmail&amp;ust=1485554991961000&amp;usg=AFQjCNGBXwfztv2XyreqDbSiNdWjNqB3uQ" style="color: rgb(17, 85, 204); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);"><span class="Apple-converted-space"> </span>some familiarity with XML</a><span style="color: rgb(34, 34, 34); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); display: inline !important; float: none;">would be helpful.</span><br>
+          <br>
+          </span><strong>Read/Download - A Digital Humanities Discussion Group</strong> [<a href="http://library.nd.edu/readdownload/">Read/Download home page</a>]<br>
+        Read/Download is a discussion group that inhabits the perceived boundary between &ldquo;traditional&rdquo; reading and computational interpretation of culture. Participants will examine topics in humanistic study that have been touched by technology and weigh the implications for art and scholarship. Sessions are anchored by short suggested readings and may include layman-friendly code analysis. All are welcome, and format is flexible: participants interested in doing guest presentations are warmly encouraged to contact Dan Johnson (<a data-cke-saved-href="mailto:djohns27@nd.edu" href="mailto:djohns27@nd.edu"><span data-scayt-word="djohns27">djohns27</span>@nd.edu</a>) about possibilities.</p>
+        <p>[<a href="#Top">top</a>]        <br>
+          <br>
+        </p>
+        <h4><a name="GIS"></a>Geographic Information Systems (GIS)<br>
+        </h4>
+        <p><em>Presenter: Matthew Sisk | GIS Librarian </em><strong><br>
+          <br>
+          Geographic Information Systems (GIS): A  Brief Introduction</strong><br>
+          GIS  is a system of hardware and software for the storage, retrieval, mapping and  analysis of geographic data. It provides a system for organizing spatial  and related information into a single analytical framework and is used in a  variety of academic and industry settings for understanding spatial  relationships. This workshop will address the question &ldquo;What is GIS,&rdquo; provide a  variety of examples, and present the resources available in the Center for  Digital Scholarship. [<a href="workshops/resources/index.shtml">Related resources</a>]<br>
+          <br>
+          <strong>Basic Satellite Imagery Analysis </strong><strong><br>
+          </strong>Using wavelengths of light beyond  what our eyes can see, multi-spectral satellite imagery can tell us a lot about  the earth's environment. This workshop will present both the main types of  satellite imagery available for GIS and remote sensing applications and some of  the different analytical techniques.  No  previous use of satellite imagery is necessary, but some understanding of the  fundamentals of GIS would be useful.<br>
+          <strong><br>
+          Georeferencing in ArcGIS </strong><strong><br>
+          </strong>A key component of GIS analysis  is overlaying different layers of spatial data.   In the case of scanned maps or photographs, they have to be  georeferenced before they can be used. This involves taking an image of an  unknown location and telling the GIS software where is located in the real  world. This workshop will go over the process for georeferencing scanned maps  and images with and without coordinates. [<a href="workshops/resources/index.shtml">Related resources</a>]<br>
+         <br>
+         <strong>Incorporating Time into GIS</strong><br>
+Visualizing time in a static map or in GIS software has generally been a difficult process. Some new innovations have made it dramatically easier, though specific types and layouts of data are required. This workshop introduces the temporal tools in ESRI's ArcGIS software package and goes over the current limitations.<br>
+<br>
+<strong>Using GIS Data in R</strong><br>
+<span style="color: rgb(51, 51, 51); font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 20.8px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255);">This workshop will go over some of the basics of using spatial data in the R programming language. Basic tasks like opening and using<span class="Apple-converted-space"> </span>shapefiles<span class="Apple-converted-space"> </span>and<span class="Apple-converted-space"> </span></span><span class="scayt-misspell-word" data-scayt-word="georeferenced" style="padding-bottom: 0px; display: inline; color: rgb(51, 51, 51); font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 20.8px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background: url(&quot;waveline.gif&quot;) 50% 100% repeat-x rgb(255, 255, 255);">georeferenced</span><span style="color: rgb(51, 51, 51); font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 20.8px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255);"><span class="Apple-converted-space"> </span>raster images will be outlined. No previous experience with GIS data is assumed, but some background in using R and<span class="Apple-converted-space"> </span></span><span class="scayt-misspell-word" data-scayt-word="Rstudio" style="padding-bottom: 0px; display: inline; color: rgb(51, 51, 51); font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 20.8px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background: url(&quot;waveline.gif&quot;) 50% 100% repeat-x rgb(255, 255, 255);">Rstudio</span><span style="color: rgb(51, 51, 51); font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 20.8px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255);"><span class="Apple-converted-space"> </span>is encouraged. </span><br>
+<br>
+<strong>Using Python in ArcGIS</strong><br>
+          The ArcPy module provides a powerful tool for advanced users to automate GIS  workflows, create custom tools and interact with other packages using the  Python programming language.  This  workshop will demonstrate how to Python scripts for use in ArcGIS.  Familiarity with GIS software is required,  but no programing experience is necessary.<br>
+          <br>
+          <strong>Vector Editing in ArcGIS</strong><strong><br>
+        </strong>A common task in GIS workflows is  creating vector (point-based) data either from text, scanned paper maps, or  from features visible in aerial imagery.   This workshop will go over basic and advanced techniques for creating  vector data.</p>
+        <p>[<a href="#Top">top</a>]        </p>
+        <h4><br>
+        <a name="Multimedia"></a>Multimedia Tools</h4>
+        <p><em>Presenter: Julie Vecchio | Assistant Director, Center for Digital Scholarship</em></p>
+        <p dir="ltr" style="color: rgb(51, 51, 51); font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 20.8px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px;"><strong>Green Screen Basics with the One Button Studio &amp; iMovie<br>
+        </strong>The One Button Studio (OBS) is a simplified digital video recording setup that can be used without any previous video production experience. The design of the studio allows you to create video projects without having to know anything about lights and cameras. The OBS also offers an optional green/blue screen background curtain. In this session, participants will learn and practice how to make a basic recording in the OBS using the green/blue screen background, and how to use <span data-scayt-word="iMovie" style="padding-bottom: 0px; display: inline; background: url(&quot;waveline.gif&quot;) 50% 100% repeat-x transparent;">iMovie</span> to ​add a still background image, add a slide deck, and add a moving background.<br>
+        <br>
+        <strong>Introduction to the One Button Studio &amp; iMovie Basics</strong><br>
+        This workshop will introduce the One Button Studio (OBS) and provide a brief overview of iMovie basics. The OBS is a simplified digital video recording setup that can be used without any previous video production experience. The design of the studio allows you to create video projects without having to know anything about lights and cameras. In this session, participants will learn and practice how to reserve and access the One Button Studio,          how to make a basic recording in the OBS, and how to use <span data-scayt-word="iMovie" style="padding-bottom: 0px; display: inline; background: url(&quot;waveline.gif&quot;) 50% 100% repeat-x transparent;">iMovie</span> to​edit clips together and add a soundtrack.<br>
+        <br>
+        <strong>Introductory Podcasting with the Sound Studio and Audacity</strong><br>
+        In this session, participants will learn and practice how to make a basic voice recording in the Sound Studio, and how to use Audacity to        edit audio, reduce noise, add multiple tracks, and export a .mp3 file.                  <br>
+        <br>
+        <strong>Multimedia Timelines with timeline.js<br>
+        </strong><span style="color: rgb(51, 51, 51); font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 20.8px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255);">Learn how to create media-rich, interactive timelines using a Google Spreadsheet and<span class="Apple-converted-space"> </span></span><a data-cke-saved-href="http://timeline.knightlab.com/" href="http://timeline.knightlab.com/" style="color: rgb(7, 130, 193); font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 20.8px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);">timeline.js</a><span style="color: rgb(51, 51, 51); font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 20.8px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255);"><span class="Apple-converted-space"> </span>- a free, easy-to-use web-based tool.<span class="Apple-converted-space">
+         </span></span></p>
+        <p>[<a href="#Top">top</a>] <br>
+        </p>
+        <p><br>
+        <a name="TextMining"></a></p>
+        <h4>Text Mining &amp; Analysis</h4>
+        <p><em>Presenter: Eric Lease Morgan | Digital Initiatives Librarian</em> </p>
+        <p><strong>2014 Foundations of Text Analysis 5-Week Series </strong> [<a href="http://library.nd.edu/textanalysis/index.shtml" target="_blank">course page</a>]<strong><br>
+        </strong></p>
+        <p><strong>Analyzing Articles Using JSTOR&rsquo;s Data for  Research Service</strong><strong><br>
+          </strong>Data For Research (DFR) is an alternative interface to JSTOR enabling  the reader to download statistical information describing JSTOR search results.  For example, using DFR a person can create a graph illustrating when sets of  citations where written, create a word cloud illustrating the most frequently  used words in a journal article, or classify sets of JSTOR articles according  to a set of broad subject headings. More advanced features enable the reader to  extract frequently used phrases in a text as well as list statistically  significant keywords. JSTOR's DFR is a powerful tool enabling the reader to  look for trends in large sets of articles as well as drill down into the  specifics of individual articles. This hands-on workshop leads the student  through a set of exercises demonstrating these techniques.<br>
+          <br>
+          <em>Requirements: </em>Attendees are  expected to bring their own computer to the workshop. Attendees are also  expected to register for a JSTOR DFR user account prior to the date of the  workshop. See: <a href="http://dfr.jstor.org/accounts/register/">http://dfr.jstor.org/accounts/register/</a><br>
+          <br>
+          <strong>How to Read 11 Million Books</strong> [<a href="../../ltd/registration/group/33/" target="_blank">register</a>]<strong><br>
+        </strong>The<span class="Apple-converted-space"> </span><span class="scayt-misspell-word" data-scayt-word="HathiTrust" style="padding-bottom: 0px; display: inline; background: url(&quot;waveline.gif&quot;) 50% 100% repeat-x transparent;">HathiTrust</span><span class="Apple-converted-space"> </span>(<a data-cke-saved-href="http://hathitrust.org/" href="http://hathitrust.org/" style="color: rgb(7, 130, 193);">http://hathitrust.org</a>) is a collection of 11 million research library electronic texts digitized by Google, and this hands-on class teaches participants how to use computers to analyze these materials. Sometimes called “distant” or “scalable” reading — forms of digital humanities research — this class demonstrates ways to literally count and tabulate the frequency of words in a text in order to find patterns &amp; anomalies within it. Based on the resulting analysis, it is possible to more quickly learn what a corpus is about when compared to reading the corpus without the use of a computer.<span class="Apple-converted-space"> </span><span class="scayt-misspell-word" data-scayt-word="HathiTrust" style="padding-bottom: 0px; display: inline; background: url(&quot;waveline.gif&quot;) 50% 100% repeat-x transparent;">HathiTrust</span><span class="Apple-converted-space"> </span>materials lend themselves quite easily to this sort of analysis. There are no prerequisites, but participants are expected to bring their own laptop to the session.        <br>
+        <br>
+          <strong>Introduction to Text Mining<br>
+          </strong>This hands-on class affords participants to learn the benefits of using computers to analyze textual corpora such as a collection of books or journal articles. Sometimes called “distant” or “scalable” reading, text mining — a form of digital humanities research — is a way literally count &amp; tabulate the frequency of words (or phrases) in a text in order to find patterns &amp; anomalies within it. Based on the resulting analysis, it is possible to more quickly learn what a corpus is about when compared to reading the corpus without the use of a computer. There are no prerequisites, but participants are expected to bring their own laptop to the session.<br class="Apple-interchange-newline">
+        </p>
+        <p><strong>Simple Text Analysis with Voyant Tools</strong><strong><br>
+          </strong>Voyant Tools is a Web-based application for doing a number of  straightforward text analysis functions, including but not limited to: word  counts, tag cloud creation, concordancing, and word trending. Using Voyant  Tools a person is able to read a document &quot;from a distance&quot;. It  enables the reader to extract characteristics of a corpus quickly and  accurately. Voyant Tools can be used to discover underlying themes in texts or  verify propositions against them. This one-hour, hands-on workshop familiarizes  the student with Voyant Tools and provides a means for understanding the  concepts of text mining.<br>
+          <br>
+        <em>Requirements</em>:         Attendees are expected to bring their own computer to the workshop.  Attendees are also expected to bring to the workshop two URLs pointing to plain  text (not Word, HTML nor PDF) versions of any novel-length pieces of fiction.  These URLs (and the corresponding pieces of fiction) will be analyzed by the  student. Project Gutenberg (<a href="http://www.gutenberg.org">www.gutenberg.org</a>) is a good place to find  novel-length works. </p>
+        <p>[<a href="#Top">top</a>]          <br>
+          <strong><br>
+        </strong></p>
+        <h4><a name="visual"></a>Visual Resources</h4>
+        <p><em>Presenter: Denise J. Massa | Curator, Visual Resources Center</em></p>
+        <p><strong>Finding Images: Teaching and Researching through ARTstor</strong><strong><br>
+        </strong>ARTstor is an educational resource that shares over a million digital images rich in the a<span style="color: rgb(48, 48, 46); background-image: initial; background-repeat: initial;">rts, architecture, humanities,and sciences.  This workshop combines online demonstrations and hands-on practice to show </span>participants how to search for images, <span style="color: rgb(48, 48, 46); background-image: initial; background-repeat: initial;">build a lecture, present images online or offline and organize image groups for personal or shared uses.  ARTstor’s Digital Library covers a wide range of  </span>pedagogical disciplines including<span style="color: rgb(48, 48, 46); background-image: initial; background-repeat: initial;">:  African-American Studies, American Studies, Anthropology, Architecture &amp; the Built Environment, Asian Studies, Classical Studies, Decorative Arts, Design, Fashion &amp; Costume, Languages &amp; Literature, Latin American Studies, Maps &amp; Geography, Medieval Studies, Medicine &amp; Natural Science, Middle Eastern Studies, Music History, Native American Studies, Photography, Religious Studies, Renaissance Studies, Theater and Dance and Women’s Studies. </span>                   </p>
+        <p><em>Requirements:</em> Attendees are expected to bring their own computer to the workshop.
+        </p>
+        <p>[<a href="#Top">top</a>] <br>
+        </p>
+      <!-- InstanceEndEditable --></div>
+    </div>
+  </div>
+
+     
+
+  
+</div>
+
+<div class="row">
+  <div class="twelve columns">
+    <footer role="contentinfo" class="vcard" id="footer">
+    <p class="url fn org" id="copyright" style="display:none;">
+      <a href="http://nd.edu/copyright/">Copyright</a> &copy; 2013
+      <a class="org" href="http://nd.edu">University of Notre Dame</a>
+    </p>
+
+    <p class="adr" id="contact-info">
+      <span class="address"><span class="street-address">Hesburgh Library</span>, <span class="locality">Notre Dame</span>, <span title="Indiana" class="region">IN</span> <span class="postal-code">46556</span></span>
+      <span class="tel"><span class="type">Phone</span> 574.631.4900</span>
+      <span class="tel fax"><span class="type">Fax</span> 574.631.6772</span>
+      <span class="email"><a href="mailto:cds@nd.edu">cds@nd.edu</a></span>
+    </p>
+    <a id="ndmark" href="http://library.nd.edu"><img alt="University of Notre Dame" class="ndmark" src="/images/ndmark300.png"></a>
+  </footer>
+  </div>
+</div>
+  
+  
+  
+
+
+  
+  
+
+  
+<!-- Included JS Files (Compressed) -->
+<script src="/js/jquery.js"></script>
+<script src="/js/foundation.min.js"></script>
+
+  
+<!-- Initialize JS Plugins -->
+<script src="/js/app.js"></script>
+
+  
+<script>
+    $(window).load(function(){
+      $("#featured").orbit({
+        animation: 'fade',
+        advanceSpeed: 14000,  
+        bullets: true,
+        captions: true,
+        captionAnimation: 'slideOpen',  
+      });
+      $('ul.orbit-bullets').wrap('<div class="slide-dots" />');
+    });
+    </script> 
+  
+</body>
+<!-- InstanceEnd --></html>

@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!-- InstanceBegin template="/Templates/cds_template_ipad.dwt" codeOutsideHTMLIsLocked="false" --> <!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width" />
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>3D Guidelines | Center for Digital Scholarship</title>
+  <!-- InstanceEndEditable -->
+  <!-- Included CSS Files (Uncompressed) -->
+  <!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  
+  <!-- Included CSS Files (Compressed) -->
+  <link rel="stylesheet" href="/cds/css/foundation.min.css">
+  <link rel="stylesheet" href="/cds/css/app.css">
+  <link rel="stylesheet" href="/cds/css/fonts.css">
+  <link rel="stylesheet" href="/cds/css/ipad.css">
+  <script src="../../javascripts/modernizr.foundation.js"></script>
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700,300italic' rel='stylesheet' type='text/css'>
+  <!-- InstanceBeginEditable name="head" -->
+  <!-- InstanceEndEditable -->
+</head>
+<body>
+
+<div id="wrapper">
+<header id="header" role="banner" class="gtype blue">
+    <hgroup>
+      <h3 class="nddotedu"><a href="http://nd.edu">University <i>of</i> Notre Dame <img src="/cds/images/ndmark300.png" class="ndmark" alt="University of Notre Dame"></a></h3>
+      <h2 class="dept-prov"><a href="http://library.nd.edu">Hesburgh Libraries</a></h2>
+      <h1><a href="/cds" accesskey="1">Center <span>for</span> Digital Scholarship</a></h1>
+    </hgroup>
+    <div id="header-util">
+      <form method="get" id="search-header" action="/search/" role="search"><input type="hidden" name="as_sitesearch" value="nd.edu"><input type="hidden" name="entqr" value="3"><label for="search-input">Search</label><input type="search" name="q" id="search-input" placeholder="Search" accesskey="4"><button type="submit" id="search-button">Search</button></form>
+      
+    </div>
+</header></div>
+
+<div class="rotator">
+	<div class="row">
+	  <div class="twelve columns"><!-- InstanceBeginEditable name="banner" -->
+
+    <!-- InstanceEndEditable --></div>
+	</div>
+</div>
+<!--#include virtual="/cds/ssi/nav.shtml" -->
+  <div class="row content">
+    <div class="twelve columns full">
+      
+
+      
+      <div class="row content-inner">
+          
+          <div class="twelve columns"><!-- InstanceBeginEditable name="content" -->
+  <h1>3D Print Guidelines<a name="top"></a></h1>
+        <p><a href="#who">Who Can Print 3D Objects<br>
+          </a><a href="#timeframe">Production Timeframe<br>
+          </a><a href="#specs">Specifications</a><br>
+          <a href="#cost">Cost</a><br>
+          <a href="#limitations">Limitations</a><br>
+          <a href="#design">Design an Object</a><br>
+          <a href="#submit">Submit Print Job for Production<br>
+          </a><a href="#watch">Watch for Notification of Production Completion<br>
+          </a><a href="#retrieve">Retrieve Printed Object</a></p>
+        <p>&nbsp;</p>
+        <h5><a name="who"></a>Who Can Print 3D Objects<br>
+        </h5>
+        <p>Currently enrolled students and faculty/staff</p>
+        <p><br>
+          [<a href="#top">top</a>] </p>
+        <h5><a name="timeframe"></a>Production Timeframe</h5>
+        <p> <em>Patrons are strongly advised to <strong>submit their files at least 5 business days in advance</strong> of important deadlines.</em></p>
+        <ul>
+          <li>
+            <p>Production timeframe may vary depending upon such factors as the object's printer file itself, staff and device availability, and/or unexpected device or material issues that may arise. Thus, the CDS does <strong>not</strong> guarantee specific completion times.</p>
+          </li>
+          <li>Generally, objects are printed on a first-come, first-served basis; however, priority will be given to students printing objects related to graded assignments for a course in which they are currently enrolled.</li>
+          </ul>
+        <p><br>
+[<a href="#top">top</a>]</p>
+        <h5><a name="specs"></a>Specifications<br>
+        </h5>
+        <table width="308" border="1">
+          <tr valign="top">
+            <td width="100"><p><strong>Supported File Types</strong></p>
+              <ul>
+                <li>.obj</li>
+                <li>.stl</li>
+                <li>.thing</li>
+            </ul></td>
+            <td width="100"><p><strong>Maximum Build Size</strong></p>
+              <ul>
+                <li>X (l) 250 mm/9.8 in</li>
+                <li>Y (w) 160 mm/6.3 in</li>
+                <li>Z (h) 150 mm/5.9 in</li>
+            </ul></td>
+            <td width="100"><p><strong>Available ABS Filament</strong></p>
+            <ul>
+              <li>True Blue</li>
+              <li>True Red</li>
+              <li>True White</li>
+            </ul></td>
+          </tr>
+        </table>
+        <p>[<a href="#top">top</a>] </p>
+        <h5><a name="cost"></a>Cost</h5>
+        <p><strong>Price per Gram:</strong> $0.25</p>
+        <ul>
+          <li>
+            <p>Cost will be charged to your account upon completion of print job.</p>
+            <ul>
+              <li>In MakerWare, select &quot;Preview before Printing&quot; to see object's approximate weight in grams.</li>
+            </ul>
+          </li>
+          <li>Failed prints due to <strong>user error will still be charged</strong> to the patron's account.</li>
+          <li>Failed prints due to <strong>staff error or hardware failure will not be charged</strong> to the user's account.</li>
+          <li>The cost to print objects that have not been retrieved within two weeks of completion will be charged to the patron's account as a library fine.</li>
+          </ul>
+        <p><br>
+[<a href="#top">top</a>]</p>
+        <h5><a name="limitations"></a>Limitations</h5>
+        <ul>
+          
+          <li><strong>All patrons must comply with the University of Notre Dame Policy  on the Responsible Use of Information Technology Resources (</strong><a href="http://policy.nd.edu/policy_files/ResponsibleUseITResourcesPolicy.pdf"><strong>Policy 7.4</strong></a><strong>).</strong> Examples of content that will <strong>not</strong> be produced includes, but is not limited to, the following: </li>
+        </ul>
+        <p style="text-align:justify;"><em></em></p>
+        <ul>
+          <ul>
+            <li>Objects are in any way <strong>illegal</strong>, in <strong>violation of University rules/policies</strong>, or in <strong>violation of any applicable contracts/licenses</strong> (Policy Statement  2.1)<br>
+            <strong></strong></li>
+            <li>Objects that are part of <strong>production print jobs</strong> (large numbers of  identical objects), as opposed to rapid prototypes (Policy Statement 2.3)<br>
+            <strong></strong></li>
+            <li>Objects that will be <strong>utilized for commercial purposes</strong> or <strong>for personal financial gain</strong> (2.4)</li>
+            <li>Objects that are <strong>obscene/offensive</strong> (except for  officially approved, legitimate academic or University purposes) (Policy  Statement 2.5)</li>
+            <li> Objects that <strong>infringe upon intellectual property rights</strong> (Policy Statement 2.6)<br>
+              <br>
+            </li>
+          </ul>
+<li>The CDS reserves the right to  request written verification of University approval or assignment  specifications from patrons, and/or to refuse production of content.</li>
+<li>The CDS is not responsible for  the functionality or quality of objects produced on the 3D printer.</li>
+        </ul>
+        <p><br>
+[<a href="#top">top</a>]</p>
+        <h5><a name="design"></a>Design an Object</h5>
+        <ul>
+          <li><a href="http://www.makerbot.com/makerware/" target="_blank">MakerBot  design software</a> is available for use on CDS computers</li>
+          <li>Select or modify an object from the open-source <a href="http://www.makerbot.com/thingiverse/" target="_blank">MakerBot design community</a></li>
+        </ul>
+        <p><br>
+          [<a href="#top">top</a>]</p>
+        <h5><a name="submit"></a>Submit Print Job for Production</h5>
+        <p><a href="http://form.jotform.co/form/40094355311850" target="_blank">3D Print Job Requisition Form</a> <br>
+        </p>
+        <p><br>
+[<a href="#top">top</a>]</p>
+        <h5><a name="watch"></a>Watch for Notification of Production Completion</h5>
+        <p>Remember to check the email account affiliated with the NetID listed on the submitted print job requisition.
+        </p>
+        <p><br>
+          [<a href="#top">top</a>]</p>
+        <h5><a name="retrieve"></a>Retrieve Printed Object</h5>
+        <ul>
+          <li>Remember to bring your ND ID card when picking up your object.          </li>
+          <li>Reminder: objects not retrieved within two weeks of completion will be charged to the patron's account as a fine.</li>
+        </ul>
+        <p><br>
+[<a href="#top">top</a>]<br>
+      </p>
+          <!-- InstanceEndEditable --></div>
+      </div>
+    </div>
+
+     
+
+    
+  </div>
+
+  <div class="row">
+    <div class="twelve columns">
+      <footer role="contentinfo" class="vcard" id="footer">
+    <p class="url fn org" id="copyright" style="display:none;">
+      <a href="http://nd.edu/copyright/">Copyright</a> &copy; 2013
+      <a class="org" href="http://nd.edu">University of Notre Dame</a>
+    </p>
+
+    <p class="adr" id="contact-info">
+      <span class="address"><span class="street-address">Hesburgh Library</span>, <span class="locality">Notre Dame</span>, <span title="Indiana" class="region">IN</span> <span class="postal-code">46556</span></span>
+      <span class="tel"><span class="type">Phone</span> 574.631.4900</span>
+      <span class="tel fax"><span class="type">Fax</span> 574.631.6772</span>
+      <span class="email"><a href="mailto:cds@nd.edu">cds@nd.edu</a></span>
+    </p>
+    <a id="ndmark" href="http://library.nd.edu"><img alt="University of Notre Dame" class="ndmark" src="/cds/images/ndmark300.png"></a>
+  </footer>
+    </div>
+  </div>
+  
+  
+  
+
+
+  
+  
+
+  
+  <!-- Included JS Files (Compressed) -->
+  <script src="/cds/js/jquery.js"></script>
+  <script src="/cds/js/foundation.min.js"></script>
+
+  
+  <!-- Initialize JS Plugins -->
+  <script src="/cds/js/app.js"></script>
+
+  
+    <script>
+    $(window).load(function(){
+      $("#featured").orbit({
+        animation: 'fade',
+        advanceSpeed: 14000,  
+        bullets: true,
+        captions: true,
+        captionAnimation: 'slideOpen',  
+      });
+      $('ul.orbit-bullets').wrap('<div class="slide-dots" />');
+    });
+    </script> 
+  
+</body>
+<!-- InstanceEnd --></html>

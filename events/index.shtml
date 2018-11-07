@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!-- InstanceBegin template="/Templates/cds_template_left.dwt" codeOutsideHTMLIsLocked="false" --> <!--<![endif]-->
+<head>
+<meta charset="utf-8" />
+
+<!-- Set the viewport width to device width for mobile -->
+<meta name="viewport" content="width=device-width" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Events | Center for Digital Scholarship</title>
+<!-- InstanceEndEditable -->
+<!-- Included CSS Files (Uncompressed) -->
+<!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  
+<!-- Included CSS Files (Compressed) -->
+<link rel="stylesheet" href="/css/foundation.min.css">
+<link rel="stylesheet" href="/css/app.css">
+<link rel="stylesheet" href="/css/fonts.css">
+
+<script src="../javascripts/modernizr.foundation.js"></script>
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700,300italic' rel='stylesheet' type='text/css'>
+  <!-- InstanceBeginEditable name="head" -->
+  <style type="text/css">
+<!--
+.style4 {color: #006699; font-weight: bold; }
+.style6 {color: #006699; font-style: italic; }
+.style13 {color: #FFCC99}
+-->
+  </style>
+<!-- InstanceEndEditable -->
+</head>
+<body>
+
+<div id="wrapper">
+<header id="header" role="banner" class="gtype blue">
+    <hgroup>
+      <h3 class="nddotedu"><a href="http://nd.edu">University <i>of</i> Notre Dame <img src="/images/ndmark300.png" class="ndmark" alt="University of Notre Dame"></a></h3>
+      <h2 class="dept-prov"><a href="http://library.nd.edu">Hesburgh Libraries</a></h2>
+      <h1><a href="/" accesskey="1">Center <span>for</span> Digital Scholarship</a></h1>
+    </hgroup>
+    <div id="header-util">
+      <form method="get" id="search-header" action="/search/" role="search"><input type="hidden" name="as_sitesearch" value="nd.edu"><input type="hidden" name="entqr" value="3"><label for="search-input">Search</label><input type="search" name="q" id="search-input" placeholder="Search" accesskey="4"><button type="submit" id="search-button">Search</button></form>
+      
+    </div>
+</header></div>
+
+<div class="rotator">
+	<div class="row">
+	  <div class="twelve columns"><!-- InstanceBeginEditable name="banner" -->
+
+    <!-- InstanceEndEditable --></div>
+	</div>
+</div>
+<!--#include virtual="/ssi/nav.shtml" -->
+  <div class="row content">
+    
+    <div class="twelve columns full">
+      
+
+      
+      <div class="row content-inner">
+        <div class="three columns sidebar">
+          <!-- InstanceBeginEditable name="left-column" --><!--#include virtual="/ssi/nav-spaces.shtml" -->
+          <!-- InstanceEndEditable -->
+        </div>
+          <div class="nine columns"><!-- InstanceBeginEditable name="content" -->
+         <h1>Events<br>
+         </h1>
+         <h5><span class="style4"><a name="top"></a><a href="#upcoming">UPCOMING</a> <span class="style13">|</span> <a href="#archive">EVENT ARCHIVE </a><br>
+          <br>
+          <br>
+          </span><a href="../../instruction/workshops"><br>
+          <span class="style6"><span class="style4"><a name="upcoming"></a></span></span><span class="style4">Upcoming Events</span></a><br>
+          <br>
+           <br>
+         </h5>
+         <h5>GIS Day<br>
+       </h5>
+         <p> November 15, 2017<br>
+         <p>[Information Coming Soon]</p>
+         <h5><br>
+         </h5>
+         <h5><br>
+         </h5>
+         <p>[<a href="#Top">top</a>]<br>
+           <br>
+         </p>
+         <h5><a href="../../instruction/workshops"><span class="style6"><span class="style4"><a name="archive"></a></span></span><span class="style4">Event Archive</span></a><span class="style6"><br>
+          </span><br>
+          </h5>
+         <h5><br>
+Digital Humanities Lightning Talks and Panel<br>
+         </h5>
+         <p> October 3, 2017<br>
+           12 PM - 1 PM<br>
+           Hesburgh Libraries Scholars Lounge <br>
+         <p>[<a href="https://library.nd.edu/event/digital-humanities-panel">More Information</a>]<br>
+           <br>
+         </p>
+         <h5>Research &amp; Statistical Tools Camp<br>
+         </h5>
+         <p> May 18, 2017<br>
+         <p>[<a href="http://library.nd.edu/researchtoolscamp/index.shtml" target="_blank">More Information</a>]<br>
+           <br>
+         </p>
+         <h5>Python Programming for the Humanities</h5>
+         <p>May 19, 2017<br>
+           10 AM - 2:30 PM<br>
+           Center for Digital Scholarship Classroom 129<br>
+           Contact: Dan Johnson (<a href="mailto:djohns27@nd.edu">djohns27@nd.edu</a>)
+           
+           <br>
+           <br>
+         <h5>Research Data &amp; Software Preservation Quality Tool Workshop <br>
+         </h5>
+         <p>May 1-2, 2017<br>
+         <p>[<a href="https://presqt.crc.nd.edu/" target="_blank">More Information</a>]<br>
+           <br>
+         </p>
+         <h5>Catholic Social Teaching and International Human Rights Database Launch Reception<br>
+         </h5>
+         <p>Apr 21, 2017<br>
+         <p>[<a href="http://humanrights.nd.edu/events/2017/04/21/public-launch-convocate-a-new-catholic-social-teachinghuman-rights-research-tool/" target="_blank">More Information</a>]<br>
+           <br>
+         </p>
+         <h5>Hesburgh Libraries Hackathon<br>
+         </h5>
+         <p>Mar 31 - Apr 2, 2017<br>
+         <p>[<a href="https://library.nd.edu/hackathon/" target="_blank">More Information</a>]<br>
+           <br>
+         </p>
+         <h5>GIS Day </h5>
+         <p>Nov 16, 2016<br>
+         <p>[<a href="https://gis.crc.nd.edu/index.php/events" target="_blank">More Information</a>]</p>
+         <h5><br>
+          Rigor &amp; Relevance in Scholarly Publishing: New Realities, New Metrics, New Methods &amp; What it Means for You</h5>
+         <p>Sep 30 - Oct 1, 2016<br>
+         <p>[<a href="http://library.nd.edu/rigorandrelevance/" target="_blank">More Information</a>]<br>
+           <br>
+         </p>
+         <h5>Lecture: Jobs, Roles, Skills, Tools - Working in the Digital Academy </h5>
+         <p>Apr 14, 2016<br>
+         <p>[<a href="http://nd.libcal.com/event/2540916" target="_blank">More Information</a>]</p>
+         <p></p>
+         <h5>Intensive Introduction to TEI <br>
+         </h5>
+         <p>Apr 14-15, 2016<br>
+         <p>[<a href="http://nd.libcal.com/event/2513724" target="_blank">More Information</a>]</p>
+         <p></p>
+         <h5>Hackathon</h5>
+         <p>Mar 18-19, 2016<br>
+         <p>[<a href="http://library.nd.edu/hackathon/" target="_blank">More Information</a>]<br>
+         </p>
+         <p></p>
+         <h5>ALI THATCamp</h5>
+         <p>Apr 22, 2016<br>
+         <p>[<a href="http://indiana2016.thatcamp.org/" target="_blank">More Information</a>]<br>
+         </p>
+         <p></p>
+         <h5>Digital Humanities Reading Group and Workshop Series</h5>
+         <p>Spring 2016<br>
+        
+         <p>[<a href="http://library.nd.edu/dhseries/" target="_blank">More Information</a>]<br>
+           <br>
+         </p>
+         <h5>Usability Day<br>
+         </h5>
+         <p>Nov 11, 2015<br>
+         </p>
+         <p>[<a href="http://nd.libcal.com/event/2230597" target="_blank">More Information</a>]<br>
+           <br>
+         </p>
+         <h5>2015 GIS Day<br>
+         </h5>
+         <p>Sep 23, 2015<br>
+         </p>
+         <p>[<a href="gis.crc.nd.edu/gisday2015" target="_blank">More Information</a>]         <br>
+           <br>
+         </p>
+         <h5>2015 Day of Digital Humanities<br>
+         </h5>
+         <p>Sep 24, 2015<br>
+         </p>
+         <p>[<a href="http://library.nd.edu/dayofdh" target="_blank">More Information</a>]<br>
+          [<a href="/documents/DayofDH2015Digital.pdf" target="_blank">Event Flyer</a>] </p>
+         <p>&nbsp;</p>
+         <h5>2015 Digital Week<br>
+         </h5>
+         <p>Sep 22 - Sep 25, 2015<br>
+         </p>
+         <p>[<a href="http://library.nd.edu/digitalweek/2015/index.shtml" target="_blank">More Information</a>]<br>
+           <br>
+         </p>
+         <h5>Panel Presentation - Center for Open Science Reproducibility Projects</h5>
+         <p>Sep 9, 2015</p>
+         <p><a href="http://nd.libcal.com/event/2175969" target="_blank">Registration</a> | <a href="/documents/COS_NotreDamePanel_digital.pdf" target="_blank">Event Flyer</a><br>
+           <br>
+         </p>
+         <h5>Research &amp; Statistical Tools Camp</h5>
+         <p>May 13 &amp; 14, 2015<br>
+           <br>
+          [<a href="researchtoolscamp/index.shtml" target="_blank">More Information</a>]         <br>
+          <br>
+         </p>
+         <h5>THATCamp ND 2015</h5>
+         <p>Mar 9 - 10, 2015<br>
+           <br>
+           [<a href="http://nd2015.thatcamp.org/" target="_blank">More Information</a>]<br>
+           <br>
+         </p>
+         <h5>Joseph Brodsky Digital Humanities Lab Seminar: Marijeta Bozovic<br>
+         </h5>
+         <p>Mar 18, 2015<br>
+           4.30 PM<br>
+           Rare Books and Special Collections (102 Hesburgh Library) <br>
+  <br>
+           [<a href="/documents/20140318-BozovicSeminar.pdf" target="_blank">Event Flyer</a>]<br>
+           <br>
+         </p>
+         <h5>2015 Horizon Report<br>
+         </h5>
+         <p>Feb 19, 2015</p>
+         <p>[<a href="http://library.nd.edu/horizonreport/index.shtml" target="_blank">More Information</a>]<br>
+           <br>
+         </p>
+         <h5>CurateND Launch<br>
+         </h5>
+         <p>Feb 5, 2015<br>
+         </p>
+         <p>[<a href="https://curate.nd.edu/" target="_blank">More Information</a>]<br>
+           <br>
+         </p>
+         <h5>2014 GIS Day<br>
+         </h5>
+         <p>Nov 19, 2014<br>
+         </p>
+         <p>[<a href="/gisday/" target="_blank">More Information</a>]</p>
+         <h5><br>
+           2014 Digital Week<br>
+         </h5>
+         <p>Oct 3 - 9, 2014<br>
+         </p>
+         <p>[<a href="/digitalweek/index.shtml" target="_blank">More Information</a>]<br>
+           <br>
+         </p>
+         <h5>Research &amp; Statistical Tools Camp</h5>
+         <p>May 13 &amp; 14, 2014<br>
+           <br>
+           [<a href="researchtoolscamp/index.shtml" target="_blank">More Information</a>]<br>
+           <br>
+         </p>
+         <h5>College of Engineering Open House</h5>
+         <p>March 25, 2014<br>
+           8.30 AM - 10 AM<br>
+         </p>
+         <p>March 26, 2014<br>
+           3.30 PM - 5 PM<br>
+  <br>
+          [<a href="http://50years.library.nd.edu/events/cds.coe.shtml">More Information</a>]</p>
+         <h5><br>
+          College of Arts &amp; Letters Open House</h5>
+         <p>March 18, 2014<br>
+           8.30 AM - 10 AM<br>
+  <br>
+           March 19, 2014<br>
+           3.30 PM - 5 PM<br>
+  <br>
+           [<a href="http://50years.library.nd.edu/events/cds.artsletters.shtml">More Information</a>]<br>
+           <br>
+         </p>
+         <h5>Introducing Remix - The Power of Student-Created Media</h5>
+         <p>February 28, 2014<br>
+           2 PM - ?<br>
+           <br>
+          [<a href="http://50years.library.nd.edu/events/remix.shtml">More Information</a>]         </p>
+         <h5><br>
+          Horizon Report 2014</h5>
+         <p>February 25, 2014<br>
+           12 PM - 1.30 PM<br>
+  <br>
+           [<a href="http://learning.nd.edu/horizon/">More Information</a>]<br>
+           <br>
+         </p>
+         <h5>College of Science Open House</h5>
+         <p>February 18, 2014<br>
+           8.30 AM - 10 AM<br>
+           <br>
+           February 19, 2014<br>
+           3.30 PM - 5 PM<br>
+           <br>
+           [<a href="http://50years.library.nd.edu/events/cds.cos.shtml">More Information</a>]<br>
+         </p>
+         <h5><br>
+          CDS Opening Reception and Program</h5>
+         <p>November 1, 2013<br>
+           4 PM - 6 PM
+             <br>
+           <br>
+           [<a href="http://50years.library.nd.edu/events/cdslaunch.shtml">More Information</a>]<br>
+         </p>
+         <p>[<a href="#Top">top</a>]        </p>
+          <!-- InstanceEndEditable --></div>
+      </div>
+    </div>
+
+     
+
+  
+  </div>
+
+  <div class="row">
+    <div class="twelve columns">
+      <footer role="contentinfo" class="vcard" id="footer">
+    <p class="url fn org" id="copyright" style="display:none;">
+      <a href="http://nd.edu/copyright/">Copyright</a> &copy; 2013
+      <a class="org" href="http://nd.edu">University of Notre Dame</a>
+    </p>
+
+    <p class="adr" id="contact-info">
+      <span class="address"><span class="street-address">Hesburgh Library</span>, <span class="locality">Notre Dame</span>, <span title="Indiana" class="region">IN</span> <span class="postal-code">46556</span></span>
+      <span class="tel"><span class="type">Phone</span> 574.631.4900</span>
+      <span class="tel fax"><span class="type">Fax</span> 574.631.6772</span>
+      <span class="email"><a href="mailto:cds@nd.edu">cds@nd.edu</a></span>
+    </p>
+    <a id="ndmark" href="http://library.nd.edu"><img alt="University of Notre Dame" class="ndmark" src="/images/ndmark300.png"></a>
+  </footer>
+    </div>
+  </div>
+  
+  
+  
+
+
+  
+  
+
+  
+  <!-- Included JS Files (Compressed) -->
+  <script src="/js/jquery.js"></script>
+  <script src="/js/foundation.min.js"></script>
+
+  
+  <!-- Initialize JS Plugins -->
+  <script src="/js/app.js"></script>
+
+  
+    <script>
+    $(window).load(function(){
+      $("#featured").orbit({
+        animation: 'fade',
+        advanceSpeed: 14000,  
+        bullets: true,
+        captions: true,
+        captionAnimation: 'slideOpen',  
+      });
+      $('ul.orbit-bullets').wrap('<div class="slide-dots" />');
+    });
+    </script> 
+  
+</body>
+<!-- InstanceEnd --></html>

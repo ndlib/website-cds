@@ -1,0 +1,36 @@
+<nav >
+  
+    <ul class="nav-bar">
+      <li><a href="/">Home</a></li>
+      <li class="has-flyout"><a href="/about">About</a>
+        <!--#include virtual="/cds/ssi/nav-about.shtml" -->
+      </li>
+      <li class="has-flyout"><a href="/expertise">Expertise</a>
+        <!--#include virtual="/cds/ssi/nav-expertise.shtml" -->
+      </li>
+      <li>
+        <a href="/events.shtml">Events</a>
+      </li>
+      <li><a href="/workshops.shtml">Workshops</a></li>
+      <li class="not-has-flyout"><a href="/spaces.shtml">Spaces</a>
+        <!--include virtual="/cds/ssi/nav-spaces.shtml" -->
+      </li>
+      <li><a href="/technology">Technology</a></li>
+      <li>
+        <a href="/projects.shtml">Projects</a>
+      </li>
+      <!--<li>
+        <a href="/cds/print/">Print</a>
+      </li>-->
+      
+      <!--li class="has-flyout"><a href="/cds/portfolio">Portfolio</a>
+        <!--#include virtual="/cds/ssi/nav-portfolio.shtml" -->
+      </li-->
+      <!--li class="has-flyout"><a href="/cds/news">News/Events</a>
+        <!--#include virtual="/cds/ssi/nav-news.shtml" -->
+      </li-->
+      
+      <!--<li class="start"><a href="/cds/get-started">Get Started</a></li>-->
+    </ul>
+
+</nav>

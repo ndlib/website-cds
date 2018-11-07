@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!-- InstanceBegin template="/Templates/cds_template_left.dwt" codeOutsideHTMLIsLocked="false" --> <!--<![endif]-->
+<head>
+<meta charset="utf-8" />
+
+<!-- Set the viewport width to device width for mobile -->
+<meta name="viewport" content="width=device-width" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Visit</title>
+<!-- InstanceEndEditable -->
+<!-- Included CSS Files (Uncompressed) -->
+<!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  
+<!-- Included CSS Files (Compressed) -->
+<link rel="stylesheet" href="/cds/css/foundation.min.css">
+<link rel="stylesheet" href="/cds/css/app.css">
+<link rel="stylesheet" href="/cds/css/fonts.css">
+
+<script src="../../javascripts/modernizr.foundation.js"></script>
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700,300italic' rel='stylesheet' type='text/css'>
+  <!-- InstanceBeginEditable name="head" -->
+  <style type="text/css">
+<!--
+.style4 {color: #006699; font-weight: bold; }
+.style6 {color: #006699; font-style: italic; }
+.style13 {color: #FFCC99}
+-->
+  </style>
+<!-- InstanceEndEditable -->
+</head>
+<body>
+
+<div id="wrapper">
+<header id="header" role="banner" class="gtype blue">
+    <hgroup>
+      <h3 class="nddotedu"><a href="http://nd.edu">University <i>of</i> Notre Dame <img src="/cds/images/ndmark300.png" class="ndmark" alt="University of Notre Dame"></a></h3>
+      <h2 class="dept-prov"><a href="http://library.nd.edu">Hesburgh Libraries</a></h2>
+      <h1><a href="/cds" accesskey="1">Center <span>for</span> Digital Scholarship</a></h1>
+    </hgroup>
+    <div id="header-util">
+      <form method="get" id="search-header" action="/search/" role="search"><input type="hidden" name="as_sitesearch" value="nd.edu"><input type="hidden" name="entqr" value="3"><label for="search-input">Search</label><input type="search" name="q" id="search-input" placeholder="Search" accesskey="4"><button type="submit" id="search-button">Search</button></form>
+      
+    </div>
+</header></div>
+
+<div class="rotator">
+	<div class="row">
+	  <div class="twelve columns"><!-- InstanceBeginEditable name="banner" -->
+
+    <!-- InstanceEndEditable --></div>
+	</div>
+</div>
+<!--#include virtual="/cds/ssi/nav.shtml" -->
+  <div class="row content">
+    
+    <div class="twelve columns full">
+      
+
+      
+      <div class="row content-inner">
+        <div class="three columns sidebar">
+          <!-- InstanceBeginEditable name="left-column" --><!--#include virtual="/cds/ssi/nav-spaces.shtml" -->
+          <!-- InstanceEndEditable -->
+        </div>
+          <div class="nine columns"><!-- InstanceBeginEditable name="content" -->
+         <h1>Visit<a href="../../../instruction/workshops"><br>
+          <span class="style6"><span class="style4"></span></span></a></h1>
+         <h5><a href="../../../instruction/workshops"><span class="style6"><span class="style4"><a name="mapdirections"></a></span></span><span class="style4">Maps &amp; Directions</span></a><br>
+          <br>
+         </h5>
+         <ul>
+           <li><a href="http://www.nd.edu/visitors/campus-map/" target="_blank">Directions to campus</a></li>
+           <li><a href="/about/maps/campus.shtml" target="_blank">Google Maps</a>           </li>
+           <li><a href="http://www.nd.edu/visitors/campus-map/pdfs/campus-map.pdf" target="_blank">.pdf</a>         </li>
+         </ul>
+         <h5><a href="../../../instruction/workshops"><span class="style6"><span class="style4"><a name="parking"></a></span></span><span class="style4">Campus Parking Map</span></a><span class="style6"><br>
+          </span><br>
+         </h5>
+         <ul>
+           <li><a href="http://ndsp.nd.edu/assets/109360/parkrules2013.pdf" target="_blank">.pdf</a><br>
+         </li>
+         </ul>
+         <h5><a href="../../../instruction/workshops"><span class="style6"><span class="style4"><a name="floormap"></a></span></span><span class="style4">Hesburgh Library Floor Map</span></a><span class="style6"><br>
+          </span><br>
+         </h5>
+         <ul>
+           <li><a href="/about/maps/first.shtml" target="_blank">First Floor</a></li>
+         </ul>
+         <h5><a href="../../../instruction/workshops"><span class="style6"><span class="style4"><a name="miscellaneous"></a></span></span><span class="style4">Miscellaneous</span></a>          </h5>
+         <ul>
+         <li>
+           <p>Rest rooms are located on the second floor and in the basement, as well as near the elevators in the stacks. </p></li>
+         <li>Vending machines are available in the basement.</li>
+         <li>
+           <p>WiFi (free, no credentials required): nd-guest </p>
+         </li>
+           <li>
+             <p>Au Bon Pain hours (located in Library Concourse): <a href="http://food.nd.edu/places-to-eat/hours-of-operation/" target="_blank">http://food.nd.edu/places-to-eat/hours-of-operation/ </a></p>
+           </li>
+           <li>
+             <p>Library Security Monitor Desk: (574) 631-6350</p>
+           </li>
+           <li>
+             <p>Notre Dame Security/Parking: (574) 631-5555</p>
+           </li>
+           <li>
+             <p>Visit Notre Dame: <a href="http://www.nd.edu/visitors/" target="_blank">http://www.nd.edu/visitors/</a></p>
+           </li>
+           <li>Download the free ND Mobile app: <a href="http://mobile.nd.edu/app/" target="_blank">http://mobile.nd.edu/app/ </a></li>
+         </ul>
+          <!-- InstanceEndEditable --></div>
+      </div>
+    </div>
+
+     
+
+  
+  </div>
+
+  <div class="row">
+    <div class="twelve columns">
+      <footer role="contentinfo" class="vcard" id="footer">
+    <p class="url fn org" id="copyright" style="display:none;">
+      <a href="http://nd.edu/copyright/">Copyright</a> &copy; 2013
+      <a class="org" href="http://nd.edu">University of Notre Dame</a>
+    </p>
+
+    <p class="adr" id="contact-info">
+      <span class="address"><span class="street-address">Hesburgh Library</span>, <span class="locality">Notre Dame</span>, <span title="Indiana" class="region">IN</span> <span class="postal-code">46556</span></span>
+      <span class="tel"><span class="type">Phone</span> 574.631.4900</span>
+      <span class="tel fax"><span class="type">Fax</span> 574.631.6772</span>
+      <span class="email"><a href="mailto:cds@nd.edu">cds@nd.edu</a></span>
+    </p>
+    <a id="ndmark" href="http://library.nd.edu"><img alt="University of Notre Dame" class="ndmark" src="/cds/images/ndmark300.png"></a>
+  </footer>
+    </div>
+  </div>
+  
+  
+  
+
+
+  
+  
+
+  
+  <!-- Included JS Files (Compressed) -->
+  <script src="/cds/js/jquery.js"></script>
+  <script src="/cds/js/foundation.min.js"></script>
+
+  
+  <!-- Initialize JS Plugins -->
+  <script src="/cds/js/app.js"></script>
+
+  
+    <script>
+    $(window).load(function(){
+      $("#featured").orbit({
+        animation: 'fade',
+        advanceSpeed: 14000,  
+        bullets: true,
+        captions: true,
+        captionAnimation: 'slideOpen',  
+      });
+      $('ul.orbit-bullets').wrap('<div class="slide-dots" />');
+    });
+    </script> 
+  
+</body>
+<!-- InstanceEnd --></html>

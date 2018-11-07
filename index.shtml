@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<head><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://factotum.library.nd.edu/assets/hours_builder.css">
+<script type="text/javascript" src="https://factotum.library.nd.edu/assets/hours_builder.js"></script>
+<script type="text/javascript">
+  $(document).ready(function () {
+    getServiceHours({cds: '#cds_destination' });
+  });
+</script>
+
+</head>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!-- InstanceBegin template="/Templates/cds_template_three.dwt" codeOutsideHTMLIsLocked="false" --> <!--<![endif]-->
+<head>
+<meta charset="utf-8" />
+
+<!-- Set the viewport width to device width for mobile -->
+<meta name="viewport" content="width=device-width" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Home | Navari Family Center for Digital Scholarship</title>
+<!-- InstanceEndEditable -->
+<!-- Included CSS Files (Uncompressed) -->
+<!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  
+<!-- Included CSS Files (Compressed) -->
+<link rel="stylesheet" href="css/foundation.min.css">
+<link rel="stylesheet" href="css/app.css">
+<link rel="stylesheet" href="css/fonts.css">
+
+<script src="js/modernizr.foundation.js"></script>
+<link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700,300italic' rel='stylesheet' type='text/css'>
+<!-- InstanceBeginEditable name="head" -->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!-- InstanceEndEditable -->
+</head>
+<body>
+
+<div id="wrapper">
+<header id="header" role="banner" class="gtype blue">
+    <hgroup>
+      <h3 class="nddotedu"><a href="http://nd.edu">University <i>of</i> Notre Dame <img src="images/ndmark300.png" class="ndmark" alt="University of Notre Dame"></a></h3>
+      <h2 class="dept-prov"><a href="http://library.nd.edu">Hesburgh Libraries</a></h2>
+      <h1><a href="/" accesskey="1">Navari Family Center <span>for</span> Digital Scholarship</a></h1>
+    </hgroup>
+    <div id="header-util">
+      <form method="get" id="search-header" action="/search/" role="search"><input type="hidden" name="as_sitesearch" value="nd.edu"><input type="hidden" name="entqr" value="3"><label for="search-input">Search</label><input type="search" name="q" id="search-input" placeholder="Search" accesskey="4"><button type="submit" id="search-button">Search</button></form>
+      
+    </div>
+</header></div>
+
+<div class="rotator">
+	<div class="row">
+	  <div class="twelve columns"><!-- InstanceBeginEditable name="banner" -->
+    <!--#include virtual="ssi/rotator.shtml" -->
+    <!-- InstanceEndEditable --></div>
+  </div>
+</div>
+<!--#include virtual="ssi/nav.shtml" -->
+<div class="row content">
+  <div class="four columns full">
+      
+
+      
+    <div class="row content-inner">
+          
+      <div class="twelve columns"><!-- InstanceBeginEditable name="content" -->
+        <h1>Welcome!</h1>
+        <p>The Navari Family Center for Digital Scholarship (CDS) is 
+located in Hesburgh Library’s northeast corner on the 2nd Floor. The Navari Center 
+leverages state-of-the art technologies, enabling students and faculty 
+to explore new  methodologies, analyze complex data and share research 
+results in ways never before possible. The Navari Center is nimble, capable of 
+rapidly adopting new technologies as they emerge -- transforming how 
+teaching, research and scholarship are performed here at Notre Dame.</p>
+        <p>With  established partnerships campus-wide, the Navari Family Center for Digital 
+            Scholarship serves as a “hub” that enhances the teaching, learning, and 
+            research process in every academic discipline. The Navari Center empowers and equips 
+            our next generation of scientists and scholars to create new knowledge 
+        in a digital environment and make a more profound impact in the world.        </p>
+      <!-- InstanceEndEditable --></div>
+    </div>
+  </div>
+
+     
+
+  <div class="four columns sidebar"><!-- InstanceBeginEditable name="right-column" -->
+
+	<br><br>
+	<h1>Help Desk Hours</h1>
+	<br>
+    <strong>Special Hours, Event, and Holiday Closures</strong><br>
+    <em>August 21 - December 14</em>
+    <table class='table table-responsive'>
+      <thead></thead><tbody><tr>
+   <td width="53%"><strong>Mon 11/12 </strong><br>
+     2:00pm - 4:00pm
+     <br>
+     <br>
+     <br>
+     <br>
+     <strong>Thu 11/22 - Sat 11/25</strong>   
+   <td width="47%"> Event activities in space may be distracting to patrons<br>
+     <br>
+     Closed<br></td></tr></tbody></table>
+    <strong>If Help Desk is unattended weekdays between 9:00am - 5:00pm, please visit Staff Suite 250<br>
+    </strong><em>Fall/Spring Semester Hours</em>
+    </p>
+    <table class='table table-responsive'>
+      <thead></thead><tbody><tr>
+   <td width="53%"><p>Sunday<br>
+     Monday-Thursday<br>
+     Friday<br>
+     Saturday</p></td>
+   <td width="47%"><p>10:00am - midnight<br>
+     09:00am - midnight<br>
+     09:00am - 05:00pm<br>
+   01:00pm - 05:00pm</p></td></tr></tbody></table>
+  <!-- InstanceEndEditable --></div>
+  <div class="four columns">
+    <!-- InstanceBeginEditable name="far-right-column" -->    
+       <div class="needs-js">Chat requires JavaScript.</div>
+
+<div class="libraryh3lp" jid=“nd-cds@chat.libraryh3lp.com" style="display: none;">
+  <a href="#"
+   onclick="window.open('https://libraryh3lp.com/chat/nd-cds@chat.libraryh3lp.com?skin=27833',
+   'chat', 'resizable=1,width=320,height=350'); return false;">
+</div>
+    <h1 style="margin-top:37px;">Get Started</h1>
+    <ul>
+      <li><a href="http://cds.library.nd.edu/spaces/">Space Reservations &amp;  Information </a>
+<ul>
+          <li><a href="https://nd.libcal.com/reserve/spaces/one-button-studio" target="_blank">One Button Studio</a></li>
+          <li><a href="https://nd.libcal.com/reserve/sound-studio" target="_blank">Sound Studio</a></li>
+          <li><a href="https://nd.libcal.com/reserve/transcription-station">Transcription Station</a></li>
+        </ul>
+      </li>
+      <li><a href="http://nd.libcal.com/equipment?lid=1011">Reserve Equipment</a></li>
+      <li><a href="http://cds.library.nd.edu/expertise/digitization/request/index.shtml">Submit a Digitization Request</a></li>
+      <li><a href="/print/" target="_blank">Submit a Print Job: 3D or Large-Format</a></li>
+      <li><a href="http://cds.library.nd.edu/workshops/">Register for a Workshop</a></li>
+      <li><a href="/about/staff.shtml">Schedule a Free Consultation</a>    </li>
+      <li><a href="http://cds.library.nd.edu/hiring/">Student Jobs</a></li>
+    </ul>
+<h2>Not Sure Where to Start?    </h2>
+<ul>
+<li><a href="https://docs.google.com/a/nd.edu/forms/d/e/1FAIpQLSevk7zNja6aG7OPCQ25nGx67YXCpZhD9x_Rw4J6OeKRJlAV6g/viewform" target="_blank">Contact Us</a>  </li>
+</ul>
+
+    <!-- InstanceEndEditable -->
+     </div> 
+</div>
+
+<div class="row">
+  <div class="twelve columns">
+    <footer role="contentinfo" class="vcard" id="footer">
+    <p class="url fn org" id="copyright" style="display:none;">
+      <a href="http://nd.edu/copyright/">Copyright</a> &copy; 2013
+      <a class="org" href="http://nd.edu">University of Notre Dame</a>
+    </p>
+
+    <p class="adr" id="contact-info">
+      <span class="address"><span class="street-address">Hesburgh Library</span>, <span class="locality">Notre Dame</span>, <span title="Indiana" class="region">IN</span> <span class="postal-code">46556</span></span>
+      <span class="tel"><span class="type">Phone</span> 574.631.4900</span>
+      <span class="tel fax"><span class="type">Fax</span> 574.631.6772</span>
+      <span class="email"><a href="mailto:cds@nd.edu">cds@nd.edu</a></span>
+    </p>
+    <a id="ndmark" href="http://library.nd.edu"><img alt="University of Notre Dame" class="ndmark" src="images/ndmark300.png"></a>
+  </footer>
+  </div>
+</div>
+  
+  
+  
+
+
+  
+  
+
+  
+<!-- Included JS Files (Compressed) -->
+<script src="js/jquery.js"></script>
+<script src="js/foundation.min.js"></script>
+
+  
+<!-- Initialize JS Plugins -->
+<script src="js/app.js"></script>
+
+  
+<script>
+    $(window).load(function(){
+      $("#featured").orbit({
+        animation: 'fade',
+        advanceSpeed: 14000,  
+        bullets: true,
+        captions: true,
+        captionAnimation: 'slideOpen',  
+      });
+      $('ul.orbit-bullets').wrap('<div class="slide-dots" />');
+    });
+    </script> 
+  
+
+
+<!-- Place this div in your web page where you want your chat widget to appear. -->
+<div class="needs-js"></div>
+
+<!-- Place this script as near to the end of your BODY as possible. -->
+<script type="text/javascript">
+  (function() {
+    var x = document.createElement("script"); x.type = "text/javascript"; x.async = true;
+    x.src = (document.location.protocol === "https:" ? "https://" : "http://") + "libraryh3lp.com/js/libraryh3lp.js?11738";
+    var y = document.getElementsByTagName("script")[0]; y.parentNode.insertBefore(x, y);
+  })();
+</script>
+
+</body>

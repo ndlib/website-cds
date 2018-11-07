@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!-- InstanceBegin template="/Templates/cds_template_both.dwt" codeOutsideHTMLIsLocked="false" --> <!--<![endif]-->
+<head>
+<meta charset="utf-8" />
+
+<!-- Set the viewport width to device width for mobile -->
+<meta name="viewport" content="width=device-width" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Digitization &amp; Metadata | Center for Digital Scholarship</title>
+<!-- InstanceEndEditable -->
+<!-- Included CSS Files (Uncompressed) -->
+<!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  
+<!-- Included CSS Files (Compressed) -->
+<link rel="stylesheet" href="/cds/css/foundation.min.css">
+<link rel="stylesheet" href="/cds/css/app.css">
+<link rel="stylesheet" href="/cds/css/fonts.css">
+
+<script src="../javascripts/modernizr.foundation.js"></script>
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700,300italic' rel='stylesheet' type='text/css'>
+  <!-- InstanceBeginEditable name="head" -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!-- InstanceEndEditable -->
+</head>
+<body>
+
+<div id="wrapper">
+<header id="header" role="banner" class="gtype blue">
+    <hgroup>
+      <h3 class="nddotedu"><a href="http://nd.edu">University <i>of</i> Notre Dame <img src="/cds/images/ndmark300.png" class="ndmark" alt="University of Notre Dame"></a></h3>
+      <h2 class="dept-prov"><a href="http://library.nd.edu">Hesburgh Libraries</a></h2>
+      <h1><a href="/cds" accesskey="1">Center <span>for</span> Digital Scholarship</a></h1>
+    </hgroup>
+    <div id="header-util">
+      <form method="get" id="search-header" action="/search/" role="search"><input type="hidden" name="as_sitesearch" value="nd.edu"><input type="hidden" name="entqr" value="3"><label for="search-input">Search</label><input type="search" name="q" id="search-input" placeholder="Search" accesskey="4"><button type="submit" id="search-button">Search</button></form>
+      
+    </div>
+</header></div>
+
+<div class="rotator">
+	<div class="row">
+	  <div class="twelve columns"><!-- InstanceBeginEditable name="banner" -->
+
+    <!-- InstanceEndEditable --></div>
+	</div>
+</div>
+<!--#include virtual="/cds/ssi/nav.shtml" -->
+  <div class="row content">
+    
+    <div class="ten columns full">
+      
+
+      
+      <div class="row content-inner">
+        <div class="three columns sidebar">
+          <!-- InstanceBeginEditable name="left-column" --><!--#include virtual="/cds/ssi/nav-expertise.shtml" -->
+        <!-- InstanceEndEditable -->
+        </div>
+          <div class="nine columns"><!-- InstanceBeginEditable name="content" -->
+        <h1>Digitization and Metadata Services</h1>
+        <p>The Center for Digital Scholarship staff consult on digitization, 
+description, and preservation of digital collections to enable long-term
+ discovery and sustainability of materials.</p>
+        <h4>Tools</h4>
+        <p>The following equipment and software are available for general use 
+          within the Center.  Staff are glad to assist patrons with their use of 
+        these tools:</p>
+        <ul>
+          <li>Adobe Photoshop/ Illustrator</li>
+          <li>ABBYY FineReader OCR</li>
+          <li>Document and map scanners </li>
+          </ul>
+        <h3>Guidelines</h3>
+<p>The following guidelines, authored by Hesburgh Libraries’ staff to 
+          ensure consistency among internal projects, are available for general 
+        use:</p>
+        <p><u><a href="documents/Stepstogetdigital_Final.pdf">Recommended Steps for Digitizing Collections (PDF)</a></u></p>
+        <p><u><a href="documents/DigitalProcessingStandards_Final.pdf">Digital Processing Standards and Best Practices (PDF)</a></u></p>
+        <p><u><a href="documents/DiscoveryandUserInterfaceBestPractices_Final.pdf">Discovery and User Interface Best Practices (PDF)</a></u></p>
+        <p><u><a href="documents/RightsManagementGuidelines_Final.pdf">Rights Management Guidelines (PDF)</a></u></p>
+        <p><u><a href="documents/AccessiblePDFGuidelines_Final.pdf">Accessible PDF Guidelines (PDF)</a></u></p>
+        <p><u><a href="documents/MetadataApplicationProfile_Final.pdf">Metadata Application Profile  (PDF)</a></u></p>
+        <p><u><a href="documents/VisualResources_Final.pdf">Visual Resources Metadata Best Practices (PDF)</a></u></p>
+        <p><u><a href="documents/AudioVideoMetadata_Final.pdf">Audio Video  Metadata Best Practices (PDF)</a></u></p>
+        <p><u><a href="documents/PatentMetadata_Final.pdf">Patent  Metadata Best Practices (PDF)</a></u>        <br>
+        </p>
+        <h3>Production Facility</h3>
+        <p>The Center for Digital Scholarship also includes a production 
+          facility focused on the digitization of Hesburgh Libraries’ 
+          collections.  Digitization projects range from rare books and special 
+          collections that are publicly accessible via the web to films and audio 
+          materials made available to students enrolled in Notre Dame courses. 
+                   <br class="atl-forced-newline">
+        </p>
+        <p><strong>To submit an online digitzation request, complete this <a href="../digitization/request/index.shtml" target="_blank">form</a>.</strong><br>
+        </p>
+        <p><strong>For information about digitization and metadata services, please contact: </strong></p>
+        <p>Alex Papson, Metadata and Digital Projects Librarian <br>
+        <a href="mailto:apapson@nd.edu">apapson@nd.edu</a> | ph. 574-631-3282</p>
+<h2>&nbsp;</h2>
+      <!-- InstanceEndEditable --></div>
+      </div>
+    </div>
+
+     
+
+    <div class="two columns sidebar"><!-- InstanceBeginEditable name="right-column" -->
+    <!--<h3>Hours</h3>
+      <ul>
+        <li>Monday - Friday: X:00am - X:00pm</li>
+      </ul>
+      <h3>Contact Us</h3>-->
+  <!-- InstanceEndEditable --></div>
+  </div>
+
+  <div class="row">
+    <div class="twelve columns">
+      <footer role="contentinfo" class="vcard" id="footer">
+    <p class="url fn org" id="copyright" style="display:none;">
+      <a href="http://nd.edu/copyright/">Copyright</a> &copy; 2013
+      <a class="org" href="http://nd.edu">University of Notre Dame</a>
+    </p>
+
+    <p class="adr" id="contact-info">
+      <span class="address"><span class="street-address">Hesburgh Library</span>, <span class="locality">Notre Dame</span>, <span title="Indiana" class="region">IN</span> <span class="postal-code">46556</span></span>
+      <span class="tel"><span class="type">Phone</span> 574.631.4900</span>
+      <span class="tel fax"><span class="type">Fax</span> 574.631.6772</span>
+      <span class="email"><a href="mailto:cds@nd.edu">cds@nd.edu</a></span>    </p>
+    <a id="ndmark" href="http://library.nd.edu"><img alt="University of Notre Dame" class="ndmark" src="/cds/images/ndmark300.png"></a>
+  </footer>
+    </div>
+  </div>
+  
+  
+  
+
+
+  
+  
+
+  
+  <!-- Included JS Files (Compressed) -->
+  <script src="/cds/js/jquery.js"></script>
+  <script src="/cds/js/foundation.min.js"></script>
+
+  
+  <!-- Initialize JS Plugins -->
+  <script src="/cds/js/app.js"></script>
+
+  
+    <script>
+    $(window).load(function(){
+      $("#featured").orbit({
+        animation: 'fade',
+        advanceSpeed: 14000,  
+        bullets: true,
+        captions: true,
+        captionAnimation: 'slideOpen',  
+      });
+      $('ul.orbit-bullets').wrap('<div class="slide-dots" />');
+    });
+    </script> 
+  
+</body>
+<!-- InstanceEnd --></html>

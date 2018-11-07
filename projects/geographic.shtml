@@ -1,0 +1,12 @@
+<h1>Geographic Information Systems</h1>
+<ul class="block-grid four-up">
+  <li><a href="project.shtml"><img src="/cds/projects/images/NNN-Map-Square.jpg" width="222" height="225"></a>
+  <p>Community-Based Mapping</p></li>
+ <li><a href="project.shtml"><img src="/cds/projects/images/Java-Map-Square.jpg" width="222" height="225"></a>
+  <p>Business on the Front Lines</p></li> 
+ <li><a href="project.shtml"><img src="/cds/projects/images/Rome-full-Square.jpg" width="222" height="225"></a>
+  <p>Rome Walks</p></li> 
+ <li><a href="project.shtml"><img src="/cds/projects/images/Campus-MapSquare.jpg" width="222" height="225"></a>
+  <p>ND Campus Tour</p></li> 
+
+</ul>

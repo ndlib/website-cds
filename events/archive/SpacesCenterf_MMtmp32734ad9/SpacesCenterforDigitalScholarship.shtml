@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!-- InstanceBegin template="/Templates/cds_template_left.dwt" codeOutsideHTMLIsLocked="false" --> <!--<![endif]-->
+<head>
+<meta charset="utf-8" />
+
+<!-- Set the viewport width to device width for mobile -->
+<meta name="viewport" content="width=device-width" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Spaces | Center for Digital Scholarship</title>
+<!-- InstanceEndEditable -->
+<!-- Included CSS Files (Uncompressed) -->
+<!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  
+<!-- Included CSS Files (Compressed) -->
+<link rel="stylesheet" href="/cds/css/foundation.min.css">
+<link rel="stylesheet" href="/cds/css/app.css">
+<link rel="stylesheet" href="/cds/css/fonts.css">
+
+<script src="../../javascripts/modernizr.foundation.js"></script>
+<link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700,300italic' rel='stylesheet' type='text/css'>
+<!-- InstanceBeginEditable name="head" -->
+<!-- InstanceEndEditable -->
+</head>
+<body>
+
+<div id="wrapper">
+<header id="header" role="banner" class="gtype blue">
+    <hgroup>
+      <h3 class="nddotedu"><a href="http://nd.edu">University <i>of</i> Notre Dame <img src="/cds/images/ndmark300.png" class="ndmark" alt="University of Notre Dame"></a></h3>
+      <h2 class="dept-prov"><a href="http://library.nd.edu">Hesburgh Libraries</a></h2>
+      <h1><a href="/cds" accesskey="1">Center <span>for</span> Digital Scholarship</a></h1>
+    </hgroup>
+    <div id="header-util">
+      <form method="get" id="search-header" action="/search/" role="search"><input type="hidden" name="as_sitesearch" value="nd.edu"><input type="hidden" name="entqr" value="3"><label for="search-input">Search</label><input type="search" name="q" id="search-input" placeholder="Search" accesskey="4"><button type="submit" id="search-button">Search</button></form>
+      
+    </div>
+</header></div>
+
+<div class="rotator">
+	<div class="row">
+	  <div class="twelve columns"><!-- InstanceBeginEditable name="banner" -->
+
+    <!-- InstanceEndEditable --></div>
+  </div>
+</div>
+<!--#include virtual="/cds/ssi/nav.shtml" -->
+<div class="row content">
+    
+  <div class="twelve columns full">
+      
+
+      
+    <div class="row content-inner">
+      <div class="three columns sidebar">
+        <!-- InstanceBeginEditable name="left-column" --><!--#include virtual="/cds/ssi/nav-spaces.shtml" -->
+        <!-- InstanceEndEditable -->
+      </div>
+      <div class="nine columns"><!-- InstanceBeginEditable name="content" -->
+        <h1>Spaces</h1>
+         
+         
+
+
+<dl class="tabs contained">
+  <dd class="active">
+  <a href="#simple1">Floorplan</a>
+  </dd>
+  <dd><a href="#simple2">Room Guidelines</a></dd>
+  <dd class="hide-for-small"><a href="#simple3">Reserve a Room</a></dd>
+</dl>
+<ul class="tabs-content contained">
+ <li class="active" id="simple1Tab">
+    <p>The Center for Digital Scholarship is located on the NE corner 1st floor of Hesburgh building.  The floor plan intentionally combines a number of different functional spaces, in that we intend for it to be a prototype in which we can refine how we serve and meet the needs of researchers within the context of emerging technologies.</p>
+    <img src="../images/floorplan.gif" width="741" height="721" align="middle">
+    <h3>The Center includes several distinct areas: </h3>
+    <ol>
+      <li><strong>Entrance and Help Desk</strong><br>
+        A consultation area anchored with a large video monitor allows for drop-in assistance.</li>
+      <li><strong>Interactive Group Project Space</strong><br>
+        Anyone is invited to use the Center’s collaborative workspaces for project or group work. Several mobile monitors allow for the shared viewing of electronic content by groups. These spaces are not intended to provide a quiet environment within the library, but rather are intended as spaces that encourage interaction and collaboration.</li>
+      <li><strong>Digital Research Lab</strong><br>
+        Within the lab environment, researchers of all levels across disciplines are able to utilize and receive assistance with specialized hardware and software. We also offer expertise to support advanced inquiry, especially in areas in which technology can be used in conjunction with the Libraries’ digital collections.</li>
+      <li><strong>High-Tech Classroom</strong><br>
+        The Center includes a small classroom for 20 students, in which students can work in a ‘flipped’ model, learning in groups instead of all facing a central direction. This space allows for experimentation with new models of instruction, in which students educate one another as opposed to more traditional models of instructor-led learning.</li>
+      <li><strong>Office Suite</strong><br>
+        Six individuals with technology specializations sit within the space on a full-time basis to provide assistance and support to patrons. The space also includes two consultation offices, in which additional experts from the Libraries and other centers or departments on campus hold drop-in consultations.</li>
+      <li><strong>Conference/Consultation Room</strong><br>
+        Included within the Center’s space is a 12-person conference room with technical capabilities for holding web-based meetings.</li>
+    </ol>
+  </li>
+  <li id="simple2Tab"> <ul>
+  <li>Rooms may only be reserved for use during regular CDS Hours.<br>
+    <ul>
+      <li>Library business and faculty teaching requests receive priority  consideration.<br>
+        <br>
+        </li>
+      <li>Students may  request rooms M – F after 5 PM, and Sa – Su any time.  <br>
+        
+        <ul>
+          <li><em>Please note that the CDS reserves the right to terminate a study  group reservation at any time <br>
+          </em><em>without prior notice for any reason deemed  appropriate by CDS staff, including, <br>
+          but not limited to, the emergence of a  conflict with a library- or course-related event. </em><br>
+            <br>
+          </li>
+        </ul>
+        </li>
+      </ul>
+  </li>
+            <li>The maximum capacity of the rooms may not be exceeded due to safety  regulations.</li>
+          </ul>
+          <p></p>
+          <ul>
+            <li>No event support staff is available. Users are responsible for coordinating any additional materials or support necessary for their event.</li>
+          </ul>
+<p></p>
+          <ul>
+            <li>Catering is not permitted in the rooms without advance permission from the CDS (<a href="mailto:cds@nd.edu">cds@nd.edu</a>).</li>
+          </ul>
+<p></p>
+          <ul>
+            <li>If moved or arranged, furniture and equipment must be returned to  the appropriate configuration.</li>
+          </ul>
+<p></p>
+          <ul>
+            <li>Library visitors are expected to  monitor their belongings, especially valuables, at all times while using  library facilities.  The Library is not responsible for loss or damage to any article(s).<br><br>
+            </li>
+            <li>The reservation contact person indicated on this form is responsible  for any damage to the room and articles within it that is incurred during their reservation or as a result of  actions committed by any attendee(s) of the event.</li>
+</ul>
+  <li id="simple3Tab"> <ul>1. Review the calendar below 
+<br><br>
+2. Complete the <a href="http://form.jotform.co/form/40094355311850">Room Reservation Request Form</a> <br><br>
+<iframe src="https://www.google.com/calendar/embed?title=Center%20for%20Digital%20Scholarship%20%7C%20Hesburgh%20Libraries&amp;showPrint=0&amp;showCalendars=0&amp;showTz=0&amp;height=800&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=nd.edu_s794svaboqijq8mfjcvhae4ldc%40group.calendar.google.com&amp;color=%232952A3&amp;ctz=America%2FNew_York" style=" border-width:0 " width="650" height="800" frameborder="0" scrolling="no"></iframe></li>
+</ul>
+
+
+         
+      <!-- InstanceEndEditable --></div>
+    </div>
+  </div>
+
+     
+
+  
+</div>
+
+<div class="row">
+  <div class="twelve columns">
+    <footer role="contentinfo" class="vcard" id="footer">
+    <p class="url fn org" id="copyright" style="display:none;">
+      <a href="http://nd.edu/copyright/">Copyright</a> &copy; 2013
+      <a class="org" href="http://nd.edu">University of Notre Dame</a>
+    </p>
+
+    <p class="adr" id="contact-info">
+      <span class="address"><span class="street-address">Hesburgh Library</span>, <span class="locality">Notre Dame</span>, <span title="Indiana" class="region">IN</span> <span class="postal-code">46556</span></span>
+      <span class="tel"><span class="type">Phone</span> 574.631.4900</span>
+      <span class="tel fax"><span class="type">Fax</span> 574.631.6772</span>
+      <span class="email"><a href="mailto:cds@nd.edu">cds@nd.edu</a></span>
+    </p>
+    <a id="ndmark" href="http://library.nd.edu"><img alt="University of Notre Dame" class="ndmark" src="/cds/images/ndmark300.png"></a>
+  </footer>
+  </div>
+</div>
+  
+  
+  
+
+
+  
+  
+
+  
+<!-- Included JS Files (Compressed) -->
+<script src="/cds/js/jquery.js"></script>
+<script src="/cds/js/foundation.min.js"></script>
+
+  
+<!-- Initialize JS Plugins -->
+<script src="/cds/js/app.js"></script>
+
+  
+<script>
+    $(window).load(function(){
+      $("#featured").orbit({
+        animation: 'fade',
+        advanceSpeed: 14000,  
+        bullets: true,
+        captions: true,
+        captionAnimation: 'slideOpen',  
+      });
+      $('ul.orbit-bullets').wrap('<div class="slide-dots" />');
+    });
+    </script> 
+  
+</body>
+<!-- InstanceEnd --></html>

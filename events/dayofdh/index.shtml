@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!-- InstanceBegin template="/Templates/cds_template_left.dwt" codeOutsideHTMLIsLocked="false" --> <!--<![endif]-->
+<head>
+<meta charset="utf-8" />
+
+<!-- Set the viewport width to device width for mobile -->
+<meta name="viewport" content="width=device-width" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>2015 Day of Digital Humanities</title>
+<!-- InstanceEndEditable -->
+<!-- Included CSS Files (Uncompressed) -->
+<!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  
+<!-- Included CSS Files (Compressed) -->
+<link rel="stylesheet" href="/cds/css/foundation.min.css">
+<link rel="stylesheet" href="/cds/css/app.css">
+<link rel="stylesheet" href="/cds/css/fonts.css">
+
+<script src="../../javascripts/modernizr.foundation.js"></script>
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700,300italic' rel='stylesheet' type='text/css'>
+  <!-- InstanceBeginEditable name="head" -->
+  <style type="text/css">
+<!--
+.style5 {font-size: 18px; color: #006699;}
+-->
+  </style>
+<!-- InstanceEndEditable -->
+</head>
+<body>
+
+<div id="wrapper">
+<header id="header" role="banner" class="gtype blue">
+    <hgroup>
+      <h3 class="nddotedu"><a href="http://nd.edu">University <i>of</i> Notre Dame <img src="/cds/images/ndmark300.png" class="ndmark" alt="University of Notre Dame"></a></h3>
+      <h2 class="dept-prov"><a href="http://library.nd.edu">Hesburgh Libraries</a></h2>
+      <h1><a href="/cds" accesskey="1">Center <span>for</span> Digital Scholarship</a></h1>
+    </hgroup>
+    <div id="header-util">
+      <form method="get" id="search-header" action="/search/" role="search"><input type="hidden" name="as_sitesearch" value="nd.edu"><input type="hidden" name="entqr" value="3"><label for="search-input">Search</label><input type="search" name="q" id="search-input" placeholder="Search" accesskey="4"><button type="submit" id="search-button">Search</button></form>
+      
+    </div>
+</header></div>
+
+<div class="rotator">
+	<div class="row">
+	  <div class="twelve columns"><!-- InstanceBeginEditable name="banner" -->
+
+    <!-- InstanceEndEditable --></div>
+	</div>
+</div>
+<!--#include virtual="/cds/ssi/nav.shtml" -->
+  <div class="row content">
+    
+    <div class="twelve columns full">
+      
+
+      
+      <div class="row content-inner">
+        <div class="three columns sidebar">
+          <!-- InstanceBeginEditable name="left-column" --><!--#include virtual="/cds/ssi/nav-spaces.shtml" -->
+          <!-- InstanceEndEditable -->
+        </div>
+          <div class="nine columns"><!-- InstanceBeginEditable name="content" -->
+          <h1>Day of Digital Humanities</h1>
+          <h4><span class="style5">Thursday, September 24, 2015<br>
+          <br>
+          </span><a name="top"></a>Center for Digital Scholarship (Hesburgh Library &#8212; 1st Floor Northeast)</h4>
+          <h4><a href="#lightning">Lightning Talks</a> | <a href="#qa">Q&amp;A</a> | <a href="#synergy">Synergy Social</a> | <a href="#workshops">Workshops</a> | <a href="#dharma">DHARMA</a> | <a href="#keynote">Keynote</a><br>
+<br>
+          </h4>
+          <h4><a name="lightning"></a>Lightning Talks <a href="http://library.nd.edu/cds/dayofdh/lightningtalks.shtml" target="_blank">[event page</a>]<br></h4>
+          <strong>9:30 AM - 11 AM<br>
+</strong><em>All students, faculty, and staff welcome to attend. Coffee and pastries provided. </em>
+          <p>The Center of Digital Scholarship and the Office of Digital Learning are proud to present graduate student and postdoctoral fellow lightning talks for ND Day of Digital Humanities 2015. The lightning talk session is intended to provide presenters with an opportunity to showcase their research, as well as facilitate networking among presenters and attendees. This fast-paced event is a great opportunity to learn about digital humanities research being conducted on campus.          <br>
+            <br>
+          [<a href="#top">top</a>] 
+          <br>
+          </p>
+          
+          <h4><a name="qa"></a>Q&amp;A with Martin Mueller, Ph.D.<br></h4>
+          <p><strong>11 AM - 11:30 AM</strong><br>
+            Join our Day of Digital Humanities Keynote Speaker for a discussion of student engagement in digital humanities research projects.            <br>
+          <br>[<a href="#top">top</a>]            </p>
+          <h4><a name="synergy"></a>Synergy Social (Digital Humanities Research/Project &ldquo;Speed Dating&rdquo;)</h4>          
+          <p><strong>12 PM - 1:30 PM</strong><br>
+          The purpose of this event is to facilitate connections between researchers and scholars in the humanities and campus resources and potential collaborators across a variety of fields. After light refreshments and an informal chance to mingle, the &ldquo;speed dating&rdquo; will begin. Attendees with particular skillsets/areas of expertise will be stationed around the room, while those with specific project ideas or general interest in exploring some of the available areas of expertise represented will walk around in search of more information about resources, or to meet potential collaborators.</strong>          </p>
+          <p><strong>Registration: <a href="http://nd.libcal.com/event/2175233">http://nd.libcal.com/event/2175233</a></strong>          <br>
+            <br>
+[<a href="#top">top</a>]          <br>
+          </p>
+          <h4><a name="workshops"></a>Digital Humanities Workshops</h4>          
+          <p><strong>2:00 - 3:00 PM</strong>          </p>
+          <ul>
+            <li dir="ltr"><strong>              Introduction to Text Encoding (Daniel Johnson, Ph.D.)</strong><br>
+              The popular Text Encoding Initiative (TEI) Guidelines describe an XML format for creating archival-quality digital editions of text and other cultural artifacts. Utilizing practical examples, this workshop will explore the history of the Guidelines, their underlying technology, and the reasons scholars might use the format.<br>
+            <strong>Registration</strong>: <a href="http://nd.libcal.com/event/2176817">http://nd.libcal.com/event/2176817</a></strong>            <br>
+            <br>
+            </li>
+            <li dir="ltr">              <strong>Finding Images: Teaching &amp; Researching with Artstor (Denise Massa)</strong><br>
+            ARTstor is an educational resource that shares over a million digital images rich in the arts, architecture, humanities and sciences. This workshop combines online demonstrations and hands-on practice to show participants how to search for images, build a lecture, present images on or offline and organize image groups for personal or shared uses. ARTstor&rsquo;s Digital Library covers a wide range of pedagogical disciplines including: African-American Studies, American Studies, Anthropology, Architecture &amp; the Built Environment, Asian Studies, Classical Studies, Decorative Arts, Design, Fashion &amp; Costume, Languages &amp; Literature, Latin American Studies, Maps &amp; Geography, Medieval Studies, Medicine &amp; Natural Science, Middle Eastern Studies, Music History, Native American Studies, Photography, Religious Studies, Renaissance Studies, Theater and Dance, and Women&rsquo;s Studies. </strong><br>
+            <strong>Registration: <a href="http://nd.libcal.com/event/2176804">http://nd.libcal.com/event/2176804</a></strong></li>
+          </ul>
+          <p><br>
+[<a href="#top">top</a>]<br>
+          </p>
+<h4><a name="dharma"></a>Digitalizing World Heritage: D.H.A.R.M.A.</h4>          
+          <p><strong>3:00 - 4:00 PM</strong><br>
+          Prepare to explore ancient masterpieces, the Roman Forum and the Taj Mahal, in 3D visualizations. Chris Sweet, Cyberinfrastructure, Assistant Director at the Center for Research Computing, has teamed up with Notre Dame School of Architecture Associate Professor, Krupali Uplekar Krusche, in the Digital Historical Architectural Research and Materials Analysis (D.H.A.R.M.A.) Project. This project documents World Heritage Sites around the world and has been using 3D imaging and programming to build a database where people can visit and analyze these historical landmarks digitally. Presentation will include 3D visualization. 3D glasses will be provided to audience.</p>
+          <p><br>
+[<a href="#top">top</a>] </p>
+          <h4><a name="keynote"></a>    Keynote: &ldquo;Back to the Future: Philology in a Digital Age&rdquo; with Martin Mueller, Ph.D.</h4>          
+          <strong>4:30 PM          </strong>
+          <p>Martin Mueller was educated at the Universities of Munich, Hamburg, Berlin, Trinity College, Dublin, and Indiana University, where he got a PhD in Classics (1966). He taught at Brandeis University (1965-67) and &nbsp;the University of Toronto (1967-76) before moving to Northwestern University, where he taught until his retirement in 2013. At Northwestern he held various administrative positions, including Director of Comparative Literature (1976-81), Director of the Humanities Program (1979-81), Chair of the English Department (1983-90), and Acting Chair of Hispanic Studies (1997-99).<br>
+          <br>
+            His primary research field has been the uses of ancient epic and tragedy by European writers since the Renaissance. He has also written on Homer and Shakespeare. More recently he has become interested in the uses of information technology for traditional philological inquiries. &nbsp;Together with Ahuvia Kahane, he is the editor of <a href="http://www.library.northwestern.edu/homer">The Chicago Homer</a>, a multilingual web site that uses the search and display capabilities of digital media to make distinctive features of Early Greek epic accessible to readers with and without Greek. He is the general editor of <a href="http://panini.northwestern.edu/wordhoard.northwestern.edu">WordHoard</a>, an application for the close reading and scholarly analysis of deeply tagged texts. Find out more about his current work at his blog <a href="https://scalablereading.northwestern.edu/">Scalable Reading</a>.<br>
+            <br>
+[<a href="#top">top</a>] <br>
+         </p>
+          <!-- InstanceEndEditable --></div>
+      </div>
+    </div>
+
+     
+
+  
+  </div>
+
+  <div class="row">
+    <div class="twelve columns">
+      <footer role="contentinfo" class="vcard" id="footer">
+    <p class="url fn org" id="copyright" style="display:none;">
+      <a href="http://nd.edu/copyright/">Copyright</a> &copy; 2013
+      <a class="org" href="http://nd.edu">University of Notre Dame</a>
+    </p>
+
+    <p class="adr" id="contact-info">
+      <span class="address"><span class="street-address">Hesburgh Library</span>, <span class="locality">Notre Dame</span>, <span title="Indiana" class="region">IN</span> <span class="postal-code">46556</span></span>
+      <span class="tel"><span class="type">Phone</span> 574.631.4900</span>
+      <span class="tel fax"><span class="type">Fax</span> 574.631.6772</span>
+      <span class="email"><a href="mailto:cds@nd.edu">cds@nd.edu</a></span>
+    </p>
+    <a id="ndmark" href="http://library.nd.edu"><img alt="University of Notre Dame" class="ndmark" src="/cds/images/ndmark300.png"></a>
+  </footer>
+    </div>
+  </div>
+  
+  
+  
+
+
+  
+  
+
+  
+  <!-- Included JS Files (Compressed) -->
+  <script src="/cds/js/jquery.js"></script>
+  <script src="/cds/js/foundation.min.js"></script>
+
+  
+  <!-- Initialize JS Plugins -->
+  <script src="/cds/js/app.js"></script>
+
+  
+    <script>
+    $(window).load(function(){
+      $("#featured").orbit({
+        animation: 'fade',
+        advanceSpeed: 14000,  
+        bullets: true,
+        captions: true,
+        captionAnimation: 'slideOpen',  
+      });
+      $('ul.orbit-bullets').wrap('<div class="slide-dots" />');
+    });
+    </script> 
+  
+</body>
+<!-- InstanceEnd --></html>

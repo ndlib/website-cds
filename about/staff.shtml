@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!-- InstanceBegin template="/Templates/cds_template_left.dwt" codeOutsideHTMLIsLocked="false" --> <!--<![endif]-->
+<head>
+<meta charset="utf-8" />
+
+<!-- Set the viewport width to device width for mobile -->
+<meta name="viewport" content="width=device-width" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Staff | Center for Digital Scholarship</title>
+<!-- InstanceEndEditable -->
+<!-- Included CSS Files (Uncompressed) -->
+<!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  
+<!-- Included CSS Files (Compressed) -->
+<link rel="stylesheet" href="/css/foundation.min.css">
+<link rel="stylesheet" href="/css/app.css">
+<link rel="stylesheet" href="/css/fonts.css">
+
+<script src="/js/modernizr.foundation.js"></script>
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700,300italic' rel='stylesheet' type='text/css'>
+  <!-- InstanceBeginEditable name="head" -->
+  <!-- InstanceEndEditable -->
+</head>
+<body>
+
+<div id="wrapper">
+<header id="header" role="banner" class="gtype blue">
+    <hgroup>
+      <h3 class="nddotedu"><a href="http://nd.edu">University <i>of</i> Notre Dame <img src="/images/ndmark300.png" class="ndmark" alt="University of Notre Dame"></a></h3>
+      <h2 class="dept-prov"><a href="http://library.nd.edu">Hesburgh Libraries</a></h2>
+      <h1><a href="/" accesskey="1">Navari Family Center <span>for</span> Digital Scholarship</a></h1>
+    </hgroup>
+    <div id="header-util">
+      <form method="get" id="search-header" action="/search/" role="search"><input type="hidden" name="as_sitesearch" value="nd.edu"><input type="hidden" name="entqr" value="3"><label for="search-input">Search</label><input type="search" name="q" id="search-input" placeholder="Search" accesskey="4"><button type="submit" id="search-button">Search</button></form>
+      
+    </div>
+</header></div>
+
+<div class="rotator">
+  <div class="row">
+    <div class="twelve columns"><!-- InstanceBeginEditable name="banner" --><!-- InstanceEndEditable --></div>
+  </div>
+</div>
+<!--#include virtual="/ssi/nav.shtml" -->
+<div class="row content">
+    
+  <div class="twelve columns full">
+      
+
+      
+    <div class="row content-inner">
+      <div class="three columns sidebar">
+        <!-- InstanceBeginEditable name="left-column" --><!--#include virtual="/ssi/nav-about.shtml" -->
+
+        <!-- InstanceEndEditable -->
+      </div>
+      <div class="nine columns"><!-- InstanceBeginEditable name="content" -->
+        <h1>Library Faculty and Staff<br>
+          <a href="mailto:cds@nd.edu">cds@nd.edu</a><br>
+          <br>
+        </h1>
+<div>
+          <div class="staff">  
+  <p><a href="#"><img src="http://placehold.it/75x100" alt="">Mark Dehmlow</a><br> 
+    Program Director, Digital Access, Resources, and <br>
+    Information Technology<br>
+    <a href="mailto:mdehmlow@nd.edu">mdehmlow@nd.edu</a> | ph. 574-631-3092</p></div>
+
+
+<div class="staff">  
+  <p><a href="#"><img src="http://placehold.it/75x100" alt=""></a><a href="#">Amanda Gulley</a> <br>
+Media Digitization Specialist<br>
+<a href="mailto:agulley@nd.edu">agulley@nd.edu</a> | ph. 574-631-8694</p>
+</div>
+
+<div class="staff">  
+  <p><a href="#"><img src="http://placehold.it/75x100" alt=""></a><a href="#">Mandy Havert</a><br>
+Digital Research &amp; Outreach Librarian, Graduate Outreach <br>
+Services Librarian<br>
+<a href="mailto:mhavert@nd.edu">mhavert@nd.edu</a> | ph. 574-631-6189</p>
+</div>
+
+<div class="staff">  
+  <p><a href="#"><img src="http://placehold.it/75x100" alt=""></a><a href="#">Adam Heet</a><br>
+Digital Projects Specialist <br>
+<a href="mailto:Adam.L.Heet.3@nd.edu">Adam.L.Heet.3@nd.edu</a> ﻿| ph. 574-631-0899</p>
+    </div>
+
+<div class="staff">
+  <p><a href="#"><img src="http://placehold.it/75x100" alt=""></a><a href="#">Daniel Johnso<strong>n</strong></a><strong>, Ph.D</strong>.<br>
+Digital Humanities &amp; English Literature Librarian <br>
+<a href="mailto:djohns27@nd.edu">djohns27@nd.edu</a> ﻿| ph. 574-631-3457</p>
+        </div>
+
+<div class="staff">  
+  <p><a href="#"><img src="http://placehold.it/75x100" alt=""></a><a href="#">Rick Johnson</a><br>
+Head, Data Curation and Digital Library Solutions<br>
+<a href="mailto:rjohns14@nd.edu">rjohns14@nd.edu</a> ﻿| ph. 574-631-1086</p>
+</div>
+
+<div class="staff">
+  <p><a href="#"><img src="http://placehold.it/75x100" alt=""></a><a href="#">Denise Massa</a><br>
+Curator, Visual Resources Center<br>
+<a href="mailto:dmassa@nd.edu">dmassa@nd.edu</a> | ph. 574-631-4273</p>
+</div>
+	
+<div class="staff">
+  <p><a href="#"><img src="http://placehold.it/75x100" alt=""></a><a href="#">Natalie Meyers</a><br>
+E-Research Librarian<br>
+<a href="mailto:natalie.meyers@nd.edu">natalie.meyers@nd.edu</a> | ph. 574-631-1546</p>
+</div> 
+	
+<div class="staff">  
+  <p><a href="#"><img src="http://placehold.it/75x100" alt=""></a><a href="#">Eric Lease Morgan</a> <br>
+Digital Initiatives Librarian <br>
+<a href="mailto:emorgan@nd.edu">emorgan@nd.edu</a> | ph. 574-631-8604</p>
+</div> 
+	
+	<div class="staff">
+  <p><a href="#"><img src="http://placehold.it/75x100" alt=""></a><a href="#">Mikala Narlock</a><br>
+Digital Collections Librarian<br>
+<a href="mailto:mnarlock@nd.edu">mnarlock@nd.edu</a> | ph. 574-631-5058</p>
+</div> 
+
+<div class="staff">
+  <p><a href="#"><img src="http://placehold.it/75x100" alt=""></a><a href="#">Jame<strong>s Ng</strong></a><strong>, Ph.D</strong>.<br>
+Economics  Librarian<br>
+<a href="mailto:jng2@nd.edu">james.ng@nd.edu</a> | ph. 574-631-9038</p>
+    </div>
+
+<div class="staff">   
+  <p><a href="#"><img src="http://placehold.it/75x100" alt=""></a><a href="#">Alexander Papson</a><br>
+Metadata and Digital Projects Librarian <br>
+<a href="mailto:apapson@nd.edu">apapson@nd.edu</a> | ph. 574-631-3282</p>
+</div>
+
+<div class="staff">
+  <p><a href="#"><img src="http://placehold.it/75x100" alt=""></a><a href="#">Patrick Rader</a><br>
+Media Digitization Production Coordinator<br>
+<a href="mailto:prader@nd.edu">prader@nd.edu</a> | ph. 574-631-3099</p>
+    </div>
+
+<div class="staff">
+  <p><a href="#"><img src="http://placehold.it/75x100" alt=""></a><a href="#">Matthew Sisk</a><strong>, Ph.D</strong>.<br>
+Geographic Information Systems Librarian<br>
+<a href="mailto:msisk1@nd.edu">msisk1@nd.edu</a> | ph. 574-631-7313</p>
+</div>
+
+<div class="staff">
+  <p><a href="#"><img src="http://placehold.it/75x100" alt=""></a><a href="#">Julie Vecchio<br>
+  </a>Assistant Director<br>
+  <a href="mailto:jvecchio@nd.edu">jvecchio@nd.edu</a> | ph. 574-631-4900</p>
+</div>
+
+<div class="staff">
+  <p><a href="#"><img src="http://placehold.it/75x100" alt=""></a><strong>John Wang</strong><br>
+    Associate University Librarian for Digital Access, <br>
+    Resources, and Information Technology<br>
+    <a href="mailto:zheng.wang@nd.edu">zheng.wang@nd.edu</a> | 574-631-6495 <br>
+  </p>
+  <p><a href="#"><br>
+  </a><br>
+  </p>
+</div>
+  <h1 style="clear:both;">Affiliated Subject Experts</h1>
+<div class="staff">  
+  <p><a href="#">Milan Budhathoki</a><br>
+    Center for Research Computing<br>
+  <a href="mailto:mbudhathoki@nd.edu">mbudhathoki@nd.edu</a> | T Th: 2 PM - 5 PM </p></div>
+ <div class="staff"> <p><strong>Hesburgh Libraries Subject Librarian and Liason Guide</strong><br>
+     <a href="https://resources.library.nd.edu/documents/Selectors.pdf" target="_blank">Click here for a link to the complete list</a> (PDF)</p>
+ </div>
+ <div class="staff"> <p>&nbsp;</p>
+</div>
+    </div>
+  <p>&nbsp;</p><!-- InstanceEndEditable --></div>
+    </div>
+  </div>
+
+     
+
+  
+</div>
+
+<div class="row">
+  <div class="twelve columns">
+    <footer role="contentinfo" class="vcard" id="footer">
+    <p class="url fn org" id="copyright" style="display:none;">
+      <a href="http://nd.edu/copyright/">Copyright</a> &copy; 2013
+      <a class="org" href="http://nd.edu">University of Notre Dame</a>
+    </p>
+
+    <p class="adr" id="contact-info">
+      <span class="address"><span class="street-address">Hesburgh Library</span>, <span class="locality">Notre Dame</span>, <span title="Indiana" class="region">IN</span> <span class="postal-code">46556</span></span>
+      <span class="tel"><span class="type">Phone</span> 574.631.4900</span>
+      <span class="tel fax"><span class="type">Fax</span> 574.631.6772</span>
+      <span class="email"><a href="mailto:cds@nd.edu">cds@nd.edu</a></span>
+    </p>
+    <a id="ndmark" href="http://library.nd.edu"><img alt="University of Notre Dame" class="ndmark" src="/images/ndmark300.png"></a>
+  </footer>
+  </div>
+</div>
+  
+  
+  
+
+
+  
+  
+
+  
+<!-- Included JS Files (Compressed) -->
+<script src="/js/jquery.js"></script>
+<script src="/js/foundation.min.js"></script>
+
+  
+<!-- Initialize JS Plugins -->
+<script src="/js/app.js"></script>
+
+  
+<script>
+    $(window).load(function(){
+      $("#featured").orbit({
+        animation: 'fade',
+        advanceSpeed: 14000,  
+        bullets: true,
+        captions: true,
+        captionAnimation: 'slideOpen',  
+      });
+      $('ul.orbit-bullets').wrap('<div class="slide-dots" />');
+    });
+    </script> 
+  
+</body>
+<!-- InstanceEnd --></html>

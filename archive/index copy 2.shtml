@@ -1,0 +1,56 @@
+<!--#include virtual="/cds/ssi/header.shtml" -->
+<!--#include virtual="/cds/ssi/rotator.shtml" -->
+<!--#include virtual="/cds/ssi/nav.shtml" -->
+  <div class="row content">
+    <div class="ten columns full">
+      
+      <span class="orbit-caption" id="captionOne">Here is a caption...</span>
+      <span class="orbit-caption" id="captionTwo">Second Caption.</span>
+      
+      <div class="row content-inner">
+          <div class="three columns">
+            <ul class="subnav">
+          <li><a href="#">Classrooms</a></li>
+          <li><a href="#">Floorplans</a></li>
+          <li><a href="#">Software/Hardware</a></li>
+        </ul>
+          </div>
+          <div class="nine columns">
+             
+             <h1>Spaces</h1> 
+<p>The Center for Digital Scholarship is located on the NE corner 1st floor of Hesburgh building.  The floor plan intentionally combines a number of different functional spaces, in that we intend for it to be a prototype in which we can refine how we serve and meet the needs of researches within the context of emerging technologies.</p>
+
+[Numbered floor plan]
+
+<h3>The Center includes several distinct areas: </h3>
+
+<ol><li><strong>Entrance and Help Desk:</strong>
+<br>Large screens display images or short clips highlighting our projects, and a consultation area anchored with a large video monitor allows for drop-in assistance. </li>
+<li><strong>High-tech Classroom:</strong>
+<br>The Center includes a small classroom for 20 students, in which students can work in a ‘flipped’ model, learning in groups instead of all facing a central direction.  This space allows for experimentation with new models of instruction, in which students educate one another as opposed to more traditional models of instructor-led learning.  </li>
+<li><strong>Digital Research Lab:</strong> <br>
+Within the lab environment, researchers of all levels across disciplines are able to utilize and receive assistance with specialized hardware and software. We also offer expertise to support advanced inquiry, especially in areas in which technology can be used in conjunction with the Libraries’ digital collections.  </li>
+<li><strong>Office Suite:</strong> 
+<br>Six individuals with technology specializations sit within the space on a full-time basis to provide assistance and support to patrons. The space also includes two consultation offices, in which additional experts from the Libraries and other centers or departments on campus hold drop-in consultations. </li>
+<li><strong>Conference/Consultation Room:</strong>
+<br>Included within the Center’s space is a 12-person conference room with technical capabilities for holding web-based meetings. </li>
+<li><strong>Interactive Group Project Space:</strong><br>
+Anyone is invited to use the Center’s collaborative workspaces for project or group work.  Several mobile monitors allow for the shared viewing of electronic content by groups. These spaces are not intended to provide a quiet environment within the library, but rather are intended as spaces that encourage interaction and collaboration.  </li></ol>
+             
+          </div>
+        </div>
+    </div>
+
+     
+
+    <div class="two columns sidebar">
+      <h3>Hours</h3>
+      <ul>
+        <li>Monday - Friday: X:00am - X:00pm</li>
+      </ul>
+      <h3>Contact Us</h3>
+      
+    </div>
+  </div>
+
+<!--#include virtual="/cds/ssi/footer.shtml" -->

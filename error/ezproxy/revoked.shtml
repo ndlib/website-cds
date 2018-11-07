@@ -1,0 +1,65 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<meta name="site-version" content="3.0">
+	<!-- TemplateBeginEditable name="doctitle" --><title>Privileges Revoked</title><!-- TemplateEndEditable -->
+	<meta name="description" content="Information resources and collections of the Hesburgh Libraries, University of Notre Dame." />
+	<link rel="shortcut icon" href="/favicon.ico" />
+	<!--#include virtual="/ssi/css.shtml" -->
+	<!--#include virtual="/ssi/js.shtml" -->
+</head>
+<body>
+	<div id="wrapper" class="outter">
+	<!--#include virtual="/ssi/skip-links.shtml" -->
+		<div id="header" class="outter">
+		<!--#include virtual="/ssi/header.shtml" -->
+	</div> 
+	<!-- End #header -->
+	<div id="main-menu" class="outter">
+	<!--#include virtual="/ssi/main-menu.shtml" -->
+	</div>
+	<!-- End #main-menu -->
+	<div id="content_wrapper" class="outter">
+		<div id="content" class="container">
+			<div id="crumbs" class="span-24 last"><!-- TemplateBeginEditable name="crumbs" -->
+<a href="/">Hesburgh Libraries</a> &gt; 
+<!-- TemplateEndEditable --></div>
+			<div id="pg-title" class="span-24 last"><!-- TemplateBeginEditable name="pg-title" --><h1>Privileges Revoked</h1><!-- TemplateEndEditable -->
+			</div>
+				<div id="single-col" class="column span-24 last">
+				<!-- TemplateBeginEditable name="left-column-content" --> 
+ 
+<script language="JavaScript">
+
+<!--
+
+
+
+function help() {
+
+  window.open("dyabola_help.shtml", "help", "height=420,width=760,alwaysraised=yes,toolbar=yes,menubar=yes,location=yes,scrollbars=yes,resizable=yes");
+
+}
+
+
+
+// -->
+
+
+</script> Your access to the proxy server and the libraries resources have been temporarily revoked, likely because of excessive or inappropriate use of an internet resource subscribed to by the library. Usually, this is a result of downloading an excessive number of journal articles in a short period of time which is a violation of our user agreements.
+<br /> 
+<br /> You might also see this message if you are no longer officially affiliated with the University.
+<br />
+<br /> If you have questions or concerns, or would like to discuss why your privileges may have been revoked, please contact 
+<a href="https://library.nd.edu/eresources/findtext/problem/prompt.cgi?service=EZproxy&error=Revoked">proxy support</a> and we will explain the circumstances and how, if it is possible, you may regain your access privileges.
+
+				<!-- TemplateEndEditable -->
+				</div> 
+			<!-- End #single-col -->
+			</div> 
+		<!-- End #content -->
+		</div>
+	<!--#include virtual="/ssi/footer.shtml" -->
+	</div>
+	<!-- End #wrapper --></body></html>

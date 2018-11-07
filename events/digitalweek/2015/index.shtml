@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!-- InstanceBegin template="/Templates/cds_template_left.dwt" codeOutsideHTMLIsLocked="false" --> <!--<![endif]-->
+<head>
+<meta charset="utf-8" />
+
+<!-- Set the viewport width to device width for mobile -->
+<meta name="viewport" content="width=device-width" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>CDS | 2015 Digital Week</title>
+<!-- InstanceEndEditable -->
+<!-- Included CSS Files (Uncompressed) -->
+<!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  
+<!-- Included CSS Files (Compressed) -->
+<link rel="stylesheet" href="/cds/css/foundation.min.css">
+<link rel="stylesheet" href="/cds/css/app.css">
+<link rel="stylesheet" href="/cds/css/fonts.css">
+
+<script src="../../../javascripts/modernizr.foundation.js"></script>
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700,300italic' rel='stylesheet' type='text/css'>
+  <!-- InstanceBeginEditable name="head" -->
+  <style type="text/css">
+<!--
+.style5 {font-size: 18px; color: #006699;}
+.style8 {color: #000066; font-weight: bold; }
+.style9 {color: #000000}
+-->
+  </style>
+  <meta charset='utf-8'>
+  <meta charset='utf-8'>
+  <meta charset='utf-8'>
+  <meta charset='utf-8'>
+  <meta charset="utf-8">
+  <meta charset='utf-8'>
+  <meta charset="utf-8">
+<!-- InstanceEndEditable -->
+</head>
+<body>
+
+<div id="wrapper">
+<header id="header" role="banner" class="gtype blue">
+    <hgroup>
+      <h3 class="nddotedu"><a href="http://nd.edu">University <i>of</i> Notre Dame <img src="/cds/images/ndmark300.png" class="ndmark" alt="University of Notre Dame"></a></h3>
+      <h2 class="dept-prov"><a href="http://library.nd.edu">Hesburgh Libraries</a></h2>
+      <h1><a href="/cds" accesskey="1">Center <span>for</span> Digital Scholarship</a></h1>
+    </hgroup>
+    <div id="header-util">
+      <form method="get" id="search-header" action="/search/" role="search"><input type="hidden" name="as_sitesearch" value="nd.edu"><input type="hidden" name="entqr" value="3"><label for="search-input">Search</label><input type="search" name="q" id="search-input" placeholder="Search" accesskey="4"><button type="submit" id="search-button">Search</button></form>
+      
+    </div>
+</header></div>
+
+<div class="rotator">
+  <div class="row">
+    <div class="twelve columns"><!-- InstanceBeginEditable name="banner" -->
+
+    <!-- InstanceEndEditable --></div>
+  </div>
+</div>
+<!--#include virtual="/cds/ssi/nav.shtml" -->
+<div class="row content">
+    
+  <div class="twelve columns full">
+      
+
+      
+    <div class="row content-inner">
+      <div class="three columns sidebar">
+        <!-- InstanceBeginEditable name="left-column" --><!--#include virtual="/cds/ssi/nav-spaces.shtml" -->
+        <!-- InstanceEndEditable -->
+      </div>
+      <div class="nine columns"><!-- InstanceBeginEditable name="content" -->
+        <h1>2015 Digital Week  </h1>
+        <h1 class="style5"><a href="http://online.nd.edu/digitalweek2015/" target="_blank">Digital Week Home Page</a><a href="http://online.nd.edu/digitalweek2014/keynotes/" target="_blank"><br>
+          </a><br>
+        </h1>
+        <table width="387" border="1">
+          <tr valign="top">
+            <td width="33%" valign="top"><div align="center">
+              <h6>Tuesday<br>
+                9/22<br>
+              </h6>
+            </div></td>
+            <td width="33%" valign="top"><div align="center">
+              <h6>Wednesday<br>
+                9/23
+                  <br>
+                  GIS Day
+                  <br>
+                  [<a href="http://gis.crc.nd.edu/index.php/events" target="_blank">Web Site</a>] [<a href="/cds/digitalweek/2015/documents/GIS_Day_2015_Poster_digital.pdf" target="_blank">Event Flyer</a>] <br>
+              </h6>
+            </div></td>
+            <td width="33%" valign="top"><div align="center">
+              <h6>Thursday<br>
+                9/24
+                <br>
+                Day of Digital Humanities<br>
+                [<a href="http://library.nd.edu/cds/dayofdh/index.shtml" target="_blank">Web Site</a>] [<a href="/cds/digitalweek/2015/documents/DayofDH2015Digital.pdf" target="_blank">Event Flyer</a>] <br>
+                </h6>
+            </div></td>
+          </tr>
+          <tr valign="top">
+            <td colspan="3" valign="top"><div align="center"></div></td>
+          </tr>
+          <tr valign="top">
+            <td width="33%" valign="top"><br></td>
+            <td width="33%" valign="top"><span class="style8">Workshop - What in the World is GIS?</span><br>
+9a-10a<br>
+CDS Classroom<br>
+[<a href="http://nd.libcal.com/event/2168824" target="_blank">Registration</a>] <br>
+<br></td>
+            <td width="33%" valign="top"><span class="style8"><a href="http://library.nd.edu/cds/dayofdh/lightningtalks.shtml" target="_blank" class="style8">Lightning Talks - Graduate Student/Postdoctoral Fellow Digital Research Lightening Talks</a></span><br>
+9:30a-11a<br>
+CDS<br>
+<b style="font-weight:normal;" id="docs-internal-guid-3409ebe1-c88f-afdf-62ef-d952dce87353">
+<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:14.666666666666666px;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;">The lightning talk session is intended to provide presenters with an opportunity to showcase their research, as well as facilitate networking among presenters and attendees. This fast-paced event is a great opportunity to learn about digital humanities research being conducted on campus.</span></p>
+</b><br></td>
+          </tr>
+          <tr valign="top">
+            <td width="33%" valign="top"><span class="style8">ND Maker Showcase</span><br>
+10a-2p<br>
+West Lake Hall</td>
+            <td width="33%" valign="top"><span class="style8">Workshop - GIS for Everyone</span><br>
+  10a-11a<br>
+CDS Classroom<br>
+[<a href="http://nd.libcal.com/event/2168825" target="_blank">Registration</a>]</td>
+            <td width="33%" valign="top"><p><span class="style8"><a href="http://library.nd.edu/cds/digitalweek/2015/dhlightningtalks/" target="_blank" class="style8"><a href="http://library.nd.edu/cds/digitalweek/2015/dhlightningtalks/" target="_blank" class="style8"></a></span></p></td>
+          </tr>
+          <tr valign="top">
+            <td width="33%" valign="top">&nbsp;</td>
+            <td width="33%" valign="top"><span class="style8">GIS Gives Hope - Mapping the Relief Effort in Nepal</span><span class="style8"><br>
+              </span>11a-12p<br>
+CDS <br><br></td>
+            <td width="33%" valign="top"><p><span class="style8">Q&amp;A with Martin Mueller, Ph.D.</span><br>
+11a-11:45a<br>
+CDS<br>
+Join our keynote speaker for a discussion of student engagement in digital humanities projects.</p></td>
+          </tr>
+          <tr valign="top">
+            <td width="33%" valign="top"><span class="style8">Workshop - SketchUp and Beyond (3D Modeling) </span><br>
+12:30p-2:30p<br>
+CDS Classroom </td>
+            <td width="33%" valign="top"><span class="style8">Lightning Talks &amp; Lunch<br>
+            </span>12p-1p<br>
+CDS <br>
+[<a href="https://crc.nd.edu/index.php/news-events/calendar/special-events/gis-day-2015-lunch-registration" target="_blank">Registration</a>]</td>
+            <td width="33%" valign="top"><span class="style8">Synergy Social<strong> - Digital Humanities Project &quot;Speed Dating&quot;</strong><br>
+              </span>
+              12:00p-1:30p<br>
+                        CDS<br>
+                        [<a href="http://nd.libcal.com/event/2175233" target="_blank">Registration</a>] <br>
+                        <br>
+                      The purpose of this event is to facilitate connectionsbetween researchers and scholars in the humanities and campus resources and potential collaborators across a variety of fields. After light refreshments and an informal chance to mingle, the “speed dating” will begin. Attendees with particular skillsets/areas of expertise will be stationed around the room, while those with specific project ideas or general interest in exploring some of the available areas of expertise represented will walk around in search of more information about resources, or to meet potential collaborators.</p>
+                      <p><br>
+            </p></td>
+          </tr>
+          <tr valign="top">
+            <td width="33%" height="310" valign="top">&nbsp;</td>
+            <td width="33%" valign="top"><span class="style8">Posters &amp; Pastry  <br>
+            </span>1:00p-2:00p<br> 
+            CDS</td>
+            <td width="33%" valign="top"><p><span class="style8"><strong>Workshops</strong></span><br>
+              2p-3p<br>
+              CDS Classroom and Conference Room<br>
+            </p>
+              <ul>
+                <li><font face="arial, helvetica, sans-serif">Introduction to Text Encoding (Dan Johnson, PhD) [<a href="http://nd.libcal.com/event/2176817" target="_blank">Registration</a>]</font></li>
+                <li><font face="arial, helvetica, sans-serif">Finding Images: Teaching &amp; Researching with Artstor
+                </font>(Denise Massa) [<a href="http://nd.libcal.com/event/2176804" target="_blank">Registration</a>]</li>
+            </ul></td>
+          </tr>
+          <tr valign="top">
+            <td width="33%" valign="top">&nbsp;</td>
+            <td width="33%" valign="top"><span class="style8">Keynote <br>
+            </span> <em>Tim Wallace, Graphics Editor and Cartographer, The New York Times</em><span class="style8"><br>
+            </span>2:15p<br>
+Carey Auditorium, Hesburgh Library </td>
+            <td width="33%" valign="top"><span class="style8"><strong>Demo - DHARMA</strong> (Digital Historical Architectural Research and Materials Analysis) Project<br>
+            </span>3p-4p<br>
+CDS <br>
+<b style="font-weight:normal;" id="docs-internal-guid-3409ebe1-c88f-0382-a71b-e92e2bf3bc76">
+<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:14.666666666666666px;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;">Prepare to explore ancient masterpieces, the Roman Forum and the Taj Mahal, in 3D visualizations. Chris Sweet, Cyberinfrastructure, Assistant Director at the Center for Research Computing, has teamed up with Notre Dame School of Architecture Associate Professor, Krupali Uplekar Krusche, in the Digital Historical Architectural Research and Materials Analysis (D.H.A.R.M.A.) Project. This project documents World Heritage Sites around the world and has been using 3D imaging and programming to build a database where people can visit and analyze these historical landmarks digitally. Presentation will include 3D visualization. 3D glasses will be provided to audience.</span></p>
+</b></td>
+          </tr>
+          <tr valign="top">
+            <td width="33%" valign="top">&nbsp;</td>
+            <td width="33%" valign="top">&nbsp;</td>
+            <td width="33%" valign="top"><strong><span class="style8">Keynote</span> - <a href="http://panini.northwestern.edu/mmueller/" target="_blank">Martin Mueller, Ph.D.</a><br>
+              </strong><em>Professor Emeritus, Northwestern University</em><br>
+              &quot;Back to the Future: Philology in a Digital Age&quot;
+              <br>              4:30p<br> 
+CDS
+</td>
+          </tr>
+        </table>
+      <!-- InstanceEndEditable --></div>
+    </div>
+  </div>
+
+     
+
+  
+</div>
+
+<div class="row">
+  <div class="twelve columns">
+    <footer role="contentinfo" class="vcard" id="footer">
+    <p class="url fn org" id="copyright" style="display:none;">
+      <a href="http://nd.edu/copyright/">Copyright</a> &copy; 2013
+      <a class="org" href="http://nd.edu">University of Notre Dame</a>
+    </p>
+
+    <p class="adr" id="contact-info">
+      <span class="address"><span class="street-address">Hesburgh Library</span>, <span class="locality">Notre Dame</span>, <span title="Indiana" class="region">IN</span> <span class="postal-code">46556</span></span>
+      <span class="tel"><span class="type">Phone</span> 574.631.4900</span>
+      <span class="tel fax"><span class="type">Fax</span> 574.631.6772</span>
+      <span class="email"><a href="mailto:cds@nd.edu">cds@nd.edu</a></span>
+    </p>
+    <a id="ndmark" href="http://library.nd.edu"><img alt="University of Notre Dame" class="ndmark" src="/cds/images/ndmark300.png"></a>
+  </footer>
+  </div>
+</div>
+  
+  
+  
+
+
+  
+  
+
+  
+<!-- Included JS Files (Compressed) -->
+<script src="/cds/js/jquery.js"></script>
+<script src="/cds/js/foundation.min.js"></script>
+
+  
+<!-- Initialize JS Plugins -->
+<script src="/cds/js/app.js"></script>
+
+  
+<script>
+    $(window).load(function(){
+      $("#featured").orbit({
+        animation: 'fade',
+        advanceSpeed: 14000,  
+        bullets: true,
+        captions: true,
+        captionAnimation: 'slideOpen',  
+      });
+      $('ul.orbit-bullets').wrap('<div class="slide-dots" />');
+    });
+    </script> 
+  
+</body>
+<!-- InstanceEnd --></html>

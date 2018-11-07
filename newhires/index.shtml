@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!-- InstanceBegin template="/Templates/cds_template_left.dwt" codeOutsideHTMLIsLocked="false" --> <!--<![endif]-->
+<head>
+<meta charset="utf-8" />
+
+<!-- Set the viewport width to device width for mobile -->
+<meta name="viewport" content="width=device-width" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>CDS New Employee Information</title>
+<!-- InstanceEndEditable -->
+<!-- Included CSS Files (Uncompressed) -->
+<!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  
+<!-- Included CSS Files (Compressed) -->
+<link rel="stylesheet" href="/cds/css/foundation.min.css">
+<link rel="stylesheet" href="/cds/css/app.css">
+<link rel="stylesheet" href="/cds/css/fonts.css">
+
+<script src="../javascripts/modernizr.foundation.js"></script>
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700,300italic' rel='stylesheet' type='text/css'>
+  <!-- InstanceBeginEditable name="head" -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <style type="text/css">
+<!--
+.style1 {font-weight: bold}
+.style5 {color: #003366}
+.style6 {font-style: italic}
+-->
+  </style>
+<!-- InstanceEndEditable -->
+</head>
+<body>
+
+<div id="wrapper">
+<header id="header" role="banner" class="gtype blue">
+    <hgroup>
+      <h3 class="nddotedu"><a href="http://nd.edu">University <i>of</i> Notre Dame <img src="/cds/images/ndmark300.png" class="ndmark" alt="University of Notre Dame"></a></h3>
+      <h2 class="dept-prov"><a href="http://library.nd.edu">Hesburgh Libraries</a></h2>
+      <h1><a href="/cds" accesskey="1">Center <span>for</span> Digital Scholarship</a></h1>
+    </hgroup>
+    <div id="header-util">
+      <form method="get" id="search-header" action="/search/" role="search"><input type="hidden" name="as_sitesearch" value="nd.edu"><input type="hidden" name="entqr" value="3"><label for="search-input">Search</label><input type="search" name="q" id="search-input" placeholder="Search" accesskey="4"><button type="submit" id="search-button">Search</button></form>
+      
+    </div>
+</header></div>
+
+<div class="rotator">
+  <div class="row">
+    <div class="twelve columns"><!-- InstanceBeginEditable name="banner" --><!-- InstanceEndEditable --></div>
+  </div>
+</div>
+<!--#include virtual="/cds/ssi/nav.shtml" -->
+<div class="row content">
+    
+  <div class="twelve columns full">
+      
+
+      
+    <div class="row content-inner">
+      <div class="three columns sidebar">
+        <!-- InstanceBeginEditable name="left-column" -->
+        <!-- InstanceEndEditable -->
+      </div>
+        <div class="nine columns"><!-- InstanceBeginEditable name="content" -->
+        <h1><a name="top"></a>New Employee Information</h1>
+          
+        <h4><span class="style1"><a href="#timeline">Timeline</a> | <a href="#checklist">Checklist</a> |<a href="#resources"> Resources</a> | <a href="https://docs.google.com/forms/d/1L8PYC418sDtNSFAF7tSOnZ-rjL0CRuceigAz6sOcM9Q/viewform?usp=send_form" target="_blank">CDS Setup Form</a></span><span class="style6"><br>
+</strong></a></span><br>
+        </h4>
+        <h2><em><strong></strong></em><strong><a name="description"></a><span class="style5">Welcome</span></strong></h2>
+        <p>We are excited for you to join us!</p>
+        <p>Please complete the &quot;CDS Setup Form&quot; linked above to enable us to begin the procurement process for relevant items as soon as you are able. (The more time we have to process purchases, the better!) </p>
+        <p> If you have any questions, please don't hesitate to contact <a href="mailto:cds@nd.edu">cds@nd.edu</a>.<br>
+          <br>
+          <br>
+        </p>
+        <h3><a name="timeline"></a>Timeline</h3>
+<ul>
+          <li><strong>Prior to arrival</strong>
+<ul>
+              <li>Please complete the <a href="https://docs.google.com/forms/d/1L8PYC418sDtNSFAF7tSOnZ-rjL0CRuceigAz6sOcM9Q/viewform?usp=send_form" target="_blank">CDS Setup Form</a></li>
+              <li>You will receive the following information from your supervisor:
+                <ul>
+                  <li>Date/time of arrival</li>
+                  <li>Meeting location</li>
+                  <li>Parking information <a href="http://map.nd.edu/#/placemarks//zoom/16/lat/41.700346/lon/-86.238899" target="_blank">(Bulla Lot</a>, East of the Library and Library Lot)</li>
+                  <li>Dress code information (as applicable)<br>
+                    <br>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li><strong>Your first week</strong>
+[<a href="https://hr.nd.edu/employment-opportunities/new-employee-toolkit/your-first-week/" target="_blank">more information and step-by-step instructions</a>]
+    <ul>
+      <li>Within 3 business days of the start date of your employment, you must complete your employment eligibility verification (I-9)        </li>
+      <li>After your submit your I-9 paperwork to HR, your ND ID card and NDID number will be provided to you</li>
+      <li>Activate your NetID</li>
+      <li>After receiving your ND ID card and NDID number, to apply for a parking permit, take your ND ID card and license plate number to the Parking Services office in Hammes Mowbray Hall <strong>OR</strong> apply online (active NetID required) via insideND &gt; iNDcars.</li>
+      <li>Complete payroll information via InsideND</li>
+      <li>Set up your ND email account</li>
+      <li>Confirm your directory information</li>
+      <li>Set up your telephone</li>
+      <li>Attend new hire Onboarding sessions (required)              <br>
+        <br>
+        </li>
+    </ul>
+    </li>
+</ul>
+<p>[<a href="#top">top</a>]<br>
+  <br>
+</p>
+<p></p>
+        <h3><a name="checklist"></a>CDS Checklist</h3>
+        <ul>
+          <li>Visual identification <em>[CDS Coordinator]</em>
+<ul>
+              <li>Hesburgh Libraries magnetic gold name tag <em>[CDS Coordinator]</em></li>
+              <li>Desk plate <em>[Julie Garces, Administration Office]</em></li>
+              <li>Business cards <em>[Julie Garces, Administration Office]</em></li>
+            </ul>
+          </li>
+          <li>Keys to office space(s) <em>[CDS Coordinator]</em></li>
+          <li><a href="http://oithelp.nd.edu/phone-and-tv/voip/" target="_blank">Telephone</a> <em>[Kiim Shreve, LIB-ITS]</em></li>
+          <li>Technology (hardware, software, print set-up)<em> [LIB-ITS]</em></li>
+          <li>Office supplies <em>[Julie Garces, Administration Office]</em></li>
+          <li>Online presence  
+            <ul>
+              <li><a href="http://library.nd.edu/cds/about/staff.shtml" target="_blank">CDS Staff Directory</a><em>[CDS Coordinator]</em></li>
+              <li><a href="http://library.nd.edu/directory" target="_blank">Hesburgh Library Staff Directory</a> <em>[supervisor]</em></li>
+              <li><a href="https://docs.google.com/a/nd.edu/document/d/12bT4hxgQJIY79UYmo7yNTycvAkRNFgaPupII6vV7UAk/edit?usp=sharing" target="_blank">Email signature</a> <em>[self]</em></li>
+            </ul>
+          </li>
+          <li>Internal app access + overview
+            <ul>
+              <li><a href="google.nd.edu" target="_blank">Google Apps</a><em> [CDS Coordinator]</em>
+                <ul>
+                  <li>Calendars (internal calendars)
+                    <ul>
+                      <li>Library Faculty/Staff - Reservable Rooms (222, 222A, 247, 248, B-001A, CDS 129, CDS 131A)</li>
+                      <li>CDS Tech Asst Shifts</li>
+                      <li>CDS Classroom</li>
+                      <li>CDS Conference Room</li>
+                    </ul>
+                  </li>
+                  <li>Drive (internal documents)
+                    <ul>
+                      <li>Meeting Notes folder</li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+              <li><a href="nd.box.com" target="_blank">Box</a> (internal documents)</li>
+              <li><a href="https://wiki.nd.edu/login.action?os_destination=%2Fdisplay%2Flibintranet%2FHome" target="_blank">Hesburgh Library Wiki</a> (HesNet) <em>[Spiceworks Ticket for access/issues]</em></li>
+              <li><a href="https://nd.libapps.com/libapps/" target="_blank">LibApps</a> (room reservations, workshop calendars, subject guides) <em>[CDS Coordinator]</em></li>
+              <li>HipChat (internal chat client) <em>[CDS Coordinator]</em></li>
+              <li><a href="https://client.desktracker.com/?uact=login" target="_blank">DeskTracker</a> (patron interaction log) <em>[CDS Coordinator]</em>- this will change Fal 2016</li>
+              <li>ServiceNow (IT ticket system) (<a href="https://nd.service-now.com/ess/create_lib_incident.do" target="_blank">Library Tickets</a> | <a href="sn.nd.edu" target="_blank">OIT Tickets</a>) <em>[N/A, all netids have access]</em></li>
+              <li><a href="https://docs.google.com/a/nd.edu/document/d/1ZnjL_iM3lB7WXGxFGWfBmWcGY7-GmhJlfYtmsTeBV0A/edit?usp=sharing" target="_blank">Emergency Procedures</a> (Google Doc, opens in new window)</li>
+            </ul>
+            <blockquote>
+              <p>&nbsp;</p>
+            </blockquote>
+          </li>
+        </ul>
+        <p>[<a href="#top">top</a>]<br>
+          <br>
+        </p>
+<h3><a name="resources"></a>Important Links/Resources</h3>
+        <ul>
+          <li><a href="https://hr.nd.edu/employment-opportunities/new-employee-toolkit/" target="_blank">ND HR
+          New Employee Toolkit          </a></li>
+          <li><a href="http://www.nd.edu/about/mission-statement/" target="_blank">University Mission, Vision, Values</a></li>
+          <li><a href="https://library.nd.edu/about/mission.shtml" target="_blank">Hesburgh Libraries Mission, Vision</a></li>
+          <li><a href="http://library.nd.edu/about/org/" target="_blank">Hesburgh Libraries Organizational Chart</a></li>
+          <li><a href="http://policy.nd.edu/" target="_blank">University Policies</a></li>
+          <li><a href="http://ndsp.nd.edu/" target="_blank">Emergency Informtion</a></li>
+          <li><a href="http://ndsp.nd.edu/parking-and-traffic/" target="_blank">Parking Information</a></li>
+          <li><a href="endeavor.nd.edu" target="_blank">Performance Management and Training</a></li>
+          <li><a href="http://riskmanagement.nd.edu/" target="_blank">Risk Management</a></li>
+          <li><a href="http://hr.nd.edu/benefits/time-off-leaves/" target="_blank">Benefits/Time Off</a></li>
+          <li><a href="https://hr.nd.edu/career-development/learning-development/" target="_blank">Professional Development Opportunities</a></li>
+          <li>Internal Communications: <a href="http://news.nd.edu/news-categories/campus/" target="_blank">ND News</a> | <a href="http://news.nd.edu/news-categories/campus/the-week-nd/" target="_blank">TheWeek</a> | This Week @ Hesburgh Libraries | <a href="http://news.nd.edu/news-categories/campus/ndworks-archive/" target="_blank">NDWorks</a></li>
+          <li><a href="https://hr.nd.edu/benefits/ndwc/" target="_blank">Wellness Center</a></li>
+          <li><a href="http://recsports.nd.edu/" target="_blank">RecSports</a></li>
+          <li><a href="http://www.nd.edu/social/" target="_blank">Social Networks</a></li>
+          <li><a href="http://ndsmcobserver.com/" target="_blank">Student Newspaper</a></li>
+        </ul>
+        <p>&nbsp;</p>
+        <p>[<a href="#top">top</a>]<br>
+      </p>
+<p></p>
+        <!-- InstanceEndEditable --></div>
+    </div>
+  </div>
+
+     
+
+  
+</div>
+
+<div class="row">
+  <div class="twelve columns">
+    <footer role="contentinfo" class="vcard" id="footer">
+    <p class="url fn org" id="copyright" style="display:none;">
+      <a href="http://nd.edu/copyright/">Copyright</a> &copy; 2013
+      <a class="org" href="http://nd.edu">University of Notre Dame</a>
+    </p>
+
+    <p class="adr" id="contact-info">
+      <span class="address"><span class="street-address">Hesburgh Library</span>, <span class="locality">Notre Dame</span>, <span title="Indiana" class="region">IN</span> <span class="postal-code">46556</span></span>
+      <span class="tel"><span class="type">Phone</span> 574.631.4900</span>
+      <span class="tel fax"><span class="type">Fax</span> 574.631.6772</span>
+      <span class="email"><a href="mailto:cds@nd.edu">cds@nd.edu</a></span>
+    </p>
+    <a id="ndmark" href="http://library.nd.edu"><img alt="University of Notre Dame" class="ndmark" src="/cds/images/ndmark300.png"></a>
+  </footer>
+  </div>
+</div>
+  
+  
+  
+
+
+  
+  
+
+  
+<!-- Included JS Files (Compressed) -->
+<script src="/cds/js/jquery.js"></script>
+<script src="/cds/js/foundation.min.js"></script>
+
+  
+<!-- Initialize JS Plugins -->
+<script src="/cds/js/app.js"></script>
+
+  
+<script>
+    $(window).load(function(){
+      $("#featured").orbit({
+        animation: 'fade',
+        advanceSpeed: 14000,  
+        bullets: true,
+        captions: true,
+        captionAnimation: 'slideOpen',  
+      });
+      $('ul.orbit-bullets').wrap('<div class="slide-dots" />');
+    });
+    </script> 
+  
+</body>
+<!-- InstanceEnd --></html>

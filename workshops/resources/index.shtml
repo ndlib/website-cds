@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!-- InstanceBegin template="/Templates/cds_template_left.dwt" codeOutsideHTMLIsLocked="false" --> <!--<![endif]-->
+<head>
+<meta charset="utf-8" />
+
+<!-- Set the viewport width to device width for mobile -->
+<meta name="viewport" content="width=device-width" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Workshop Resources | Center for Digital Scholarship</title>
+<!-- InstanceEndEditable -->
+<!-- Included CSS Files (Uncompressed) -->
+<!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  
+<!-- Included CSS Files (Compressed) -->
+<link rel="stylesheet" href="/css/foundation.min.css">
+<link rel="stylesheet" href="/css/app.css">
+<link rel="stylesheet" href="/css/fonts.css">
+
+<script src="../../../javascripts/modernizr.foundation.js"></script>
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700,300italic' rel='stylesheet' type='text/css'>
+  <!-- InstanceBeginEditable name="head" -->
+  <style type="text/css">
+<!--
+.style9 {color: #003366}
+-->
+  </style>
+<!-- InstanceEndEditable -->
+</head>
+<body>
+
+<div id="wrapper">
+<header id="header" role="banner" class="gtype blue">
+    <hgroup>
+      <h3 class="nddotedu"><a href="http://nd.edu">University <i>of</i> Notre Dame <img src="/images/ndmark300.png" class="ndmark" alt="University of Notre Dame"></a></h3>
+      <h2 class="dept-prov"><a href="http://library.nd.edu">Hesburgh Libraries</a></h2>
+      <h1><a href="/" accesskey="1">Navari Family Center <span>for</span> Digital Scholarship</a></h1>
+    </hgroup>
+    <div id="header-util">
+      <form method="get" id="search-header" action="/search/" role="search"><input type="hidden" name="as_sitesearch" value="nd.edu"><input type="hidden" name="entqr" value="3"><label for="search-input">Search</label><input type="search" name="q" id="search-input" placeholder="Search" accesskey="4"><button type="submit" id="search-button">Search</button></form>
+      
+    </div>
+</header></div>
+
+<div class="rotator">
+	<div class="row">
+	  <div class="twelve columns"><!-- InstanceBeginEditable name="banner" -->
+
+    <!-- InstanceEndEditable --></div>
+	</div>
+</div>
+<!--#include virtual="/ssi/nav.shtml" -->
+  <div class="row content">
+    
+    <div class="twelve columns full">
+      
+
+      
+      <div class="row content-inner">
+        <div class="three columns sidebar">
+          <!-- InstanceBeginEditable name="left-column" --><!--#include virtual="/ssi/nav-workshops.shtml" -->
+          <!-- InstanceEndEditable -->
+        </div>
+          <div class="nine columns"><!-- InstanceBeginEditable name="content" -->
+         <h1> Workshop Resources</h1>
+         <h2 style="color:#003366"> GIS</h2>
+			  
+			  <ul>
+			    <li>
+			      <h5>A Brief Intro to GIS<br>
+			        <a href="/workshops/resources/documents/Workshop_IntroToGIS.pdf" target="_blank">Handout (.pdf)<br>
+	              </a></h5>
+		        </li>
+			    <li>
+			      <h5>Creating Vectors<br>
+			        <a href="../../documents/Demo_CreatingVectors.pdf">Handout (.pdf)</a><br>
+			        <a href="/workshops/resources/VectorEditing_Data.zip">Data (.zip)<br>
+	              </a></h5>
+		        </li>
+			    <li>
+			      <h5>edX GIS Course Demo Data<br>
+			        <a href="/workshops/resources/Demo01_Data.zip" target="_blank">Demo 1 (.zip)<br>
+		            </a><a href="/workshops/resources/Demo02_Data.zip" target="_blank">Demo 2 (.zip)</a><a href="/workshops/resources/Demo02_Data.zip" target="_blank"><br>
+		            </a><a href="/workshops/resources/Demo03_Data.zip" target="_blank">Demo 3 (.zip)</a><a href="/workshops/resources/Demo04_Data.zip" target="_blank"><br>
+	                Demo 4 (.zip)</a><a href="/workshops/resources/Demo05_Data.zip" target="_blank"><br>
+	                Demo 5 (.zip)</a><a href="/workshops/resources/Demo06_Data.zip" target="_blank"><br>
+                    Demo 6 (.zip)<br>
+                    </a><a href="/workshops/resources/Demo07_Data.zip" target="_blank">Demo 7 (.zip)<br>
+                    </a><a href="/workshops/resources/Demo08_Data.zip" target="_blank">Demo 8 (.zip)</a> <a href="Georeferencing_DemoData.zip" target="_blank"><br>
+                    </a><a href="/workshops/resources/Demo09_Data.zip" target="_blank">Demo 9 (.zip)</a><a href="Georeferencing_DemoData.zip" target="_blank"><br>
+                    </a><a href="/workshops/resources/Demo10_Data.zip" target="_blank">Demo 10 (.zip)<br>
+                    </a><a href="/workshops/resources/Demo11_Data.zip" target="_blank">Demo 11 (.zip)<br>
+                    </a><a href="/workshops/resources/Demo12_Data.zip" target="_blank">Demo 12 (.zip)</a><a href="Georeferencing_DemoData.zip" target="_blank"><br>
+                  </a><a href="/workshops/resources/Demo13_Data.zip" target="_blank">Demo 13 (.zip)</a> </h5>
+		        </li>
+          
+            <li>
+              <h5>Geographic Information Systems (AL / ANTH 33201 / AL 53201 / CE 33100)<br>
+                <a href="/workshops/resources/documents/AL_33201_Syllabus_2016.pdf" target="_blank">Syllabus (.pdf)</a><br>
+                <a href="Georeferencing_DemoData.zip" target="_blank"></a></h5>
+            </li>
+            <li>
+              <h5>Georeferencing in ArcGIS<br>
+                <a href="../../documents/Georef_workshop.pdf">Handout (.pdf)</a><br>
+                <a href="Georeferencing_DemoData.zip" target="_blank">Data (.zip)</a><a href="../../GeoReferencing_DemoData.zip"><br>
+                  </a> </h5>
+            </li>
+            <li>
+              <h5>GIS for PoliSci Grad Students<br>
+                <a href="../../Poly_Sci_GISData.zip" target="_blank">Data (.zip)<br>
+				  </a><a href="../../Poly_Sci_GISData.zip" target="_blank"></a></li>
+            <li>
+				<h5>Time in ArcGIS</b><br>
+              <a href="/workshops/resources/documents/WorkshopSlides_TimeArcGIS.pdf" target="_blank">Handout (.pdf)<br>
+                </a><a href="/workshops/resources/Time_Demo_Data.zip" target="_blank">Data (.zip)<br>
+                  </a></h5>
+              </li>
+            </li>
+            <li>
+              <h5>Using Python in ArcGIS<br>
+                <a href="PythonWorkshop_Data.zip" target="_blank">Data (.zip)</a><br>
+                </h5>
+            </li>
+          </ul>
+         <h2 style="color:#003366">LaTeX</h2>
+
+         <ul>
+           <li>
+             <h5>Introduction to LaTeX Typesetting<br>
+               <a href="tex-course.pdf">Handout</a><a href="/workshops/resources/documents/tex-course.pdf" target="_blank"><br>
+               </a></h5>
+           </li>
+           <li>
+             <h5> Using the Notre Dame LaTeX Dissertation Style<br>
+               <a href="/workshops/resources/documents/Using-NDDiss.pdf" target="_blank">Handout<br>
+             </a>         </h5>
+           </li>
+         </ul>
+		  
+		  <h2 style="color:#003366">Multimedia & Accessibility</h2>
+	<ul>
+		    <li>
+		      <h5>Creating Accessible PDFs<br>
+				  <a href="https://docs.google.com/presentation/d/14iXuxgxEwshFaAGBcYgkcj70vCLFW5nRnRSzyYzWLLQ/edit?usp=sharing" target="new">Google Slides</a> | <a href="https://drive.google.com/open?id=1fpQHgXOcZkZ1EiAuf85wlwxV8l_2f4ze" target="new">Google Drive Folder with Demo Items</a></li></ul> 
+	  
+	  <ul>
+		    <li>
+		      <h5>Introduction to One Button Studio &amp; iMovie<br>
+		        <a href="https://docs.google.com/a/nd.edu/document/d/1B2hXcA6lMuVGQx5RYTwnAqDnyRtoup1vCH4OdnbuA0s/edit?usp=sharing" target="_blank">Handout</a><br>
+	          </h5>
+	        </li>
+	      </ul>
+	  
+	    <ul>
+		    <li>
+		      <h5>Multmedia Timelines with timeline.js<br>
+		        <a href="https://docs.google.com/presentation/d/15ZhubcGcLdyirQbQMqJ9srQxrQaY8cz9zcRQAYpXMoY/edit?usp=sharing">Slides</a><br>
+	          </h5>
+	        </li>
+	      </ul>
+	  
+
+		  <h2 style="color:#003366">Statistical Packages</h2>
+		  <ul>
+		    <li>
+		      <h5>Introduction to Stata<a href="/workshops/resources/documents/original_stata_cds_05132015.pdf" target="_blank"><br>
+	          </a><a href="http://nd.libguides.com/stata/" target="_blank">nd.libguides.com/stata<br>
+	          </a><a href="https://notredame.app.box.com/s/vs4aq0x64ovdk4zsoat6" target="_blank">Box.com (datasets, do-files) </a></h5>
+			   </li>      
+
+			  <li><h5><a href="Hands On R-Fall 2018.pdf">Hands-On R</a></h5>
+			   <ul>
+			     <li><a href="tutorial1.R">Tutorial 1</a></li>
+			     <li><a href="tutorial2.R">Tutorial 2</a></li>
+			     <li><a href="tutorial3.R">Tutorial 3</a></li>
+			     <li><a href="tutorial4.R">Tutorial 4</a><br>
+		         </li>
+		       </ul>
+			 </li>
+	      </ul>
+		  <h2 style="color:#003366">Templates</h2>
+		  		  <ul>
+					  <h5>Conference Poster Design Templates<br>
+          <li><a href="documents/3ftx4ftResearchPosterTemplate.pptx" target="_blank">3 x 4 ft</a><a href="documents/3ftx4ftResearchPosterTemplate.pptx" target="_blank"> (.ppt)<br>
+          </a><a href="documents/3ftx5ftResearchPosterTemplate.pptx" target="_blank">3 x 5 ft</a><a href="documents/3ftx5ftResearchPosterTemplate.pptx" target="_blank"> (.ppt)<br>
+			  </a></h5> </li> </ul>
+          <!-- InstanceEndEditable --></div>
+      </div>
+    </div>
+
+     
+
+  
+  </div>
+
+  <div class="row">
+    <div class="twelve columns">
+      <footer role="contentinfo" class="vcard" id="footer">
+    <p class="url fn org" id="copyright" style="display:none;">
+      <a href="http://nd.edu/copyright/">Copyright</a> &copy; 2013
+      <a class="org" href="http://nd.edu">University of Notre Dame</a>
+    </p>
+
+    <p class="adr" id="contact-info">
+      <span class="address"><span class="street-address">Hesburgh Library</span>, <span class="locality">Notre Dame</span>, <span title="Indiana" class="region">IN</span> <span class="postal-code">46556</span></span>
+      <span class="tel"><span class="type">Phone</span> 574.631.4900</span>
+      <span class="tel fax"><span class="type">Fax</span> 574.631.6772</span>
+      <span class="email"><a href="mailto:cds@nd.edu">cds@nd.edu</a></span>
+    </p>
+    <a id="ndmark" href="http://library.nd.edu"><img alt="University of Notre Dame" class="ndmark" src="/images/ndmark300.png"></a>
+  </footer>
+    </div>
+  </div>
+  
+  
+  
+
+
+  
+  
+
+  
+  <!-- Included JS Files (Compressed) -->
+  <script src="/js/jquery.js"></script>
+  <script src="/js/foundation.min.js"></script>
+
+  
+  <!-- Initialize JS Plugins -->
+  <script src="/js/app.js"></script>
+
+  
+    <script>
+    $(window).load(function(){
+      $("#featured").orbit({
+        animation: 'fade',
+        advanceSpeed: 14000,  
+        bullets: true,
+        captions: true,
+        captionAnimation: 'slideOpen',  
+      });
+      $('ul.orbit-bullets').wrap('<div class="slide-dots" />');
+    });
+    </script> 
+  
+</body>
+<!-- InstanceEnd --></html>

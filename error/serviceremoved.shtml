@@ -1,0 +1,56 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- InstanceBegin template="/Templates/template_one_col_r.dwt" codeOutsideHTMLIsLocked="false" -->
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+		<!-- InstanceBeginEditable name="doctitle" -->
+<title>Service Removed// Hesburgh Libraries //  University of Notre Dame</title>
+<!-- InstanceEndEditable -->
+		<meta name="description" content="Information resources and collections of the Hesburgh Libraries, University of Notre Dame." />
+		<meta name="viewport" content="width=device-width" />
+		<link rel="shortcut icon" href="/favicon.ico" />
+		<link rel="stylesheet" href="//asset.library.nd.edu/assets/hesburgh_assets/main/1.0/index.css" />
+
+		<script src="//asset.library.nd.edu/assets/hesburgh_assets/main/1.0/index.js"></script>
+		<!-- InstanceBeginEditable name="head" -->
+
+		<!-- InstanceEndEditable -->
+		<link rel="stylesheet" href="/local_css/quickfix.css" />
+	</head>
+	<body>
+		<div class="container">
+			<div class="row header">
+				<div class="twelve columns">
+				<!--#include virtual="/local_ssi/responsive/header.shtml" -->
+				</div>
+			</div> <!-- End #header -->
+			<div class="row menu">
+				<div class="twelve columns"><!-- InstanceBeginEditable name="menu" -->
+				  <!--#include virtual="/ssi/main-menu.shtml" -->
+				<!-- InstanceEndEditable --></div>
+			</div><!-- End #main-menu -->
+			<div class="row breadcrumb hide-on-phones">
+				<div class="twelve columns">
+					<p><!-- InstanceBeginEditable name="crumbs" --><a href="/">Hesburgh Libraries</a>
+        &gt; <a href="/help/">Help</a>
+        <!-- InstanceEndEditable --></p>
+				</div>
+			</div>
+			<div class="row content">
+				<div class="twelve columns">
+					<div class="container">
+					<!-- InstanceBeginEditable name="pg-title" -->
+                  <h1>Service Removed<!-- InstanceEndEditable -->
+
+					<!-- InstanceBeginEditable name="single-column-content" -->
+						<p>The service which you requested has been permanently removed.</p>
+						<!--#include virtual="/local_ssi/esu_contact.shtml" -->
+      <!-- InstanceEndEditable -->
+					</div><!-- End .container -->
+				</div>
+			</div> <!-- End #content -->
+
+
+			<!--#include virtual="/local_ssi/responsive/footer.shtml" -->
+		</div>	<!-- End #container -->
+	</body>
+<!-- InstanceEnd --></html>

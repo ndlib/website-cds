@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!-- InstanceBegin template="/Templates/cds_template_left.dwt" codeOutsideHTMLIsLocked="false" --> <!--<![endif]-->
+<head>
+<meta charset="utf-8" />
+
+<!-- Set the viewport width to device width for mobile -->
+<meta name="viewport" content="width=device-width" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Hours | Center for Digital Scholarship</title>
+<!-- InstanceEndEditable -->
+<!-- Included CSS Files (Uncompressed) -->
+<!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  
+<!-- Included CSS Files (Compressed) -->
+<link rel="stylesheet" href="/cds/css/foundation.min.css">
+<link rel="stylesheet" href="/cds/css/app.css">
+<link rel="stylesheet" href="/cds/css/fonts.css">
+
+<script src="../javascripts/modernizr.foundation.js"></script>
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700,300italic' rel='stylesheet' type='text/css'>
+  <!-- InstanceBeginEditable name="head" -->
+  <style type="text/css">
+<!--
+.style3 {color: #006699}
+.style4 {
+  color: #000000;
+  font-weight: bold;
+}
+.style6 {color: #333333}
+.style14 {font-style: italic; color: #006699;}
+.style15 {color: #000000}
+-->
+  </style>
+<!-- InstanceEndEditable -->
+</head>
+<body>
+
+<div id="wrapper">
+<header id="header" role="banner" class="gtype blue">
+    <hgroup>
+      <h3 class="nddotedu"><a href="http://nd.edu">University <i>of</i> Notre Dame <img src="/cds/images/ndmark300.png" class="ndmark" alt="University of Notre Dame"></a></h3>
+      <h2 class="dept-prov"><a href="http://library.nd.edu">Hesburgh Libraries</a></h2>
+      <h1><a href="/cds" accesskey="1">Center <span>for</span> Digital Scholarship</a></h1>
+    </hgroup>
+    <div id="header-util">
+      <form method="get" id="search-header" action="/search/" role="search"><input type="hidden" name="as_sitesearch" value="nd.edu"><input type="hidden" name="entqr" value="3"><label for="search-input">Search</label><input type="search" name="q" id="search-input" placeholder="Search" accesskey="4"><button type="submit" id="search-button">Search</button></form>
+      
+    </div>
+</header></div>
+
+<div class="rotator">
+	<div class="row">
+	  <div class="twelve columns"><!-- InstanceBeginEditable name="banner" --><!-- InstanceEndEditable --></div>
+	</div>
+</div>
+<!--#include virtual="/cds/ssi/nav.shtml" -->
+  <div class="row content">
+    
+    <div class="twelve columns full">
+      
+
+      
+      <div class="row content-inner">
+        <div class="three columns sidebar">
+          <!-- InstanceBeginEditable name="left-column" --><!--#include virtual="/cds/ssi/nav-about.shtml" -->
+          <!-- InstanceEndEditable -->
+        </div>
+          <div class="nine columns"><!-- InstanceBeginEditable name="content" -->
+          <table width="206" border="1">
+            <tr valign="top">
+              <td width="100"><h1>Hours<br>
+              </h1></td>
+              <td width="100"><h3><br>
+              </h3></td>
+            </tr>
+            <tr valign="top">
+              <td><h3>Fall/Spring Semester</h3></td>
+              <td><h3>Summer Semester</h3></td>
+            </tr>
+            <tr valign="top">
+              <td><strong><span class="style3">Fall 2014</span></strong>: 9/2 - 12/19<br>
+              <strong><span class="style3">Spring 2015</span></strong>: 1/11 - 5/8 <br></td>
+              <td><strong><span class="style3">Summer 2015</span></strong>: 6/15 - 7/24</td>
+            </tr>
+            <tr valign="top">
+              <td><p><span class="style4">Monday - Thursday<br>
+                </span>9 AM - 12 AM<br>
+              </p>
+                <p class="style6"><a href="#"><strong><span class="style15">Friday</span><br>
+                </strong></a>9 AM - 6 PM</p>
+                <p class="style6"><a href="#"><strong><span class="style15">Saturday</span><br>
+                </strong></a>9 AM - 5 PM</p>
+                <p class="style6"><a href="#"><strong><span class="style15">Sunday</span><br>
+              </strong></a>12 PM - 12 AM</p></td>
+              <td><p><a href="#" class="style4"><span class="style6">Monday - Thursday<br>
+              </span></a>9 AM - 8 PM</p>
+                <p><strong><span class="style6">Friday<br>
+                </span></strong>9 AM - 5 PM</p>
+                <p><strong><span class="style6">Saturday - Sunday<br>
+              </span></strong>12 PM - 5 PM </p></td>
+            </tr>
+            <tr valign="top">
+              <td><h3>Intercession &amp; Holiday Information</h3></td>
+              <td>&nbsp;</td>
+            </tr>
+            <tr valign="top">
+              <td><strong><span class="style3">Fall 2014</span></strong></td>
+              <td><strong><span class="style3">Summer 2015</span></strong></td>
+            </tr>
+            <tr valign="top">
+              <td><p><strong>Fall Break: 10/18 - 10/26</strong><br>
+                Monday - Friday: 9 AM - 5 PM<br>
+                Saturday - Sunday: Closed<strong><br>
+                </strong></p>
+                <p><strong>Thanksgiving: 11/26-11/30</strong><br>
+                Closed</p>
+                <p><strong>Holiday Break: 12/20 - 1/5<br>
+                </strong>12/20 - 1/4: Closed</p>
+                <p><strong>Winter Intercession: 1/5 - 1/11<br>
+                  </strong>Monday - Friday: 9 AM - 5 PM<br>
+              Saturday - Sunday: Closed</p></td>
+              <td><p><strong>Summer Intercession: 7/25 - 8/23<br>
+                </strong>Monday - Friday: 9 AM - 5 PM<br>
+              Saturday - Sunday: Closed</p></td>
+            </tr>
+          </table>
+          <!-- InstanceEndEditable --></div>
+      </div>
+    </div>
+
+     
+
+  
+  </div>
+
+  <div class="row">
+    <div class="twelve columns">
+      <footer role="contentinfo" class="vcard" id="footer">
+    <p class="url fn org" id="copyright" style="display:none;">
+      <a href="http://nd.edu/copyright/">Copyright</a> &copy; 2013
+      <a class="org" href="http://nd.edu">University of Notre Dame</a>
+    </p>
+
+    <p class="adr" id="contact-info">
+      <span class="address"><span class="street-address">Hesburgh Library</span>, <span class="locality">Notre Dame</span>, <span title="Indiana" class="region">IN</span> <span class="postal-code">46556</span></span>
+      <span class="tel"><span class="type">Phone</span> 574.631.4900</span>
+      <span class="tel fax"><span class="type">Fax</span> 574.631.6772</span>
+      <span class="email"><a href="mailto:cds@nd.edu">cds@nd.edu</a></span>
+    </p>
+    <a id="ndmark" href="http://library.nd.edu"><img alt="University of Notre Dame" class="ndmark" src="/cds/images/ndmark300.png"></a>
+  </footer>
+    </div>
+  </div>
+  
+  
+  
+
+
+  
+  
+
+  
+  <!-- Included JS Files (Compressed) -->
+  <script src="/cds/js/jquery.js"></script>
+  <script src="/cds/js/foundation.min.js"></script>
+
+  
+  <!-- Initialize JS Plugins -->
+  <script src="/cds/js/app.js"></script>
+
+  
+    <script>
+    $(window).load(function(){
+      $("#featured").orbit({
+        animation: 'fade',
+        advanceSpeed: 14000,  
+        bullets: true,
+        captions: true,
+        captionAnimation: 'slideOpen',  
+      });
+      $('ul.orbit-bullets').wrap('<div class="slide-dots" />');
+    });
+    </script> 
+  
+</body>
+<!-- InstanceEnd --></html>

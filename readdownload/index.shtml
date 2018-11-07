@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!-- InstanceBegin template="/Templates/cds_template_left.dwt" codeOutsideHTMLIsLocked="false" --> <!--<![endif]-->
+<head>
+<meta charset="utf-8" />
+
+<!-- Set the viewport width to device width for mobile -->
+<meta name="viewport" content="width=device-width" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Read Download DH Discussion Group</title>
+<!-- InstanceEndEditable -->
+<!-- Included CSS Files (Uncompressed) -->
+<!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  
+<!-- Included CSS Files (Compressed) -->
+<link rel="stylesheet" href="../css/foundation.min.css">
+<link rel="stylesheet" href="../css/app.css">
+<link rel="stylesheet" href="../css/fonts.css">
+
+<script src="/js/modernizr.foundation.js"></script>
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700,300italic' rel='stylesheet' type='text/css'>
+  <!-- InstanceBeginEditable name="head" -->
+  <style type="text/css">
+<!--
+.style5 {font-size: 18px; color: #006699;}
+.style6 {color: #FF0000}
+-->
+  </style>
+  <meta charset='utf-8'>
+  <meta charset='utf-8'>
+  <meta charset='utf-8'>
+  <meta charset='utf-8'>
+  <meta charset='utf-8'>
+  <meta charset='utf-8'>
+<!-- InstanceEndEditable -->
+</head>
+<body>
+
+<div id="wrapper">
+<header id="header" role="banner" class="gtype blue">
+    <hgroup>
+      <h3 class="nddotedu"><a href="http://nd.edu">University <i>of</i> Notre Dame <img src="../images/ndmark300.png" class="ndmark" alt="University of Notre Dame"></a></h3>
+      <h2 class="dept-prov"><a href="http://library.nd.edu">Hesburgh Libraries</a></h2>
+      <h1><a href="/cds" accesskey="1">Center <span>for</span> Digital Scholarship</a></h1>
+    </hgroup>
+    <div id="header-util">
+      <form method="get" id="search-header" action="/search/" role="search"><input type="hidden" name="as_sitesearch" value="nd.edu"><input type="hidden" name="entqr" value="3"><label for="search-input">Search</label><input type="search" name="q" id="search-input" placeholder="Search" accesskey="4"><button type="submit" id="search-button">Search</button></form>
+      
+    </div>
+</header></div>
+
+<div class="rotator">
+  <div class="row">
+    <div class="twelve columns"><!-- InstanceBeginEditable name="banner" -->
+
+    <!-- InstanceEndEditable --></div>
+  </div>
+</div>
+<!--#include virtual="../ssi/nav.shtml" -->
+<div class="row content">
+    
+  <div class="twelve columns full">
+      
+
+      
+    <div class="row content-inner">
+      <div class="three columns sidebar">
+        <!-- InstanceBeginEditable name="left-column" --><!--#include virtual="../ssi/nav-spaces.shtml" -->
+        <!-- InstanceEndEditable -->
+      </div>
+      <div class="nine columns"><!-- InstanceBeginEditable name="content" -->
+        <h1>Read/Download - Digital Humanities Discussion Group<span class="style5"><br>
+          <br>
+          </span><a name="top"></a><span class="style5">Contact: Daniel Johnson, Digital Humanities &amp; English Literature Librarian [<a href="mailto:djohns27@nd.edu">email</a>] </span><br>
+        </h1>
+        <h4>Fall  2017 Session 3<br>
+      </h4>
+        <p><strong>Tuesday, Dec. 5, 12:00 pm <br>
+        </strong><em>All students, faculty, and staff welcome to attend. Coffee and pastries provided. <a href="http://nd.libcal.com/calendar/allworkshops/?cid=447&t=m&d=0000-00-00&cal%5B%5D=447" target="_blank">Registration</a> is helpful, but not required.</em></p>
+        <p>Reading TBD.        </p>
+        <h4>Fall  2017 Session 2 -- DH and Newspaper Research<br>
+        </h4>
+        <p><strong>Tuesday, Oct. 24, 12:00 pm <br>
+        </strong><em>All students, faculty, and staff welcome to attend. Coffee and pastries provided. <a href="http://nd.libcal.com/calendar/allworkshops/?cid=447&t=m&d=0000-00-00&cal%5B%5D=447" target="_blank">Registration</a> is helpful, but not required.</em></p>
+        <p>For this session, participants will consider the lessons of text reuse, and specifically poetry republication, across thousands of nineteenth-century news articles. </p>
+        <p><strong>Article links:</strong><br>
+          “‘Fugitive Verses’: The Circulation of Poems in Nineteenth-Century American Newspapers” <br>
+  <a href="https://muse-jhu-edu.proxy.library.nd.edu/article/652267">https://muse-jhu-edu.proxy.library.nd.edu/article/652267 </a></p>
+        <p>Viral texts project, two interfaces:<br>
+          <a href="http://viraltexts.northeastern.edu">http://viraltexts.northeastern.edu</a><a> </a><br>
+          <a href="http://viraltexts.org">http://viraltexts.org</a></p>
+        <p>&nbsp;</p>
+        <h4>Fall  2017 Session 1<br>
+      </h4>
+        <p><strong>Tuesday, Sep. 19, 12:00 pm <br>
+        </strong><em>All students, faculty, and staff welcome to attend. Coffee and pastries provided. <a href="http://nd.libcal.com/calendar/allworkshops/?cid=447&t=m&d=0000-00-00&cal%5B%5D=447" target="_blank">Registration</a> is helpful, but not required.</em></p>
+        <p>For this first session, we will consider what large amounts of text can tell us about language shifts through time. In a very short article, &ldquo;<a href="http://www.samplereality.com/2017/05/31/a-parallax-reading-of-roethkes-my-papas-waltz/" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&q=http://www.samplereality.com/2017/05/31/a-parallax-reading-of-roethkes-my-papas-waltz/&source=gmail&ust=1505838958420000&usg=AFQjCNGUtlrisK3gcqQurwMPugBeiaze3Q">A Parallax Reading of Roethke&rsquo;s &lsquo;My Papa&rsquo;s Waltz</a>,&rsquo;&rdquo; Mark Sample uses a corpus of 400 million words to make a close reading argument about a short poem. And for a bonus optional read, we might consider anachronisms in historical tele-fiction with historian Benjamin Schmidt&rsquo;s &ldquo;Making Downton more Traditional: https://web.archive.org/web/20161124011024/http://www.prochronism.com/2012/04/making-downton-more-traditional.html.&rdquo;</p>
+        <p>No previous experience with digital tools required. Coffee and cookies provided.        </p>
+        <p></p>
+        <p><strong>Article links</strong>:<br>
+        &ldquo;A Parallax Reading of Roethke&rsquo;s &lsquo;My Papa&rsquo;s Waltz&rsquo;: On Abuse and Close and Distant Readings&rdquo;<br>
+        <a href="http://www.samplereality.com/2017/05/31/a-parallax-reading-of-roethkes-my-papas-waltz/" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&q=http://www.samplereality.com/2017/05/31/a-parallax-reading-of-roethkes-my-papas-waltz/&source=gmail&ust=1505838958420000&usg=AFQjCNGUtlrisK3gcqQurwMPugBeiaze3Q">http://www.samplereality.com/2017/05/31/a-parallax-reading-of-roethkes-my-papas-waltz/</a></p>
+        <p>          &ldquo;Making Downton more Traditional&rdquo;<br>
+        <a href="http://www.prochronism.com/2012/04/making-downton-more-traditional.html" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&q=http://www.prochronism.com/2012/04/making-downton-more-traditional.html&source=gmail&ust=1505838958420000&usg=AFQjCNFoixwoQg3nIUErKMX79m8wd0c7eA">http://www.prochronism.com/2012/04/making-downton-more-traditional.html</a></p>
+        <p>&nbsp;</p>
+        <h4><span class="style5">ARCHIVE</span></h4>
+        <h4>Spring  2017 Session 3 -- Digital Analysis of Literature through Etymology<br>
+        </h4>
+        <p><strong>Thursday, Apr. 6, 11:00 am <span class="style6">NOTE NEW TIME</span><br>
+        </strong><em>All students, faculty, and staff welcome to attend. Coffee and pastries provided. <a href="http://nd.libcal.com/event/3089036?hs=a" target="_blank">Registration</a> is helpful, but not required.</em></p>
+        <p>What can the source of vocabulary tell us about a text, and what are the dangers of analyzing text etymologically? The DH discussion group,  Read/Download, will talk about Jonathan Reeve's short article, <a href="http://jonreeve.com/2016/07/paradise-lost-macroetymology/">A Macro-Etymological Analysis of Milton’s Paradise Lost</a>, which compares the German and Latinate speech registers of the different books and the different speakers of Milton's <em>Paradise Lost</em>. The article explains the digital methodology in a clear way, and it should be a suggestive discussion for casual readers and seventeenth-century scholars alike. All experience levels and disciplines are  warmly invited; no technical background needed. And as always, free cookies and coffee.</p>
+        <p></p>
+        <p><strong>Article link</strong>: <a href="http://jonreeve.com/2016/07/paradise-lost-macroetymology/">http://jonreeve.com/2016/07/paradise-lost-macroetymology/</a>        </p>
+        <h4>Spring  2017 Session 2 -- Key DH methods in a nutshell<br>
+      </h4>
+        <p><strong>Thursday, Mar. 2, 11:00 am <span class="style6">NOTE NEW TIME</span><br>
+        </strong><em>All students, faculty, and staff welcome to attend. Coffee and pastries provided. <a href="http://nd.libcal.com/event/3089036?hs=a" target="_blank">Registration</a> is helpful, but not required.</em></p>
+        <p>If you want to know how and why computers are being used to analyze  literature, this is the session for you! The DH discussion group,  Read/Download, will be talking about a very short article by Matt Jockers, &ldquo;The  Ancient World in Nineteenth-Century Fiction,&rdquo; which boils down, in simple  terms, some of the major DH methods, including topic modeling and sentiment  analysis. It is a great opportunity to learn about the kinds of arguments one  can make with computational evidence. All experience levels and disciplines are  warmly invited; no technical background needed. Plus, free cookies and coffee!</p>
+        <p></p>
+        <p><strong>Article link</strong>: <a href="http://www.digitalhumanities.org/dhq/vol/10/2/000250/000250.html">http://www.digitalhumanities.org/dhq/vol/10/2/000250/000250.html</a>        </p>
+        <h4>Spring  2017 Session 1 -- Text Reuse and Plagiarism<br>
+      </h4>
+        <p><strong>Thursday, Feb 2, 11:00 am <span class="style6">NOTE NEW TIME</span><br>
+          </strong><em>All students, faculty, and staff welcome to attend. Coffee and pastries provided. <a href="http://nd.libcal.com/event/3089036?hs=a" target="_blank">Registration</a> is helpful, but not required.</em><br>
+        </p>
+        <p>Read / Download takes up text reuse with two short articles about machine  comparison of  texts. In our media environment of borrowed words and phrases, what distinguishes new work from stealing, and can computers help us tell the difference? We travel from the controversy surrounding <em>Axolotl  Roadkill</em>, a 2010 novel that was withdrawn from prize nomination for copying  passages from other novels, to the <em>Speculum  Morale</em>, a fourteenth-century encyclopedia that lifted passages from  multiple sources wholesale, to Oliver Goldsmith&rsquo;s unacknowledged direct  translations of French philosophies in the eighteenth century. Everyone is welcome, and this is a great opportunity to introduce yourself to digital humanities if you've never had the chance. We'll ease the process by supplying coffee  and cookies.<span> </span></p>
+        <p class="MsoNormal" style="margin: 0px; color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);">Readings: The first article is &ldquo;Deconstructing Bricolage&rdquo; by a team at  Monash U (<a href="http://www.digitalhumanities.org/dhq/vol/9/1/000203/000203.html">http://www.digitalhumanities.org/dhq/vol/9/1/000203/000203.html</a>),  and the second article is a blog post by Notre Dame graduate student Doug Duhaime (<a href="http://douglasduhaime.com/blog/cross-lingual-plagiarism-detection-with-scikit-learn">http://douglasduhaime.com/blog/cross-lingual-plagiarism-detection-with-scikit-learn</a>),  both freely available online.</p>
+        <p> [<a href="#top">top</a>]        </p>
+        <h4>Fall 2016 Session 3 -- What digital methods can tell us what about humanities scholarship: JSTOR DFR and the Enlightenment<br>
+    </h4>
+        <p><strong>Wednesday, November 30, 12:00 pm<br>
+          </strong><em>All students, faculty, and staff welcome to attend. Coffee and pastries provided. <a href="http://nd.libcal.com/calendar/allworkshops/?cid=447&t=m&d=0000-00-00&cal%5B%5D=447" target="_blank">Registration</a> is helpful, but not required.</em><br>
+        </p>
+        <p> On November 30 at noon, Read / Download will subject  humanities scholarship itself to digital analysis. We will discuss an article by  Dan Edelstein, Professor of French Literature at Stanford University, about  text-mining JSTOR for the modern history of Enlightenment studies. Then we will  try using JSTOR Data for Research ourselves to trace the career of literary  figures such as Gore Vidal and Hunter S. Thompson in twentieth-century criticism.  No prior DH experience required.</p>
+        <p class="MsoNormal" style="margin: 0px; color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);"><span> </span><strong>Reading: </strong>&ldquo;Enlightenment  Scholarship by the Numbers: dfr.jstor.org, Dirty Quantification, and the Future  of the Lit Review&rdquo; by Dan Edelstein [<a href="http://arcade.stanford.edu/rofl/enlightenment-scholarship-numbers-dfrjstororg-dirty-quantification-and-future-lit-review">http://arcade.stanford.edu/rofl/enlightenment-scholarship-numbers-dfrjstororg-dirty-quantification-and-future-lit-review</a><strong>]</strong></p>
+<p class="MsoNormal" style="margin: 0px; color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);">&nbsp;</p>
+        <p> [<a href="#top">top</a>]        </p>
+        <h4>Fall 2016 Session 2<br>
+      </h4>
+        <p><strong>Wednesday, October 26, 12:00 pm<br>
+          </strong><em>All students, faculty, and staff welcome to attend. Coffee and pastries provided. <a href="http://nd.libcal.com/calendar/allworkshops/?cid=447&t=m&d=0000-00-00&cal%5B%5D=447" target="_blank">Registration</a> is helpful, but not required.</em><br>
+        </p>
+        <p>This month, Read / Download considers the sliding scale of differences  between plagiarism and bricolage as we read two short articles about machine  comparison of &ldquo;similar&rdquo; texts. Does reconstituting someone else&rsquo;s words and  syntax in a new context create a new work? Or is it base stealing? The new  brings us to the old again, as we travel from the controversy surrounding  <em>Axolotl  Roadkill</em>, a 2010 novel that was withdrawn from prize nomination for copying  passages from other novels, to the <em>Speculum  Morale</em>, a fourteenth-century encyclopedia that lifted passages from  multiple sources wholesale, to Oliver Goldsmith&rsquo;s unacknowledged direct  translations of French philosophes in the eighteenth century. As always, we&rsquo;ll supply coffee  and cookies.</p>
+<p class="MsoNormal" style="margin: 0px; color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);"><span> </span></p>
+        <p class="MsoNormal" style="margin: 0px; color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);">Readings: The first article is &ldquo;Deconstructing Bricolage&rdquo; by a team at  Monash U (<a href="http://www.digitalhumanities.org/dhq/vol/9/1/000203/000203.html">http://www.digitalhumanities.org/dhq/vol/9/1/000203/000203.html</a>),  and the second article is a blog post by Notre Dame alumnus Doug Duhaime (<a href="http://douglasduhaime.com/blog/cross-lingual-plagiarism-detection-with-scikit-learn">http://douglasduhaime.com/blog/cross-lingual-plagiarism-detection-with-scikit-learn</a>),  both freely available online.</p>
+<p> [<a href="#top">top</a>] <br>
+        </p>
+        <h4>Fall 2016 Session 1<br>
+      </h4>
+        <p><strong>Wednesday, September 28, 12:00 pm<br>
+          </strong><em>All students, faculty, and staff welcome to attend. Coffee and pastries provided. <a href="http://nd.libcal.com/calendar/allworkshops/?cid=447&t=m&d=0000-00-00&cal%5B%5D=447" target="_blank">Registration</a> is helpful, but not required.</em><br>
+        </p>
+        <p class="MsoNormal" style="margin: 0px; color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);"><span class="il">Read</span><span class="Apple-converted-space"> </span>/ Download is a lively discussion group about humanities topics in a digital media environment. Participants from all disciplines are warmly invited, and no technical expertise is presumed. Typical sessions involve collegial conversation about a bite-sized article or two and, on occasion, workshop demonstrations of digital humanities tools that illustrate concepts invoked in the<span class="Apple-converted-space"> </span><span class="il">reading</span>. Bring a brownbag lunch if you like, and we’ll supply coffee and cookies.<span></span></p>
+        <p class="MsoNormal" style="margin: 0px; color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);"><span> </span></p>
+        <p class="MsoNormal" style="margin: 0px; color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);">The first article is historian Amy Hungerford’s provocative piece in the<Chronicle of Higher Ed</i>, “On Not Reading” (http://www.chronicle.com/article/On-Refusing-to-Read/237717). David Foster Wallace fans may want to take particular note.        </p>
+        <p> [<a href="#top">top</a>] <br>
+          <br>
+        </p>
+        <h4>Spring 2016 Session 3: May 3<br>
+        </h4>
+        <p><strong>Tuesday, May 3, 12:00 pm<br>
+          </strong><em>All students, faculty, and staff welcome to attend. Coffee and pastries provided. <a href="http://nd.libcal.com/event/2563582" target="_blank">Registration</a> is helpful, but not required.</em><br>
+        </p>
+        <p style="margin: 0px; color: rgb(34, 34, 34); font-size: 12.8px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);">Join the DH reading group and workshop series Tuesday, May 3, for our last session of the semester as we consider JSTOR Data for Research (DfR) and topic modeling. JSTOR has made strides to support the “big data” drive of digital humanities with their Data for Research Service, but what can one really do with it? A group of literature scholars including Andrew Goldstone and Ted Underwood used topic modeling to analyze the history of literary scholarship through JSTOR DfR, raising fascinating questions along the way. What is topic modeling? Can it really tell us anything significant about the history of scholarship? And how might we use JSTOR DfR ourselves? Come discuss!</p>
+        <p style="margin: 0px; color: rgb(34, 34, 34); font-size: 12.8px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);"> </p>
+        <p style="margin: 0px; color: rgb(34, 34, 34); font-size: 12.8px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);"><b>All are invited</b>: no advanced computing experience is required.        </p>
+        <p><b style="color: rgb(34, 34, 34); font-size: 12.8px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);">Readings</b><span style="color: rgb(34, 34, 34); font-size: 12.8px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255);">: </span></p>
+        <p style="margin: 0px; color: rgb(34, 34, 34); font-size: 12.8px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);"><strong>Bite-size blog post</strong>: “What can topic models of PMLA teach us about the history of literary scholarship?” [<a href="https://tedunderwood.com/2012/12/14/what-can-topic-models-of-pmla-teach-us-about-the-history-of-literary-scholarship/" target="_blank" style="color: rgb(17, 85, 204);">LINK HERE</a>]. If you read nothing else, give this a glimpse.</p>
+        <p style="color: rgb(34, 34, 34); font-size: 12.8px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);"></p>
+        <p style="margin: 0px; color: rgb(34, 34, 34); font-size: 12.8px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);"><b>Optional:</b> A slightly longer article from <i>New Literary History</i> for those so inclined: “The Quiet Transformations of Literary Studies: What Thirteen Thousand Scholars Could Tell Us” [<a href="http://muse.jhu.edu/article/558875/pdf" target="_blank" style="color: rgb(17, 85, 204);">LINK HERE</a>].</p>
+        <p style="margin: 0px; color: rgb(34, 34, 34); font-size: 12.8px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);"> </p>
+        <p style="margin: 0px; color: rgb(34, 34, 34); font-size: 12.8px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);">And for a more recent use of DfR in 18th-century studies, check out “Enlightenment Scholarship by the Numbers:<a href="http://dfr.jstor.org/" target="_blank" style="color: rgb(17, 85, 204);"> dfr.jstor.org</a>, Dirty Quantification, and the Future of the Lit Review” by Dan Edelstein [<a href="http://arcade.stanford.edu/rofl/enlightenment-scholarship-numbers-dfrjstororg-dirty-quantification-and-future-lit-review" target="_blank" style="color: rgb(17, 85, 204);">LINK HERE</a>]</p>
+        <p> [<a href="#top">top</a>] <br>
+        </p>
+        <h4>Spring 2016 Session 2: April 12<br>
+        </h4>
+        <p><strong>Tuesday, Apr. 12, 12:00 pm<br>
+          </strong><em>All students, faculty, and staff welcome to attend. Coffee and pastries provided. <a href="http://nd.libcal.com/event/2546522" target="_blank">Registration</a> is helpful, but not required.</em><br>
+        </p>
+        <p>Join the DH reading group and workshop series Tuesday, April 12, as we consider the field of “sentiment analysis.” Can computers detect emotional valence in language? If so, how might these algorithmic techniques be used? We will discuss Matt Jockers’s (Nebraska) attempt to model plots of novels with sentiment analysis and practice using sentiment analysis ourselves. All are invited: no advanced computing experience is required.</p>
+        <p><b style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);">Readings</b><span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255);">: Start with a brief blog post on Jockers’s application of sentiment analysis to plot detection: </span><span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255);">&lt;</span><a href="http://www.matthewjockers.net/2015/02/02/syuzhet/" target="_blank" style="color: rgb(17, 85, 204); font-family: arial, sans-serif; font-size: 12.8px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);">http://www.matthewjockers.net/2015/02/02/syuzhet/</a><span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255);">&gt;. If you have time, check out Jockers’s recent comparison of this kind of computational  analysis to human-coded versions here: &lt;</span><a href="http://www.matthewjockers.net/2015/12/20/that-sentimental-feeling/" target="_blank" style="color: rgb(17, 85, 204); font-family: arial, sans-serif; font-size: 12.8px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);">http://www.matthewjockers.<wbr>net/2015/12/20/that-<wbr>
+        sentimental-feeling/</a><span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255);">&gt;.  And for a taste of how algorithmic criticism can impose false assumptions on a text, see here: </span><span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255);">&lt;</span><a href="http://www.matthewjockers.net/2015/04/06/epilogue/" target="_blank" style="color: rgb(17, 85, 204); font-family: arial, sans-serif; font-size: 12.8px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);">http://www.matthewjockers.net/2015/04/06/epilogue/</a><span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255);">&gt;</span>.        </p>
+        <p>        [<a href="#top">top</a>] </p>
+        <h4><a name="lightning"></a>Spring 2016 Pairing 1: February 24 (Reading Group), and/or <strong>March 3 (Workshop)</strong><br>
+        </h4>
+        <p><strong>Thursday, Mar. 3, 12:00 pm<br>
+          </strong><em>All students, faculty, and staff welcome to attend. Coffee and pastries provided. <a href="http://nd.libcal.com/event/2487424" target="_blank">Registration</a> is helpful, but not required.</em><br>
+  </p>
+        <p>Last week we discussed how DH work implies certain theories  about text and we examined the critique that computers only enable surface analysis  of literature. Join us this Thursday as we both dive deeper into discussion and  get some hands-on experience with digital humanities software. We will advance the  debate by re-creating an algorithmic response to Stanley Fish&rsquo;s <em>New York Times</em> critique of the digital  humanities. A very short blog post on the Fish dust-up and the algorithmic  response are available here: <a href="http://languagelog.ldc.upenn.edu/nll/?p=3730">http://languagelog.ldc.upenn.edu/nll/?p=3730</a></p>
+        <p>All are invited: no advanced computing experience is  required, and we will refresh last week&rsquo;s discussion on Thomas Rommel&rsquo;s  article, &ldquo;<a href="http://digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-2-8&toc.id=0&brand=9781405103213_brand">Literary  Studies</a>&rdquo; [<a href="http://digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-2-8&toc.id=0&brand=9781405103213_brand">link  here</a>], to bring everyone up to speed. Coffee and desserts on us.</p>
+        <p><strong>Main Workshop Text:</strong> &quot;The 'dance of the p's and b's': truth or noise?&quot; by Mark Liberman [<a href="http://languagelog.ldc.upenn.edu/nll/?p=3730">open access link</a>]</p>
+        <p><strong>Last Week's Reading Group Text:</strong> &quot;8. Literary Studies,&quot; by Thomas Rommel [<a href="http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-2-8&toc.depth=1&toc.id=ss1-2-8&brand=default" target="_blank">open access link</a>]</p>
+        <p><strong>Workshop Tools:</strong> Introductory textual and data-wrangling tools        </p>
+        <p><strong>Optional Texts for Reference:</strong> <span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.6667px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255);">“What Is Digital Humanities and What’s It Doing in English Departments?”<span class="Apple-converted-space"> </span></span>by Matthew <span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.6667px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255);">Kirschenbaum<span class="Apple-converted-space"> </span></span>[<a href="http://dhdebates.gc.cuny.edu/debates/part/2">open access link</a>] and <span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.6667px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255);">“The Matter of Scale” by Julia Flanders and<span class="Apple-converted-space"> </span>Matthew Jockers</span> [<a href="http://digitalcommons.unl.edu/englishfacpubs/106/">open access link</a>]<br>
+        </p>
+        <p><br>
+          [<a href="#top">top</a>] 
+          <br>
+        </p>
+      <!-- InstanceEndEditable --></div>
+    </div>
+  </div>
+
+     
+
+  
+</div>
+
+<div class="row">
+  <div class="twelve columns">
+    <footer role="contentinfo" class="vcard" id="footer">
+    <p class="url fn org" id="copyright" style="display:none;">
+      <a href="http://nd.edu/copyright/">Copyright</a> &copy; 2013
+      <a class="org" href="http://nd.edu">University of Notre Dame</a>
+    </p>
+
+    <p class="adr" id="contact-info">
+      <span class="address"><span class="street-address">Hesburgh Library</span>, <span class="locality">Notre Dame</span>, <span title="Indiana" class="region">IN</span> <span class="postal-code">46556</span></span>
+      <span class="tel"><span class="type">Phone</span> 574.631.4900</span>
+      <span class="tel fax"><span class="type">Fax</span> 574.631.6772</span>
+      <span class="email"><a href="mailto:cds@nd.edu">cds@nd.edu</a></span>
+    </p>
+    <a id="ndmark" href="http://library.nd.edu"><img alt="University of Notre Dame" class="ndmark" src="../images/ndmark300.png"></a>
+  </footer>
+  </div>
+</div>
+  
+  
+  
+
+
+  
+  
+
+  
+<!-- Included JS Files (Compressed) -->
+<script src="/js/jquery.js"></script>
+<script src="/js/foundation.min.js"></script>
+
+  
+<!-- Initialize JS Plugins -->
+<script src="/js/app.js"></script>
+
+  
+<script>
+    $(window).load(function(){
+      $("#featured").orbit({
+        animation: 'fade',
+        advanceSpeed: 14000,  
+        bullets: true,
+        captions: true,
+        captionAnimation: 'slideOpen',  
+      });
+      $('ul.orbit-bullets').wrap('<div class="slide-dots" />');
+    });
+    </script> 
+  
+</body>
+<!-- InstanceEnd --></html>

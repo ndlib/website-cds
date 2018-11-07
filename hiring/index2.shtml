@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!-- InstanceBegin template="/Templates/cds_template_left.dwt" codeOutsideHTMLIsLocked="false" --> <!--<![endif]-->
+<head>
+<meta charset="utf-8" />
+
+<!-- Set the viewport width to device width for mobile -->
+<meta name="viewport" content="width=device-width" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Hiring | Center for Digital Scholarship</title>
+<!-- InstanceEndEditable -->
+<!-- Included CSS Files (Uncompressed) -->
+<!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  
+<!-- Included CSS Files (Compressed) -->
+<link rel="stylesheet" href="/css/foundation.min.css">
+<link rel="stylesheet" href="/css/app.css">
+<link rel="stylesheet" href="/css/fonts.css">
+
+<script src="../javascripts/modernizr.foundation.js"></script>
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700,300italic' rel='stylesheet' type='text/css'>
+  <!-- InstanceBeginEditable name="head" -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <style type="text/css">
+<!--
+.style1 {font-weight: bold}
+.style5 {color: #003366}
+.style6 {font-style: italic}
+.style7 {color: #006699}
+-->
+  </style>
+  <meta charset='utf-8'>
+  <meta charset="utf-8">
+  <meta charset='utf-8'>
+  <meta charset="utf-8">
+  <meta charset='utf-8'>
+  <meta charset="utf-8">
+  <meta charset='utf-8'>
+  <meta charset="utf-8">
+<!-- InstanceEndEditable -->
+</head>
+<body>
+
+<div id="wrapper">
+<header id="header" role="banner" class="gtype blue">
+    <hgroup>
+      <h3 class="nddotedu"><a href="http://nd.edu">University <i>of</i> Notre Dame <img src="/images/ndmark300.png" class="ndmark" alt="University of Notre Dame"></a></h3>
+      <h2 class="dept-prov"><a href="http://library.nd.edu">Hesburgh Libraries</a></h2>
+      <h1><a href="/" accesskey="1">Center <span>for</span> Digital Scholarship</a></h1>
+    </hgroup>
+    <div id="header-util">
+      <form method="get" id="search-header" action="/search/" role="search"><input type="hidden" name="as_sitesearch" value="nd.edu"><input type="hidden" name="entqr" value="3"><label for="search-input">Search</label><input type="search" name="q" id="search-input" placeholder="Search" accesskey="4"><button type="submit" id="search-button">Search</button></form>
+      
+    </div>
+</header></div>
+
+<div class="rotator">
+  <div class="row">
+    <div class="twelve columns"><!-- InstanceBeginEditable name="banner" --><!-- InstanceEndEditable --></div>
+  </div>
+</div>
+<!--#include virtual="/ssi/nav.shtml" -->
+<div class="row content">
+    
+  <div class="twelve columns full">
+      
+
+      
+    <div class="row content-inner">
+      <div class="three columns sidebar">
+        <!-- InstanceBeginEditable name="left-column" -->
+        <!-- InstanceEndEditable -->
+      </div>
+        <div class="nine columns"><!-- InstanceBeginEditable name="content" -->
+        <h1><a name="top"></a>Technical Assistant Position and Hiring Information</h1>
+          
+        <h4><span class="style1"><a href="#description">Job Description</a> | <a href="#qualifications"> Qualifications</a> | <a href="#process">Hiring Process</a> |
+          <a href="application.shtml" target="_blank"><strong><a href="#procedure">Application</a></span> <strong>| </strong><span class="style1"><strong><a href="#Available">Available Shifts</a></strong></span><span class="style6"><br>
+</strong></a></span><br>
+        <em><br>
+        <span class="style7">Limited shifts available for  Fall 2017<br>
+        </span></em></h4>
+        <h2><em><strong></strong></em><strong><a name="description"></a><span class="style5">Job Description</span></strong><br>
+        <br>
+        </h2>
+        <p></p>
+        <h3>Overview</h3>
+        <p>The Center for Digital Scholarship (CDS) leverages  state-of-the art technologies, enabling students and faculty to explore new  methodologies, analyze complex data and share research results in innovative  ways.  The Center offers the Notre Dame  community access to consultations with experts in digital scholarship fields, free educational  workshops and seminars, specialized hardware/software, and collaborative work  spaces. </p>
+        <p>Technical Assistants  (TA) serve a particularly critical role, as this  position functions as one of the initial points of contact for students, faculty, and  staff users in the CDS space, and provides entry level technical and referral assistance. </p>
+        <p></p>
+        <h3>Primary Responsibilities</h3>
+        <p>Baseline duties include such tasks as opening/closing the Center, maintaining  the environment, collecting user statistics, circulating items,  troubleshooting/providing technical assistance to users, and fielding  walk-in/phone inquiries.</p>
+        <p></p>
+        <h3>Additional  Requirements</h3>
+        <p>In addition to regular shift duties, all Technical Assistantswill  be required to complete tasks associated with CDS projects and other Library  projects as requested. For example, our Division Project Manager may ask us to  assign Technical Assistants to upload scanned images to our digital repository during the course  of several shifts, or TAs may be asked to try a new software and document its  basic functions for publishing as a resource on our web site. </p>
+        <p>As the initial point of contact and support for CDS users, TAs must:</p>
+        <ul>
+          <li>Possess knowledge of the CDS programs, operations, and staff.</li>
+          <li>Be on duty at the Help Desk during assigned shifts, independently providing support to CDS users.</li>
+          <li>Provide directions, information, and appropriate referrals for Hesburgh Libraries users.</li>
+          <li>Perform a variety of regularly-recurring tasks during shifts.</li>
+          <li>For select shifts, open and/or close the CDS, provide closure notifications to users in advance of closing, and ensure the CDS doors, and ensure the CDS doors are locked at closing time.</li>
+          <li>Assist with setup and cleanup of events as needed.</li>
+        </ul>
+<h3>Additional Opportunities </h3>
+        <p>Technical Assistants with the requisite skill sets (or who express an interest in gaining requisite skills) will have opportunities to assist Library faculty/staff with digital scholarship projects, as well as projects such as systematic reviews of literature, online tutorial creation, research guide creation/editing, investigations of emerging technologies and resources, and creative projects. &nbsp;<br>
+        </span></b></p>
+        <p>Technical Assistants who contribute to work that is later published or presented will be acknowledged appropriately. &nbsp;</p>
+        The CDS is committed to ensuring that our Technical Assistants find their time on our team to be advantageous to their professional development, and we are happy to consider Technical Assistant proposals of projects that overlap with CDS priorities and the TA&rsquo;s research/professional development interests.</span></b><br>
+        </p>
+        </p>
+        <h3>Technical Assistant Leads</h3>
+       <p>Interested TAs may select one area (3D printing, large-format printing, metrics, documentation, teaching introductory-level workshops (in a relevant digital scholarship field)) for which they will receive additional, specialized training, and then be designated the lead (or one of a small group of leads) Technical Assistant responsible for that area. &nbsp;</span></b><br>
+        </p>
+        <h3>Work Environment<br>
+        </h3>
+        <p>Occasional lifting, carrying, pushing/pulling, stooping, kneeling,  crouching/crawling (e.g., related to special event furniture reconfiguration, or the need to work with cords under a table).  This job is  performed in a generally hazard-free environment in a clean atmosphere.  80% sitting | 20% walking/standing<br>
+          <br>
+        [<a href="#description">top</a>]        </p>
+        <h3><strong><a name="qualifications"></a></strong><strong><span class="style5">Minimum Qualifications</span></strong></h3>
+        <ul>
+          <li>Current Notre Dame student with strong (preferably demonstrated) interest in learning about digital scholarship methods and tools and/or service design, and/or user experience principles.</li>
+          <li>Service orientation (values diversity/inclusion, courtesy, patience, resourcefulness, problem-solving skills, positive attitude)</b>
+          </li>
+          <li>Maintaining user confidentiality is required</li>
+          <li>Reliability/dependability (reliability is a key characteristic, as TAs maintain the Center during evening/weekend hours, when regular staff may not be available)</li>
+          <li>Desire to learn and teach others (interested in expanding knowledge, skill sets, familiarity with new areas of IT/DS)</b>
+          </li>
+          <li>Adaptability (able to learn new processes/systems quickly, and respond nimbly to changing circumstances)</b>
+          </li>
+          <li>Organizational proficiency, including the ability to manage time based upon work priorities</b>
+          </li>
+          <li>Detail-oriented</b>
+          </li>
+          <li>Broad knowledge of networking, computer hardware/software applications, and A/V Equipment</b>
+          </li>
+          <li>Ability to work independently, as well as with a team</b>
+          </p>
+          </li>
+        </ul>
+        <h3><strong><span class="style5">Desired Qualifications</span></strong>        </h3>
+        <ul>
+          <li>Experience in a CDS area of expertise</b>
+          </li>
+          <li>Experience with networking, computer hardware/software applications, and A/V Equipment</b>
+          </li>
+          <li>Familiarity with multimedia content creation and/or editing (e.g., podcasts), and/or 3D scanning/modeling/printing</b></li>
+      </ul>
+        <p>[<a href="#top">top</a>]        <br>
+        </p>
+        <h2><strong><a name="process"></a><span class="style5">Hiring Process</span></strong></h2>
+        <ol>
+          <li>
+            <p><strong>Complete <a href="http://cds.library.nd.edu/hiring/application.shtml" target="_blank">Application</a></strong></p>
+          </li>
+        
+          <li><strong>Email follow-up
+            (typically with 2 business days, response timeframe may be variable at peak times such as Orientations/Reading Days/Midterm/Final Exam periods)</strong>
+            <ul>
+              <li>If an application is selected for follow-up, once notified via email, follow the instructions to schedule an appointment to inverview with the TA Supervisor. </li>
+              <li>If an applicant's skills/experience/interests are not a fit for the CDS, an email notification will be sent to communicate this information.</li>
+            </ul>
+          </li>
+        
+          <li><strong>Interview</strong> (~30 minutes)</li>
+          <li><strong>Hiring decisions
+            </strong>
+            <ul>
+              <li>References will be checked.  </li>
+              <li>Applicants will be notified via email re: whether or not we are able to offer them a position.</li>
+            </ul>
+          </li>
+        
+          <li><strong>Scheduling</strong>
+<ul>
+              <li>We will always do our best to work with availability, but cannot guarantee the maximum number of hours prefered will be available. </li>
+              <li>Please note that for graduate students, prior to beginning work, we must receive email confirmation (<a href="mailto:cds@nd.edu">cds@nd.edu</a>) of maximum hours permitted to work from the program Director of Graduate Studies (or their proxy).</li>
+            </ul>
+          </li>
+        
+          <li><strong>Paid Training</strong>
+            <ul>
+          <li>Includes basic shift duties, as well as specialized/advanced training in specific areas.<br></li></ul></li>
+        </ol>
+        <p>[<a href="#top">top</a>] </p>
+        <h2><em><strong></strong></em><strong><a name="Available"></a><span class="style5">Available Shifts</span></strong></strong></p>
+        </h2>
+        <ul>
+          <li><strong>Fall 2017</strong>
+            (revised 7/19/17)
+              <ul>
+              <li><strong>Monday</strong>: 9 AM - 12 PM</li>
+              <li><strong>Tuesday</strong>: 9 AM - 12 PM</li>
+              <li><strong>Wednesday</strong>: N/A</li>
+              <li><strong>Thursday</strong>: N/A</li>
+              <li><strong>Friday</strong>: N/A</li>
+              <li><strong>Saturday</strong>: NA</li>
+              <li><strong>Sunday</strong>: N/A</li>
+            </ul>
+          </li>
+        </ul>
+        <p>[<a href="#top">top</a>] </p>
+        <!-- InstanceEndEditable --></div>
+    </div>
+  </div>
+
+     
+
+  
+</div>
+
+<div class="row">
+  <div class="twelve columns">
+    <footer role="contentinfo" class="vcard" id="footer">
+    <p class="url fn org" id="copyright" style="display:none;">
+      <a href="http://nd.edu/copyright/">Copyright</a> &copy; 2013
+      <a class="org" href="http://nd.edu">University of Notre Dame</a>
+    </p>
+
+    <p class="adr" id="contact-info">
+      <span class="address"><span class="street-address">Hesburgh Library</span>, <span class="locality">Notre Dame</span>, <span title="Indiana" class="region">IN</span> <span class="postal-code">46556</span></span>
+      <span class="tel"><span class="type">Phone</span> 574.631.4900</span>
+      <span class="tel fax"><span class="type">Fax</span> 574.631.6772</span>
+      <span class="email"><a href="mailto:cds@nd.edu">cds@nd.edu</a></span>
+    </p>
+    <a id="ndmark" href="http://library.nd.edu"><img alt="University of Notre Dame" class="ndmark" src="/images/ndmark300.png"></a>
+  </footer>
+  </div>
+</div>
+  
+  
+  
+
+
+  
+  
+
+  
+<!-- Included JS Files (Compressed) -->
+<script src="/js/jquery.js"></script>
+<script src="/js/foundation.min.js"></script>
+
+  
+<!-- Initialize JS Plugins -->
+<script src="/js/app.js"></script>
+
+  
+<script>
+    $(window).load(function(){
+      $("#featured").orbit({
+        animation: 'fade',
+        advanceSpeed: 14000,  
+        bullets: true,
+        captions: true,
+        captionAnimation: 'slideOpen',  
+      });
+      $('ul.orbit-bullets').wrap('<div class="slide-dots" />');
+    });
+    </script> 
+  
+</body>
+<!-- InstanceEnd --></html>

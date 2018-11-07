@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!-- InstanceBegin template="/Templates/cds_template_left.dwt" codeOutsideHTMLIsLocked="false" --> <!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width" />
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>Technology | Center for Digital Scholarship</title>
+  <!-- InstanceEndEditable -->
+  <!-- Included CSS Files (Uncompressed) -->
+  <!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  
+  <!-- Included CSS Files (Compressed) -->
+  <link rel="stylesheet" href="/css/foundation.min.css">
+  <link rel="stylesheet" href="/css/app.css">
+  <link rel="stylesheet" href="/css/fonts.css">
+
+  <script src="/js/modernizr.foundation.js"></script>
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700,300italic' rel='stylesheet' type='text/css'>
+  <!-- InstanceBeginEditable name="head" --> <style type="text/css">
+<!--
+.style67 {color: #006699}
+-->
+  </style>
+<!-- InstanceEndEditable -->
+</head>
+<body>
+
+<div id="wrapper">
+<header id="header" role="banner" class="gtype blue">
+    <hgroup>
+      <h3 class="nddotedu"><a href="http://nd.edu">University <i>of</i> Notre Dame <img src="/images/ndmark300.png" class="ndmark" alt="University of Notre Dame"></a></h3>
+      <h2 class="dept-prov"><a href="http://library.nd.edu">Hesburgh Libraries</a></h2>
+      <h1><a href="/" accesskey="1">Navari Family Center <span>for</span> Digital Scholarship</a></h1>
+    </hgroup>
+    <div id="header-util">
+      <form method="get" id="search-header" action="/search/" role="search"><input type="hidden" name="as_sitesearch" value="nd.edu"><input type="hidden" name="entqr" value="3"><label for="search-input">Search</label><input type="search" name="q" id="search-input" placeholder="Search" accesskey="4"><button type="submit" id="search-button">Search</button></form>
+      
+    </div>
+</header></div>
+
+<div class="rotator">
+	<div class="row">
+	  <div class="twelve columns"><!-- InstanceBeginEditable name="banner" -->
+
+    <!-- InstanceEndEditable --></div>
+	</div>
+</div>
+<!--#include virtual="/ssi/nav.shtml" -->
+  <div class="row content">
+    
+    <div class="twelve columns full">
+      
+
+      
+      <div class="row content-inner">
+        <div class="three columns sidebar">
+          <!-- InstanceBeginEditable name="left-column" --><!--#include virtual="/ssi/nav-spaces.shtml" -->
+          <!-- InstanceEndEditable -->
+        </div>
+          <div class="nine columns"><!-- InstanceBeginEditable name="content" -->
+         <h1>Technology</h1>
+<dl class="tabs contained">
+  <dd class="active"><a href="#Hardware">Hardware</a></dd>
+  <dd><a href="#Software">Software</a></dd>
+  <dd class="hide-for-small"><a href="#Circulate">Circulating Items</a></dd>
+</dl>
+<ul class="tabs-content contained">
+  <li class="active" id="HardwareTab">
+  <table width="206" border="1">
+          <tr valign="top">
+            <td width="323"><h3>PC Computer Cluster
+              </h3>
+              <ul>
+                <li>8 high-performance, dual-monitor units</li>
+                <li>1 Waucom interactive pen display</li>
+                <li><a href="http://libguides.library.nd.edu/transcriptionstation">Transcription Station</a></li>
+                </ul>
+              <h3>Mac Station
+                </h3>
+              <ul>
+                <li>4 27&quot; dual-boot iMacs</li>
+                <li>                      Note: Epson DS-7500 flatbed scanner with automatic document feeder has moved to the new Print Room in the Tech Commons area (2nd Floor SE)                   <br>
+                  </li>
+                </ul>
+              <h3>Teaching Laptops
+                </h3>
+              <ul>
+                <li>10 units available                  </li>
+                <li>                      users may access classroom monitors with <br>
+                  their own laptops </li>
+                </ul>
+              <h3>GPS Devices <br>
+              </h3>
+              <blockquote>
+                <p><em>contact <a href="mailto:msisk1@nd.edu">GIS Librarian</a> for more information</em></p>
+              </blockquote>
+              <ul>
+                <li>8 Garmin eTrex 20 handheld units                  </li>
+                <li>2 Trimble Juno 3b handheld units</li>
+              </ul>
+              <p>&nbsp;</p>
+              <p><br>
+                <br>
+                <br>
+              </p></td>
+            <td width="309"><h3>Specialty Printers
+              </h3>
+              <ul>
+                <li>3D Printer - <a href="https://www.makerbot.com/" target="_blank">MakerBot Replicator 2x</a> [<a href="http://cds.library.nd.edu/print/#3DPrintGuide" target="_blank">print guidelines</a> | <a href="http://cds.library.nd.edu/print/#PrintJob" target="_blank">job submission form</a>]</li>
+                <li>Canon Pro 4000s large format color printer [<a href="http://cds.library.nd.edu/print/#LargePrintGuide" target="_blank">print guidelines</a> | <a href="http://cds.library.nd.edu/print/#PrintJob" target="_blank">job submission form</a>]</li>
+                </ul>
+              <h3>Specialty Scanners
+                </h3>
+              <ul>
+                <li>Esri HD Ultra 4350i+ 42-inch wide <br>
+                  color  scanner <br>
+                  </li>
+                </ul>
+              <h3>Digitization Hardware <br>
+              </h3>
+              <ul>
+                <li>Kirtas APT2400 scanner (please <a href="http://cds.library.nd.edu/expertise/digitization/request/index.shtml">contact us</a> regarding Kirtas scans) </li>
+                <li>2 Epson Expression 11000XL graphic arts scanners (12 x 18) - <a href="http://library.nd.edu/vrc/">Visual Resources Center</a></li>
+              </ul>
+              <h3>Peripherals
+              </h3>
+              <ul>
+                <li>cables/adaptors (HDMI/VGA to Mac)                  </li>
+                <li>scanner weights</li>
+              </ul></td>
+          </tr>
+          </table>
+        </table></li>
+   <li id="SoftwareTab">
+  <table width="206" border="1">
+    <tr valign="top">
+      <td width="391"><h2>&nbsp;</h2>
+        <h2>Data Use &amp; Analysis</h2>
+        <ul>
+          <li>ATLAS.ti <br>
+            <em>            (desktop folder: Library &amp; Information Resources &gt; Business &amp; Economics &gt; ATLAS.ti)</em></li>
+          <li>MatLab </li>
+          <li>R </li>
+          <li>SAS</li>
+          <li>S-Plus</li>
+          <li>SPSS</li>
+          <li>Stata</li>
+          <li>Stat Transfer</li>
+          </ul>
+        <h2>Digitization &amp; Metadata Services</h2>
+        <ul>
+          <li>ABBY FineReader OCR</li>
+          <li>Adobe Photoshop/Illustrator</li>
+          </ul>
+        <h2>Text Encoding, Mining, and Analysis</h2>
+        <ul>
+          <li>ATLAS.ti <br>
+            <em> (desktop folder: Library &amp; Information Resources &gt; Business &amp; Economics &gt; ATLAS.ti)</em></li>
+          <li>ABBY FineReader OCR</li>
+          <li>Oxygen XML<br>
+          </li>
+          </ul>
+        <h5 class="style67 style1">Recommended Web Tools</h5>
+        <ul>
+          <li>Bamboo Dirt                  </li>
+          <li>HathiTrust </li>
+          <li>Hermeneuti.ca</li>
+          <li>JSTOR Data for Research </li>
+          <li>TAPoRware</li>
+          <li>Voyant Tools </li>
+          </ul>
+        <p></p></td>
+      <td width="372"><h2>&nbsp;</h2>
+        <h2>Geographic Information Systems (GIS)</h2>
+        <h5 class="style67"><br>
+          <span class="style1">GIS Platforms</span></h5>
+        <ul>
+          <li>ESRI ArcGIS</li>
+          <li>GRASS*</li>
+          <li>Quantum GIS*</li>
+          <li>uDig*<br>
+            </li>
+          </ul>
+        <h5 class="style67 style1">Visualization</h5>
+        <ul>
+          <li>Google Earth</li>
+          <li>HyperCube*</li>
+          <li>Sketchup</li>
+          </ul>
+        <h5 class="style67 style1">Imagery Analysis</h5>
+        <ul>
+          <li>Adobe Photoshop/Illustrator</li>
+          <li>ENVI</li>
+          <li>GeoExpress <br>
+            </li>
+          </ul>
+        <h5 class="style67 style1">Vector Analysis</h5>
+        <ul>
+          <li>GeoDa*</li>
+          <li>FME* </li>
+          </ul></td>
+      </tr>
+  </table>
+  <em>*teaching laptops only</em><br>
+  </li> 
+  </li>
+<li id="CirculateTab">
+    <h1>Items Available for Check-Out<a name="top"></a></h1>
+    <p><a href="#who">Who May Borrow Items?<br>
+      </a><a href="#what">What Items May be Borrowed?</a><br>
+      <a href="#how">How Are Items Loaned?</a><a href="#policies"><br>
+        </a><a href="#problems">Problems<br>
+        <br>
+        </a></p>
+    <h5><a name="who"></a>Who May Borrow Items? [<a href="#top">top</a>]<br>
+    </h5>
+    <p>Currently enrolled students and faculty/staff<br>
+      <br>
+    </p>
+    <h5><a name="what"></a>What Items May be Borrowed  [<a href="#top">top</a>]<br>
+    </h5>
+    <a href="http://nd.libcal.com/equipment?lid=1011">View the Equipment Catalog</a><br>
+    <br>
+      <h5><a name="how"></a>How Are Items Borrowed? [<a href="#top">top</a>]</h5>
+    <p><em>-NDID Card Required</em><strong><br>
+      <br>
+      </strong>-Reserve an item online via the <a href="http://nd.libcal.com/equipment?lid=1011">Equipment Catalog</a><br>
+      <br>
+      -To check out or return an item, inquire at the CDS Help Desk<br>
+      <br>
+      -If the CDS Help Desk is not staffed during a weekday between 9:00am and 5:00pm, please inquire in the CDS Office Suite (250).<br>
+      <br>
+    </p>
+    <h5><a name="problems"></a>Problems      [<a href="#top">top</a>]</h5>
+    <p>If you are experiencing circulation issues, please email <a href="mailto:cds@nd.edu">cds@nd.edu</a>. </p>
+  </ul>
+</ul>
+
+
+         
+          <!-- InstanceEndEditable --></div>
+      </div>
+    </div>
+
+     
+
+  
+  </div>
+
+  <div class="row">
+    <div class="twelve columns">
+      <footer role="contentinfo" class="vcard" id="footer">
+    <p class="url fn org" id="copyright" style="display:none;">
+      <a href="http://nd.edu/copyright/">Copyright</a> &copy; 2013
+      <a class="org" href="http://nd.edu">University of Notre Dame</a>
+    </p>
+
+    <p class="adr" id="contact-info">
+      <span class="address"><span class="street-address">Hesburgh Library</span>, <span class="locality">Notre Dame</span>, <span title="Indiana" class="region">IN</span> <span class="postal-code">46556</span></span>
+      <span class="tel"><span class="type">Phone</span> 574.631.4900</span>
+      <span class="tel fax"><span class="type">Fax</span> 574.631.6772</span>
+      <span class="email"><a href="mailto:cds@nd.edu">cds@nd.edu</a></span>
+    </p>
+    <a id="ndmark" href="http://library.nd.edu"><img alt="University of Notre Dame" class="ndmark" src="/images/ndmark300.png"></a>
+  </footer>
+    </div>
+  </div>
+  
+  
+  
+
+
+  
+  
+
+  
+  <!-- Included JS Files (Compressed) -->
+  <script src="/js/jquery.js"></script>
+  <script src="/js/foundation.min.js"></script>
+
+  
+  <!-- Initialize JS Plugins -->
+  <script src="/js/app.js"></script>
+
+  
+    <script>
+    $(window).load(function(){
+      $("#featured").orbit({
+        animation: 'fade',
+        advanceSpeed: 14000,  
+        bullets: true,
+        captions: true,
+        captionAnimation: 'slideOpen',  
+      });
+      $('ul.orbit-bullets').wrap('<div class="slide-dots" />');
+    });
+    </script> 
+  
+</body>
+<!-- InstanceEnd --></html>

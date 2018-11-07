@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!-- InstanceBegin template="/Templates/cds_template_left.dwt" codeOutsideHTMLIsLocked="false" --> <!--<![endif]-->
+<head>
+<meta charset="utf-8" />
+
+<!-- Set the viewport width to device width for mobile -->
+<meta name="viewport" content="width=device-width" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Text Analysis Series Resources</title>
+<!-- InstanceEndEditable -->
+<!-- Included CSS Files (Uncompressed) -->
+<!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  
+<!-- Included CSS Files (Compressed) -->
+<link rel="stylesheet" href="/cds/css/foundation.min.css">
+<link rel="stylesheet" href="/cds/css/app.css">
+<link rel="stylesheet" href="/cds/css/fonts.css">
+
+<script src="../../javascripts/modernizr.foundation.js"></script>
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700,300italic' rel='stylesheet' type='text/css'>
+  <!-- InstanceBeginEditable name="head" -->
+  <style type="text/css">
+<!--
+.style11 {color: #000033}
+-->
+  </style>
+<!-- InstanceEndEditable -->
+</head>
+<body>
+
+<div id="wrapper">
+<header id="header" role="banner" class="gtype blue">
+    <hgroup>
+      <h3 class="nddotedu"><a href="http://nd.edu">University <i>of</i> Notre Dame <img src="/cds/images/ndmark300.png" class="ndmark" alt="University of Notre Dame"></a></h3>
+      <h2 class="dept-prov"><a href="http://library.nd.edu">Hesburgh Libraries</a></h2>
+      <h1><a href="/cds" accesskey="1">Center <span>for</span> Digital Scholarship</a></h1>
+    </hgroup>
+    <div id="header-util">
+      <form method="get" id="search-header" action="/search/" role="search"><input type="hidden" name="as_sitesearch" value="nd.edu"><input type="hidden" name="entqr" value="3"><label for="search-input">Search</label><input type="search" name="q" id="search-input" placeholder="Search" accesskey="4"><button type="submit" id="search-button">Search</button></form>
+      
+    </div>
+</header></div>
+
+<div class="rotator">
+	<div class="row">
+	  <div class="twelve columns"><!-- InstanceBeginEditable name="banner" -->
+
+    <!-- InstanceEndEditable --></div>
+	</div>
+</div>
+<!--#include virtual="/cds/ssi/nav.shtml" -->
+  <div class="row content">
+    
+    <div class="twelve columns full">
+      
+
+      
+      <div class="row content-inner">
+        <div class="three columns sidebar">
+          <!-- InstanceBeginEditable name="left-column" --><!--#include virtual="/cds/ssi/nav-workshops.shtml" -->
+          <!-- InstanceEndEditable -->
+        </div>
+          <div class="nine columns"><!-- InstanceBeginEditable name="content" -->
+         <h1> Foundations of Text Analysis</h1>
+         <h5>Syllabus<br>
+           <a href="/cds/textanalysis/documents/SyllabusFoundationsofTextAnalysis.pdf" target="_blank">(.pdf)<br>
+          </a></h5>
+         <h5>Resources<a href="http://dh.crc.nd.edu/sandbox/text-analysis-workshop/" target="_blank"><br>
+          dh.crc.nd.edu/sandbox/text-analysis-workshop<br>
+         </a><a href="http://dh.crc.nd.edu/sandbox/text-analysis-workshop/etc/ssh/" target="_blank">SSH<br>
+         </a><a href="http://dh.crc.nd.edu/sandbox/text-analysis-workshop/etc/sftp/" target="_blank">SFTP <br>
+         </a><a href="/cds/textanalysis/images/Crclinuxpage.jpg" target="_blank">Command Line Cheat Sheet (.jpg)<br>
+         </a> </h5>
+         <h5>Session 1<br>
+           <span class="style11">Pre-Session Survey (inactive)<br>
+          Post-Session Survey (inactive)<a href="http://www.libsurveys.com/loader.php?id=35a383b20c3c8e874d885d48408b1680" target="_blank"><br>
+          </a></span><a href="http://www.libsurveys.com/loader.php?id=35a383b20c3c8e874d885d48408b1680" target="_blank">If you did not take the Session 1 survey(s), please take this  version before Session 2 (opens in new window) </a><br>
+           <br>
+           Session 2<br>
+           <a href="http://www.libsurveys.com/loader.php?id=47dfe259a959f8e31352615bd2616a1d" target="_blank">Pre-Session Survey (link opens in new window)<br>
+           </a><a href="http://www.libsurveys.com/loader.php?id=4e59afb7a1163949825b8f92a6ef0507" target="_blank">Post-Session Survey (link opens in new window)</a><br>
+           <br>
+           Session 3<br>
+  <a href="http://www.libsurveys.com/loader.php?id=af953505fe19d725d35a1cc32ab53f23" target="_blank">Pre-Session Survey (link opens in new window)<br>
+  </a><a href="http://www.libsurveys.com/loader.php?id=a3e8490ade416219bfaabd6c0a286a95" target="_blank">Post-Session Survey (link opens in new window)</a><br>
+</h5>
+         <h5>Session 4<br>
+           <a href="http://www.libsurveys.com/loader.php?id=82a595866cfef0bb2339db973c2e7a90" target="_blank">Pre-Session Survey (link opens in new window)<br>
+          </a><a href="http://www.libsurveys.com/loader.php?id=c4ccd49b14ef42fc7f180110a6be88ca" target="_blank">Post-Session Survey (link opens in new window)</a></h5>
+         <h5>Session 5<a href="http://www.libsurveys.com/loader.php?id=1d43cf8023b3d86df211482983b6481e"><br>
+          </a><a href="http://www.libsurveys.com/loader.php?id=82a595866cfef0bb2339db973c2e7a90" target="_blank">Pre-Session Survey (link opens in new window)<br>
+          </a><a href="http://www.libsurveys.com/loader.php?id=f58766a6b2830d8af3fdf56793a9664d" target="_blank">Post-Session Survey (link opens in new window)</a><br>
+         </h5>
+          <!-- InstanceEndEditable --></div>
+      </div>
+    </div>
+
+     
+
+  
+  </div>
+
+  <div class="row">
+    <div class="twelve columns">
+      <footer role="contentinfo" class="vcard" id="footer">
+    <p class="url fn org" id="copyright" style="display:none;">
+      <a href="http://nd.edu/copyright/">Copyright</a> &copy; 2013
+      <a class="org" href="http://nd.edu">University of Notre Dame</a>
+    </p>
+
+    <p class="adr" id="contact-info">
+      <span class="address"><span class="street-address">Hesburgh Library</span>, <span class="locality">Notre Dame</span>, <span title="Indiana" class="region">IN</span> <span class="postal-code">46556</span></span>
+      <span class="tel"><span class="type">Phone</span> 574.631.4900</span>
+      <span class="tel fax"><span class="type">Fax</span> 574.631.6772</span>
+      <span class="email"><a href="mailto:cds@nd.edu">cds@nd.edu</a></span>
+    </p>
+    <a id="ndmark" href="http://library.nd.edu"><img alt="University of Notre Dame" class="ndmark" src="/cds/images/ndmark300.png"></a>
+  </footer>
+    </div>
+  </div>
+  
+  
+  
+
+
+  
+  
+
+  
+  <!-- Included JS Files (Compressed) -->
+  <script src="/cds/js/jquery.js"></script>
+  <script src="/cds/js/foundation.min.js"></script>
+
+  
+  <!-- Initialize JS Plugins -->
+  <script src="/cds/js/app.js"></script>
+
+  
+    <script>
+    $(window).load(function(){
+      $("#featured").orbit({
+        animation: 'fade',
+        advanceSpeed: 14000,  
+        bullets: true,
+        captions: true,
+        captionAnimation: 'slideOpen',  
+      });
+      $('ul.orbit-bullets').wrap('<div class="slide-dots" />');
+    });
+    </script> 
+  
+</body>
+<!-- InstanceEnd --></html>
