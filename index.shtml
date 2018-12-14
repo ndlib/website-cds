@@ -92,7 +92,7 @@ teaching, research and scholarship are performed here at Notre Dame.</p>
 	<h1>Help Desk Hours</h1>
 	<br>
    
-    <strong>If Help Desk is unattended weekdays between 9:00am - 5:00pm, please visit Staff Suite 250<br>
+    <strong>If Help Desk is unattended weekdays between 9:00am - 5:00pm, please visit Staff Suite 250<br><br>
     </strong><em>Intersession Hours and Closures</em><br>
     <table class='table table-responsive'>
       <thead>
@@ -138,11 +138,13 @@ Closed</p></td>
       </tbody>
     </table>
     <p>&nbsp;</p>
-    <p><em>Fall/Spring Semester Hours</em>
-      </p>
-    </p>
+    <p><em>Fall/Spring Semester Hours</em>    </p>
     <table class='table table-responsive'>
-      <thead></thead><tbody><tr>
+      <thead></thead><tbody>
+        <tr>
+          <td colspan="2"><strong>January 15 - May 10</strong></td>
+        </tr>
+        <tr>
    <td width="53%"><p>Sunday<br>
      Monday-Thursday<br>
      Friday<br>
