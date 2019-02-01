@@ -165,7 +165,7 @@ Geographic Information Systems Librarian<br>
     <br>
   </p>
 </div>
-  <h1>Affiliated Subject Experts<br></h1>
+  <h1 style="clear:both;">Affiliated Subject Experts<br></h1>
 	<div class="staff">  
   <p><a href="#"><img src="http://placehold.it/75x100" alt=""></a><a href="#">Milan Budhathoki</a><br>
     Center for Research Computing<br>
@@ -176,10 +176,11 @@ Geographic Information Systems Librarian<br>
 	  Research Affiliate<br>
     Head, Cataloging and Digital Asset Management, Veneranda Biblioteca Ambrosiana<br>
 	  <a href="mailto:fcusimano@ambrosiana.it">fcusimano@ambrosiana.it</a> </p></div>
+		  <div class="staff"> </div>	
 	<div class="staff"> <p><strong>Hesburgh Libraries Subject Librarian and Liason Guide</strong><br>
      <a href="https://resources.library.nd.edu/documents/Selectors.pdf" target="_blank">Click here for a link to the complete list</a> (PDF)</p>
  </div>
-    </div>
+
   <p>&nbsp;</p><!-- InstanceEndEditable --></div>
     </div>
   </div>
