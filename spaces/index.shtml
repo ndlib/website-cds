@@ -67,23 +67,9 @@
          
 
 
-<dl class="tabs contained">
-
-  <dd class="active"><a href="#Floorplan">Floorplan</a></dd>
-  <dd><a href="#RoomGuide">Guidelines & Reservations</a></dd>
-</dl>
-
-<ul class="tabs-content contained">
-
- <li class="active" id="FloorplanTab">
-   <ul>
     <p>The Center for Digital Scholarship is located on the NE corner of the 2nd floor of the Hesburgh Library.  The floor plan intentionally combines a number of different functional spaces, which are intended to encourage interaction, collaboration, and support advanced inquiry.</p>
     <img src="/images/CDS Renovation Floorplan Fall 2018.png" width="700" height="683"/>
    
-   </ul>
-   
-  
-    <ul>
       <h3><a href="https://docs.google.com/document/d/1j8ae2IUa9Z9MlhDd1dSAMLHPYAp8tkqXBzr6x5ylhZo/edit">Room Guidelines</a><br>
         </h3>
       <h3>Room Reservation Requests</h3>
@@ -94,21 +80,17 @@
           </b>Email <a href="mailto:cds@nd.edu">cds@nd.edu</a> or call (574) 631-4900</p>
         <p><b>Students | Monday - Thursday 6:30pm - midnight, weekends<br>
         </b>We have opened Rooms 246, 247, and 248 for group study when not in use. Consult the schedule adjacent to the door. Do not leave your items unattended - please be prepared to quickly relocate when people arrive for their scheduled sessions.</p>
-        To view reservable space options in the Hesburgh Library, please visit <a href="https://www.nd.libcal.com">nd.libcal.com</a>.      </blockquote>
-    </ul>
-    <blockquote>
+        To view reservable space options in the Hesburgh Library, please visit <a href="https://www.nd.libcal.com">nd.libcal.com</a>.    </blockquote>
       <h3>Multimedia Spaces</h3>
-    </blockquote>
-    <ul>
-      <ul>
+      <blockquote>
         <p dir="ltr"><strong id="docs-internal-guid-1b8b0cb3-7fff-f653-d7d4-cb729afdfaba">Video recording<br />
           <a href="http://libcal.library.nd.edu/reserve/spaces/one-button-studio">Reservations</a> | <a href="https://libguides.library.nd.edu/one-button">Information</a></strong></p>
         <p dir="ltr"><strong id="docs-internal-guid-1b8b0cb3-7fff-f653-d7d4-cb729afdfaba">Audio recording<br />
           <a href="http://libcal.library.nd.edu/reserve/spaces/sound-studio">Reservations</a> | <a href="http://libguides.library.nd.edu/sound-studio">Information</a></strong></p>
-        <strong>Transcription</strong><br />
-        <a href="http://libcal.library.nd.edu/reserve/spaces/transcription-station"><strong id="docs-internal-guid-1b8b0cb3-7fff-f653-d7d4-cb729afdfaba">Reservations</strong></a> | <a href="https://libguides.library.nd.edu/transcription-station"><strong id="docs-internal-guid-1b8b0cb3-7fff-f653-d7d4-cb729afdfaba">Information</strong></a><br>
-      </ul>
-    </ul>
+        <p><strong>Transcription</strong><br />
+          <a href="http://libcal.library.nd.edu/reserve/spaces/transcription-station"><strong id="docs-internal-guid-1b8b0cb3-7fff-f653-d7d4-cb729afdfaba">Reservations</strong></a> | <a href="https://libguides.library.nd.edu/transcription-station"><strong id="docs-internal-guid-1b8b0cb3-7fff-f653-d7d4-cb729afdfaba">Information</strong></a><br>
+        </p>
+      </blockquote>
         <!-- InstanceEndEditable --></div>
     </div>
   </div>
