@@ -82,45 +82,34 @@
    
    </ul>
    
-  <li id="RoomGuideTab">
-    <ul>
-    <h3><a href="https://docs.google.com/document/d/1j8ae2IUa9Z9MlhDd1dSAMLHPYAp8tkqXBzr6x5ylhZo/edit">Room Guidelines</a><br>
-    </h3>
-    <h3>Room Reservation Requests</h3>
-  <ul>
-    <li><b>Library Faculty/Staff | Monday - Friday 7:30am - 6:30pm</b>
-      <ul>
-        <li>Reserve via Google Calendar<br>
-          <br>
-        </li>
-      </ul>
-    </li>
-	  
-    <li><strong>All Other ND Community |</strong><b> Monday - Friday 7:30am - 6:30pm</b>
-      <ul>
-        <li>Email <a href="mailto:cds@nd.edu">cds@nd.edu</a> or call (574) 631-4900<br>
-      <br>
-    </li>
-      </ul>
-    </li>
-    <li><b>Students | Monday - Thursday 6:30pm - midnight, weekends</b>    
-      <ul>
-        <li>We have opened Rooms 246, 247, and 248 for group study when not in use. Consult the schedule adjacent to the door. Do not leave your items unattended - please be prepared to quickly relocate when people arrive for their scheduled sessions.</li>
-        <li>To view reservable space options in the Hesburgh Library, please visit <a href="https://www.nd.libcal.com">nd.libcal.com</a>.</li>
-      </ul>
-    </li>
-  </ul>
   
-  <ul>
-    <h3>Multimedia Spaces</h3>
-    <p dir="ltr"><strong id="docs-internal-guid-1b8b0cb3-7fff-f653-d7d4-cb729afdfaba">Video recording<br />
-      <a href="http://libcal.library.nd.edu/reserve/spaces/one-button-studio">Reservations</a> | <a href="https://libguides.library.nd.edu/one-button">Information</a></strong></p>
-          <p dir="ltr"><strong id="docs-internal-guid-1b8b0cb3-7fff-f653-d7d4-cb729afdfaba">Audio recording<br />
-            <a href="http://libcal.library.nd.edu/reserve/spaces/sound-studio">Reservations</a> | <a href="http://libguides.library.nd.edu/sound-studio">Information</a></strong></p>
-          <strong>Transcription</strong><br />
-          <a href="http://libcal.library.nd.edu/reserve/spaces/transcription-station"><strong id="docs-internal-guid-1b8b0cb3-7fff-f653-d7d4-cb729afdfaba">Reservations</strong></a> | <a href="https://libguides.library.nd.edu/transcription-station"><strong id="docs-internal-guid-1b8b0cb3-7fff-f653-d7d4-cb729afdfaba">Information</strong></a><br>
- </ul> </ul>
-  <!-- InstanceEndEditable --></div>
+    <ul>
+      <h3><a href="https://docs.google.com/document/d/1j8ae2IUa9Z9MlhDd1dSAMLHPYAp8tkqXBzr6x5ylhZo/edit">Room Guidelines</a><br>
+        </h3>
+      <h3>Room Reservation Requests</h3>
+      <blockquote>
+        <p><b>Library Faculty/Staff | Monday - Friday 7:30am - 6:30pm<br>
+          </b>Reserve via Google Calendar<br></p>
+        <p><strong>All Other ND Community |</strong><b> Monday - Friday 7:30am - 6:30pm<br>
+          </b>Email <a href="mailto:cds@nd.edu">cds@nd.edu</a> or call (574) 631-4900</p>
+        <p><b>Students | Monday - Thursday 6:30pm - midnight, weekends<br>
+        </b>We have opened Rooms 246, 247, and 248 for group study when not in use. Consult the schedule adjacent to the door. Do not leave your items unattended - please be prepared to quickly relocate when people arrive for their scheduled sessions.</p>
+        To view reservable space options in the Hesburgh Library, please visit <a href="https://www.nd.libcal.com">nd.libcal.com</a>.      </blockquote>
+    </ul>
+    <blockquote>
+      <h3>Multimedia Spaces</h3>
+    </blockquote>
+    <ul>
+      <ul>
+        <p dir="ltr"><strong id="docs-internal-guid-1b8b0cb3-7fff-f653-d7d4-cb729afdfaba">Video recording<br />
+          <a href="http://libcal.library.nd.edu/reserve/spaces/one-button-studio">Reservations</a> | <a href="https://libguides.library.nd.edu/one-button">Information</a></strong></p>
+        <p dir="ltr"><strong id="docs-internal-guid-1b8b0cb3-7fff-f653-d7d4-cb729afdfaba">Audio recording<br />
+          <a href="http://libcal.library.nd.edu/reserve/spaces/sound-studio">Reservations</a> | <a href="http://libguides.library.nd.edu/sound-studio">Information</a></strong></p>
+        <strong>Transcription</strong><br />
+        <a href="http://libcal.library.nd.edu/reserve/spaces/transcription-station"><strong id="docs-internal-guid-1b8b0cb3-7fff-f653-d7d4-cb729afdfaba">Reservations</strong></a> | <a href="https://libguides.library.nd.edu/transcription-station"><strong id="docs-internal-guid-1b8b0cb3-7fff-f653-d7d4-cb729afdfaba">Information</strong></a><br>
+      </ul>
+    </ul>
+        <!-- InstanceEndEditable --></div>
     </div>
   </div>
 
