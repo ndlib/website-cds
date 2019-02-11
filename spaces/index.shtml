@@ -71,7 +71,6 @@
 
   <dd class="active"><a href="#Floorplan">Floorplan</a></dd>
   <dd><a href="#RoomGuide">Guidelines & Reservations</a></dd>
- <dd><a href="#Studios">One Button Studio/Sound Studio</a></dd>
 </dl>
 
 <ul class="tabs-content contained">
@@ -111,7 +110,7 @@
       </ul>
     </li>
   </ul>
-  </ul></li>
+  
   <ul>
     <h3>Multimedia Spaces</h3>
     <p dir="ltr"><strong id="docs-internal-guid-1b8b0cb3-7fff-f653-d7d4-cb729afdfaba">Video recording<br />
@@ -120,7 +119,7 @@
             <a href="http://libcal.library.nd.edu/reserve/spaces/sound-studio">Reservations</a> | <a href="http://libguides.library.nd.edu/sound-studio">Information</a></strong></p>
           <strong>Transcription</strong><br />
           <a href="http://libcal.library.nd.edu/reserve/spaces/transcription-station"><strong id="docs-internal-guid-1b8b0cb3-7fff-f653-d7d4-cb729afdfaba">Reservations</strong></a> | <a href="https://libguides.library.nd.edu/transcription-station"><strong id="docs-internal-guid-1b8b0cb3-7fff-f653-d7d4-cb729afdfaba">Information</strong></a><br>
-    </ul>
+ </ul> </ul>
   <!-- InstanceEndEditable --></div>
     </div>
   </div>
