@@ -83,27 +83,11 @@
    
    </ul>
    
-  <li id="RoomGuideTab"><ul>
-    <h3><a name="top2"></a><a href="#guidelines">Room Guidelines</a><span class="style6"> | <a href="#reservations">Room Reservations<br>
-    </a></span><em></em><br>
-    <br>
-      <a name="guidelines"></a>Room Guidelines <br>
+  <li id="RoomGuideTab">
+    <ul>
+    <h3><a href="https://docs.google.com/document/d/1j8ae2IUa9Z9MlhDd1dSAMLHPYAp8tkqXBzr6x5ylhZo/edit">Room Guidelines</a><br>
     </h3>
-	  <ul>
-  <li>CDS rooms are reserved for library faculty and staff use. We have opened Rooms 246, 247, and 248 for group study when not in use. Consult the schedule adjacent to the door. Do not leave your items unattended - please be prepared to quickly relocate when people arrive for their scheduled sessions.
-      </li><br>
-		  <li>When making a reservation, please allow sufficient time for setup and cleanup activities.</li><br>
-		<li>Please request advance permission for event catering from cds@nd.edu.</li><br>
-		  <li>Please use the cleaning wipes provided at the CDS Help Desk to address any spills or messes.</li><br>
-		<li>If rearranged, please return furniture and equipment to the appropriate configuration.</li><br>
-		  <li><b>Request Technical Support:</b><br>
-		  <ul><li>CDS Help Desk: (574) 631-3535
-			  <li>CDS Staff Suite (Mon.-Fri. 9am-5pm): (574) 631-4900</ul></li>
-		 
-      </ul>
-    <h3><a name="reservations"></a>Room Reservation Requests<br>
-      <br>
-    </h3>
+    <h3>Room Reservation Requests</h3>
   <ul>
     <li><b>Library Faculty/Staff | Monday - Friday 7:30am - 6:30pm</b>
       <ul>
@@ -115,10 +99,10 @@
 	  
     <li><strong>All Other ND Community |</strong><b> Monday - Friday 7:30am - 6:30pm</b>
       <ul>
-        <li>Email <a href="mailto:cds@nd.edu">cds@nd.edu</a> or call (574) 631-4900</li>
+        <li>Email <a href="mailto:cds@nd.edu">cds@nd.edu</a> or call (574) 631-4900<br>
+      <br>
+    </li>
       </ul>
-      <br>
-      <br>
     </li>
     <li><b>Students | Monday - Thursday 6:30pm - midnight, weekends</b>    
       <ul>
@@ -128,27 +112,14 @@
     </li>
   </ul>
   </ul></li>
-  <li id="StudiosTab"><br>
   <ul>
-    <h3>One Button Studio/Sound Studio</h3>
-   <br>
-   <ul>
-        <li><strong>Reservations</strong>: <a href="http://nd.libcal.com" target="_blank">nd.libcal.com</a>
-          <ul>
-            <li><a href="https://nd.libcal.com/reserve/spaces/one-button-studio" target="_blank">One Button Studio</a></li>
-            <li><a href="https://nd.libcal.com/reserve/spaces/sound-studio" target="_blank">Sound Studio</a><br>
-              <br>
-            </li>
-          </ul>
-        </li>
-        <li><strong>User Guides</strong>: <a href="http://nd.libguides.com/onebutton" target="_blank">nd.libguides.com/multimedia</a>
-          <ul>
-            <li><a href="http://nd.libguides.com/onebutton" target="_blank">One Button Studio</a></li>
-            <li><a href="http://libguides.library.nd.edu/sound-studio" target="_blank">Sound Studio</a><br>
-            </li>
-          </ul>
-        </li>
-        </ul>
+    <h3>Multimedia Spaces</h3>
+    <p dir="ltr"><strong id="docs-internal-guid-1b8b0cb3-7fff-f653-d7d4-cb729afdfaba">Video recording<br />
+      <a href="http://libcal.library.nd.edu/reserve/spaces/one-button-studio">Reservations</a> | <a href="https://libguides.library.nd.edu/one-button">Information</a></strong></p>
+          <p dir="ltr"><strong id="docs-internal-guid-1b8b0cb3-7fff-f653-d7d4-cb729afdfaba">Audio recording<br />
+            <a href="http://libcal.library.nd.edu/reserve/spaces/sound-studio">Reservations</a> | <a href="http://libguides.library.nd.edu/sound-studio">Information</a></strong></p>
+          <strong>Transcription</strong><br />
+          <a href="http://libcal.library.nd.edu/reserve/spaces/transcription-station"><strong id="docs-internal-guid-1b8b0cb3-7fff-f653-d7d4-cb729afdfaba">Reservations</strong></a> | <a href="https://libguides.library.nd.edu/transcription-station"><strong id="docs-internal-guid-1b8b0cb3-7fff-f653-d7d4-cb729afdfaba">Information</strong></a><br>
     </ul>
   <!-- InstanceEndEditable --></div>
     </div>
