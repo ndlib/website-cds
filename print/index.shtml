@@ -97,7 +97,7 @@
     <p><br>
       [<a href="#top">top</a>] </p>
     <h5><a id="timeframe"></a>Production Timeframe</h5>
-    <p> <em>Patrons are strongly advised to <strong>submit their files at least 5 business days in advance</strong> of important deadlines.</em></p>
+    <p> <em>Patrons are strongly advised to <strong>submit their files at least 5 business days in advance</strong> of important deadlines.</em> This becomes especially important at the end of the semester and during peak finals times.</p>
     <ul>
       <li>
         <p>Production timeframe may vary depending upon such factors as the object's printer file itself, staff and device availability, and/or unexpected device or material issues that may arise. Thus, the CDS does <strong>not</strong> guarantee specific completion times.</p>
@@ -113,43 +113,32 @@
         <td width="100"><p><strong>Supported File Types</strong></p>
           <ul>
             <li>.stl</li>
-            <li>.thing</li>
+            <li>.obj</li>
             </ul></td>
         <td width="100"><p><strong>Maximum Build Size</strong></p>
-          <ul>
-            <li>X (l) 250 mm/9.8 in</li>
-            <li>Y (w) 160 mm/6.3 in</li>
-            <li>Z (h) 150 mm/5.9 in</li>
-            </ul></td>
-        <td width="100"><p><strong>Available ABS Filament</strong></p>
-          <ul>
-            <li>True Blue</li>
-            <li>True Red</li>
-            <li>True White</li>
-			<li>True Green</li>
-			<li>True Purple</li>
-			<li>True Yellow</li>
-			<li>Natural</li>
-            </ul></td>
+          <p>280 x 280 x 150mm (11 x 11 x 18 in)</p></td>
         </tr>
       </table>
     <p>[<a href="#top">top</a>] </p>
     <h5><a name="cost"></a>Cost</h5>
-    <p><strong>Price per Gram:</strong> $0.25</p>
+    <p><strong>Price per Gram:</strong> $0.05 for non-course prints. There is no charge for course-related prints. </p>
     <ul>
-      <li>
-        <p>Cost will be charged to your account upon completion of print job.</p>
-        <ul>
-          <li>In MakerWare, select &quot;Preview before Printing&quot; to see object's approximate weight in grams.</li>
-          </ul>
-        </li>
+      <li>Cost will be charged to your account upon completion of print job.        
+      </li>
       <li>Failed prints due to <strong>user error will still be charged</strong> to the patron's account.</li>
       <li>Failed prints due to <strong>staff error or hardware failure will not be charged</strong> to the user's account.</li>
       <li>The cost to print objects that have not been retrieved within two weeks of completion will be charged to the patron's account as a library fine.</li>
       </ul>
     <p><br>
       [<a href="#top">top</a>]</p>
-    <h5><a name="limitations"></a>Limitations</h5>
+
+	  <h5><a name="cost"></a>Referrals</h5>
+    <p>The Hesburgh Libraries maintains an inventory of six 3D printers, with various capabilities. If we are not able to meet your needs within these capabilities, patrons are encouraged to contact <a href="https://ideacenter.nd.edu/innovation-park/" target="new">the IDEA Center at Innovation Park</a>. If we proactively feel that your project would benefit from a consultation with the IDEA Center, we will suggest that to you, and connect you with them. </p>
+    <p><br>
+      
+      [<a href="#top">top</a>]</p>
+	  
+	  <h5><a name="limitations"></a>Limitations</h5>
     <ul>
       
       <li><strong>All patrons must comply with the University of Notre Dame Policy  on the Responsible Use of Information Technology Resources (</strong><a href="https://oit.nd.edu/about-us/policies-and-standards/information-technology-policies/"><strong>Policy 7.4</strong></a><strong>).</strong> Examples of content that will <strong>not</strong> be produced includes, but is not limited to, the following: </li>
@@ -172,11 +161,8 @@
       </ul>
     <p><br>
       [<a href="#top">top</a>]</p>
-    <h5><a name="design"></a>Design an Object</h5>
-    <ul>
-      <li><a href="http://www.makerbot.com/makerware/" target="_blank">MakerBot  design software</a> is available for use on CDS computers</li>
-      <li>Select or modify an object from the open-source <a href="http://www.makerbot.com/thingiverse/" target="_blank">MakerBot design community</a></li>
-      </ul>
+    <h5><a name="design"></a>Request a 3D Modeling/Printing Consultation</h5>
+    <p>If you don't know where or how to begin the design process, schedule a consultation with Adam Heet (<a href="mailto:aheet@nd.edu" target="new">aheet@nd.edu</a>) to begin!</p>
     <p><br>
       [<a href="#top">top</a>]</p>
     <h5><a name="submit"></a>Submit Print Job for Production</h5>
