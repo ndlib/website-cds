@@ -92,7 +92,7 @@
         </h5>
         <h5><span class="style4"><a name="Top"></a>FALL/SPRING SEMESTER WORKSHOPS </span><span class="style6"><br>
           <br>
-          </span><a href="#modeling">3D Modeling</a> <span class="style13">|</span> <a href="#DataManagement">Research Data Services</a> <span class="style8"><span class="style13">|</span></span> <a href="#DataAnalysis">Data Use &amp; Analysis</a> | <a href="#dh">Digital Humanities</a> <span class="style15">|</span> <a href="#GIS">GIS</a> | <a href="#Multimedia">Multimedia Tools</a> <span class="style15">|</span> <a href="#TextMining">Text Mining &amp; Analysis</a> <span class="style8"><span class="style13">|</span><span class="style11"><a href="#visual"> Visual Resources</a></span></span><span class="style10"><br>
+          </span><a href="#modeling">3D Modeling</a> <span class="style13">|</span> <a href="#DataAnalysis">Data Use &amp; Analysis</a> | <a href="#dh">Digital Humanities</a> <span class="style15">|</span> <a href="#GIS">GIS</a> | <a href="#Multimedia">Multimedia Tools</a> <span class="style15">|</span> <a href="#ResearchData">Research Data Services </a><span class="style15">|</span> <a href="#TextMining">Text Mining &amp; Analysis</a> <span class="style8"><span class="style13">|</span><span class="style11"><a href="#visual"> Visual Resources</a></span></span><span class="style10"><br>
           </span><span class="style6"><a href="http://nd.libcal.com/calendar/allworkshops#!/month/2015/03" target="_blank"><strong><br>
           <br>
           </strong></a></span><span class="style10"><a href="http://nd.libcal.com/calendar/allworkshops#!/month/2015/03" target="_blank"><strong>
@@ -110,7 +110,7 @@
         </strong><b style="font-weight:normal;" id="docs-internal-guid-4b899fee-e073-d583-8c35-9763bcf3350c"><span style="color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;">This workshop will focus on the necessary specs for a SketchUp model to smoothly transition into a 3D Print-ready file. &nbsp;We will focus on the use of Components and Groups within your model and leveraging a few SketchUp Plug-ins to automate much of the process. &nbsp;Attendees will have the option to print a small model at no additional charge after the conclusion of the session. Personal laptops are encouraged as the workshop will operate as a live demo where attendees may follow along and ask questions.</span></b></p>
         <p>[<a href="#Top">top</a>]</p>
         <p>&nbsp;</p>
-        <h4><a name="DataManagement" id="DataManagement"></a>Research Data Services (<a href="https://libcal.library.nd.edu/calendar?cid=447&t=d&d=0000-00-00&cal=447&ct=34685" target="new">current workshops</a><a href="https://libcal.library.nd.edu/calendar?cid=447&t=d&d=0000-00-00&cal=447&ct=34685" target="new"> in this category</a>)</h4>
+        <h4><a name="ResearchData" id="ResearchData"></a>Research Data Services (<a href="https://libcal.library.nd.edu/calendar?cid=447&t=d&d=0000-00-00&cal=447&ct=34685" target="new">current workshops</a><a href="https://libcal.library.nd.edu/calendar?cid=447&t=d&d=0000-00-00&cal=447&ct=34685" target="new"> in this category</a>)</h4>
         <p><em>Presenters</em>: Rick Johnson, Natalie Meyers, Julie Vecchio<br>
         </p>
 	  <p><strong>Using DMPTool, ORCID, SciENcv, and OSF to Write Better Proposals and Set Up Research Projectsw</strong><br>
@@ -193,9 +193,19 @@ This workshop introduces participants to using DMPTool, ORCID, SciENcv and OSF t
         </strong><span style="color: rgb(51, 51, 51); font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 20.8px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255);">Learn how to create media-rich, interactive timelines using a Google Spreadsheet and<span class="Apple-converted-space"> </span></span><a data-cke-saved-href="http://timeline.knightlab.com/" href="http://timeline.knightlab.com/" style="color: rgb(7, 130, 193); font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 20.8px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);">timeline.js</a><span style="color: rgb(51, 51, 51); font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 20.8px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255);"><span class="Apple-converted-space"> </span>- a free, easy-to-use web-based tool.<span class="Apple-converted-space">
          </span></span></p>
         <p>[<a href="#Top">top</a>] <br>
+          <br>
         </p>
+        <h4><a name="ResearchData" id="ResearchData"></a>Research Data Services (<a href="https://libcal.library.nd.edu/calendar?cid=447&t=d&d=0000-00-00&cal=447&ct=34685" target="new">current workshops</a><a href="https://libcal.library.nd.edu/calendar?cid=447&t=d&d=0000-00-00&cal=447&ct=34685" target="new"> in this category</a>)</h4>
+        <p><em>Presenters</em>: Rick Johnson, Natalie Meyers, Julie Vecchio<br>
+        </p>
+        <p><strong>Using DMPTool, ORCID, SciENcv, and OSF to Write Better Proposals and Set Up Research Projectsw</strong><br>
+          This workshop introduces participants to using DMPTool, ORCID, SciENcv and OSF to write better project/grant proposals and set up research projects. At the conclusion of the lesson participants will be acquainted with tools  that can be used during proposal writing and project planning to create funder-compliant data management plans, CVs/biosketches, and easily citable, shareable project spaces. This session is open to anyone seeking to more efficiently prepare funder-compliant project proposals or understand how to better support ND Researchers during pre-award.</p>
+        <p><strong>Open Science Framework (OSF) 101: Get started with the OSF and manage your research workflow</strong><br>
+          This workshop provides an introduction to using the Open Science Framework (OSF) - a free, open-source web application built to help researchers manage their workflows. The OSF is part collaboration tool, part version control software, and part data archive. The OSF connects to popular tools researchers already use, like Box, Dropbox, Github, and Mendeley, to streamline workflows and increase efficiency.</p>
+        <p>This workshop will get you up to speed on using the OSF, show helpful tips and tricks, and give you a launching pad for managing your first OSF project. </p>
+        <p>[<a href="#Top">top</a>]        </p>
         <p><br>
-        <a name="TextMining"></a></p>
+          <a name="TextMining"></a></p>
         <h4>Text Mining &amp; Analysis (<a href="https://libcal.library.nd.edu/calendar?cid=447&t=d&d=0000-00-00&cal=447&ct=27230" target="new">current workshops in this category</a>)</h4>
         <p><em>Presenter: Eric Lease Morgan | Digital Initiatives Librarian</em> </p>
         <p><strong>2014 Foundations of Text Analysis 5-Week Series </strong> [<a href="http://library.nd.edu/textanalysis/index.shtml" target="_blank">course page</a>]<strong><br>
