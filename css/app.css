@@ -751,3 +751,22 @@ td .hours { margin-bottom: .25em; }
 .libraryh3lp p {
   display: none;
 }
+
+.alert {
+  background-color: #fc7279;
+  border: 2px solid #aa272f;
+  padding:0 10px;
+}
+
+.alert h1 {
+  color:#aa272f;
+}
+
+.alert a {
+  color: #fff;
+}
+
+.alert p {
+  color:black;  
+  font-weight: bold;
+}
