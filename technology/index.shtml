@@ -78,9 +78,10 @@
             <td width="323"><h3>PC Computer Cluster
               </h3>
               <ul>
-                <li>8 high-performance, dual-monitor units</li>
+                <li>10 high-performance, dual-monitor units</li>
                 <li>1 Waucom interactive pen display</li>
-                <li><a href="http://libguides.library.nd.edu/transcriptionstation">Transcription Station</a></li>
+                <li><a href="http://libguides.library.nd.edu/transcriptionstation">Transcription Station</a> (Express Scribe and foot pedal)</li>
+                <li>Screencasting Station (Camtasia)</li>
                 </ul>
               <h3>Mac Station
                 </h3>
@@ -89,15 +90,9 @@
                 <li>                      Note: Epson DS-7500 flatbed scanner with automatic document feeder has moved to the new Print Room in the Tech Commons area (2nd Floor SE)                   <br>
                   </li>
                 </ul>
-              <h3>Teaching Laptops
-                </h3>
-              <ul>
-                <li>10 units available                  </li>
-                <li>                      users may access classroom monitors with <br>
-                  their own laptops </li>
-                </ul>
+            
               <h3>GPS Devices <br>
-              </h3>
+            </h3>
               <blockquote>
                 <p><em>contact <a href="mailto:msisk1@nd.edu">GIS Librarian</a> for more information</em></p>
               </blockquote>
@@ -113,7 +108,7 @@
             <td width="309"><h3>Specialty Printers
               </h3>
               <ul>
-                <li>3D Printer - <a href="https://www.makerbot.com/" target="_blank">MakerBot Replicator 2x</a> [<a href="http://cds.library.nd.edu/print/#3DPrintGuide" target="_blank">print guidelines</a> | <a href="http://cds.library.nd.edu/print/#PrintJob" target="_blank">job submission form</a>]</li>
+                <li>3D Printers - <a href="https://www.makerbot.com/" target="_blank">MakerBot Replicator 2x</a> [<a href="http://cds.library.nd.edu/print/#3DPrintGuide" target="_blank">print guidelines</a> | <a href="http://cds.library.nd.edu/print/#PrintJob" target="_blank">job submission form</a>]</li>
                 <li>Canon Pro 4000s large format color printer [<a href="http://cds.library.nd.edu/print/#LargePrintGuide" target="_blank">print guidelines</a> | <a href="http://cds.library.nd.edu/print/#PrintJob" target="_blank">job submission form</a>]</li>
                 </ul>
               <h3>Specialty Scanners
@@ -129,12 +124,7 @@
                 <li>Kirtas APT2400 scanner (please <a href="http://cds.library.nd.edu/expertise/digitization/request/index.shtml">contact us</a> regarding Kirtas scans) </li>
                 <li>2 Epson Expression 11000XL graphic arts scanners (12 x 18) - <a href="http://library.nd.edu/vrc/">Visual Resources Center</a></li>
               </ul>
-              <h3>Peripherals
-              </h3>
-              <ul>
-                <li>cables/adaptors (HDMI/VGA to Mac)                  </li>
-                <li>scanner weights</li>
-              </ul></td>
+</td>
           </tr>
           </table>
         </table></li>
@@ -147,6 +137,7 @@
         <ul>
           <li>ATLAS.ti <br>
             <em>            (desktop folder: Library &amp; Information Resources &gt; Business &amp; Economics &gt; ATLAS.ti)</em></li>
+          <li>Gephi</li>
           <li>MatLab </li>
           <li>R </li>
           <li>SAS</li>
@@ -154,6 +145,8 @@
           <li>SPSS</li>
           <li>Stata</li>
           <li>Stat Transfer</li>
+          <li>Tableau</li>
+          <li>Tabula</li>
           </ul>
         <h2>Digitization &amp; Metadata Services</h2>
         <ul>
@@ -234,9 +227,9 @@
       <br>
       </strong>-Reserve an item online via the <a href="http://nd.libcal.com/equipment?lid=1011">Equipment Catalog</a><br>
       <br>
-      -To check out or return an item, inquire at the CDS Help Desk<br>
+      -To check out or return an item, inquire 2nd Floor Technology Commons Desk<br>
       <br>
-      -If the CDS Help Desk is not staffed during a weekday between 9:00am and 5:00pm, please inquire in the CDS Office Suite (250).<br>
+      -If the desk is not staffed during a weekday between 9:00am and 5:00pm, please inquire in the CDS Office Suite (250).<br>
       <br>
     </p>
     <h5><a name="problems"></a>Problems      [<a href="#top">top</a>]</h5>
