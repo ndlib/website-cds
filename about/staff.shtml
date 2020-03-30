@@ -91,7 +91,7 @@ Digital Initiatives Librarian <br>
 	
 <div class="staff">
   <p><a href="#"><img src="http://placehold.it/75x100" alt=""></a>
-Data Use & Analysis<br>
+    <strong>Data Use & Analysis</strong><br>
 <a href="mailto:cds@nd.edu">cds@nd.edu</a> | ph. 574-631-4900</p>
     </div>
 
@@ -115,7 +115,7 @@ Geographic Information Systems Librarian<br>
     Associate University Librarian for Digital Access, <br>
     Resources, and Information Technology<br>
     <a href="mailto:zheng.wang@nd.edu">zheng.wang@nd.edu</a> | 574-631-6495 <br>
-    <br>
+  
   </p>
 </div>
 
@@ -132,9 +132,9 @@ Head, Data Curation and Digital Library Solutions<br>
 <a href="mailto:rjohns14@nd.edu">rjohns14@nd.edu</a> ﻿| ph. 574-631-1086</p>
 </div>
 
-<p><a href="#"><img src="http://placehold.it/75x100" alt=""></a><a href="#">Milan Budhathoki</a><br>
+<div class="staff"> <p><a href="#"><img src="http://placehold.it/75x100" alt=""></a><a href="#">Milan Budhathoki</a><br>
     Center for Research Computing<br>
-  <a href="mailto:mbudhathoki@nd.edu">mbudhathoki@nd.edu</a> | T Th: 2 PM - 5 PM </p></div>
+  <a href="mailto:mbudhathoki@nd.edu">mbudhathoki@nd.edu</a></p></div>
     </div> 
   <div class="staff">  
   <p><a href="#"><img src="http://placehold.it/75x100" alt=""></a><a href="#">Fabio Cusimano</a>, <strong>Ph.D.</strong><br>
