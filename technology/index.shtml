@@ -206,35 +206,10 @@
   </li> 
   </li>
 <li id="CirculateTab">
-    <h1>Items Available for Check-Out<a name="top"></a></h1>
-    <p><a href="#who">Who May Borrow Items?<br>
-      </a><a href="#what">What Items May be Borrowed?</a><br>
-      <a href="#how">How Are Items Loaned?</a><a href="#policies"><br>
-        </a><a href="#problems">Problems<br>
-        <br>
-        </a></p>
-    <h5><a name="who"></a>Who May Borrow Items? [<a href="#top">top</a>]<br>
-    </h5>
-    <p>Currently enrolled students and faculty/staff<br>
-      <br>
-    </p>
-    <h5><a name="what"></a>What Items May be Borrowed  [<a href="#top">top</a>]<br>
-    </h5>
-    <a href="http://nd.libcal.com/equipment?lid=1011">View the Equipment Catalog</a><br>
+    
+    <a href="https://libcal.library.nd.edu/reserve/current-equipment">View the Equipment Catalog</a><br>
     <br>
-      <h5><a name="how"></a>How Are Items Borrowed? [<a href="#top">top</a>]</h5>
-    <p><em>-NDID Card Required</em><strong><br>
-      <br>
-      </strong>-Reserve an item online via the <a href="http://nd.libcal.com/equipment?lid=1011">Equipment Catalog</a><br>
-      <br>
-      -To check out or return an item, inquire 2nd Floor Technology Commons Desk<br>
-      <br>
-      -If the desk is not staffed during a weekday between 9:00am and 5:00pm, please inquire in the CDS Office Suite (250).<br>
-      <br>
-    </p>
-    <h5><a name="problems"></a>Problems      [<a href="#top">top</a>]</h5>
-    <p>If you are experiencing circulation issues, please email <a href="mailto:cds@nd.edu">cds@nd.edu</a>. </p>
-  </ul>
+     
 </ul>
 
 
