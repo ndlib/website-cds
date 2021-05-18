@@ -22,11 +22,19 @@
   <link rel="stylesheet" href="/css/fonts.css">
 
   <script src="../javascripts/modernizr.foundation.js"></script>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7TSPTJ8BDL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-7TSPTJ8BDL');
+</script>
   <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700,300italic' rel='stylesheet' type='text/css'>
   <!-- InstanceBeginEditable name="head" -->
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
   <style type="text/css">
 <!--
 .style3 {background-color: #FFFFFF; font-style: italic; }
