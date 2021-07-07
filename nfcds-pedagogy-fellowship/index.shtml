@@ -25,6 +25,20 @@
 <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700,300italic' rel='stylesheet' type='text/css'>
   <!-- InstanceBeginEditable name="head" -->
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<style type="text/css">
+<!--
+.style4 {color: #006699; font-weight: bold; } <!--gray blue-->
+.style6 {color: #006699; font-style: italic; }
+.style8 {color: #006699}
+.style10 {color: #000099; font-style: italic; } <!--dark blue-->
+.style11 {color: #000066}
+.style13 {color: #FF9900} <!--orange-->
+.style14 {
+  color: #000066;
+  font-style: italic;
+}
+.style15 {color: #CC9900} <!--gold-->
+  </style>
 <!-- InstanceEndEditable -->
 </head>
 <body>
