@@ -38,6 +38,8 @@
   font-style: italic;
 }
 .style15 {color: #CC9900} <!--gold-->
+.style16 {color: #4d4d4d} <!--grey-->
+
 	</style>
 <!-- InstanceEndEditable -->
 </head>
@@ -99,7 +101,7 @@
 		</ul>
 			
 		<h4>Activities</h4>
-		<h5>Fall</h5>
+		<h5><span class="style16">Fall</span></h5>
 		<ul>
 			<li>Orientation.</li>
 			<li>Book discussion group participation.</li>
@@ -111,7 +113,7 @@
 			<li>Meet with mentors to discuss pedagogy, professionalization,and career discernment.</li>
 		</ul>
 		
-		<h5>Spring</h5>
+		<h5><span class="style16">Spring</span></h5>
 		<ul>
 			<li>Continue to meet with cohort weekly for discussions, training, interaction with invited speakers, and other opportunities.</li>
 			<li>Book discussion group participation.</li>
