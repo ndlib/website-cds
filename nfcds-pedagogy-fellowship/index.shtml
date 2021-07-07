@@ -38,7 +38,7 @@
   font-style: italic;
 }
 .style15 {color: #CC9900} <!--gold-->
-  </style>
+	</style>
 <!-- InstanceEndEditable -->
 </head>
 <body>
@@ -131,22 +131,22 @@
 			
 		<h2>Important Dates</h2> 
 		
-		<h3>Application opens</h3>
+		<h3><span class="style8">Application opens</span></h3>
 		<p>Thursday, July 15, 2021</p>
 		
-		<h3>Application deadline</h3>
+		<h3><span class="style8">Application deadline</span></h3>
 		<p>Thursday, August 12, 2021</p>
 		
-		<h3>Interview scheduling via email</h3>
+		<h3><span class="style8">Interview scheduling via email</span></h3>
 		<p>Friday, August 13, 2021</p>
 			
-		<h3>Potential interview dates (save the date!)</h3>
+		<h3><span class="style8">Potential interview dates (save the date!)</span></h3>
 		<p>TBD</p>
 		
-		<h3>Notifications</h3>
+		<h3><span class="style8">Notifications</span></h3>
 		<p>TBD</p>
 			
-		<h3>Orientation</h3>
+		<h3><span class="style8">Orientation</span></h3>
 		<p>TBD</p>
 		
 		<h2>Apply</h2> 
