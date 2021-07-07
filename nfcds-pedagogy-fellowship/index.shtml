@@ -82,12 +82,12 @@
 		<h1>NFCDS Pedagogy Fellowship</h1>
 		<br>
 		
-		<a name="Top"></a><a href="#about">About</a> // Important Dates// Apply // Meet the Fellows // Questions
+		<a name="Top"></a><a href="#about">About</a> // <a href="#important-dates">Important Dates</a> // <a href="#apply">Apply</a> // <a href="#meet-the-fellows">Meet the Fellows</a> // <a href="#questions">Questions</a>
 		<br>
 		<br>
 		<br>
          
-		<h1> <a name="about">About</a></h1> 
+		<h1><a name="about">About</a></h1> 
 		
 		<p>The Navari Family Center for Digital Scholarship Pedagogy Fellowship is an opportunity for Notre Dame PhD students to build their teaching expertise, gain instructional experience, and engage in a community of practice. In addition to devising and delivering digital scholarship learning opportunities, fellows will gain experience in evidence-based and innovative instructional methods, collaborative teamwork, and communicating their research and scholarly interests outside of their discipline.</p>
 		
@@ -140,7 +140,7 @@
 		<br>
 		<br>
 			
-		<h1>Important Dates</h1> 
+		<h1><a name="important-dates">Important Dates</a></h1> 
 		
 		<h2><span class="style8">Application opens</span></h2>
 		<p>Thursday, July 15, 2021</p>
@@ -163,21 +163,21 @@
 		<br>
 		<br>
 			
-		<h1>Apply</h1> 
+		<h1><a name="apply">Apply</a></h1> 
 		<p>Applications are accepted from Thursday, July 15, 2021 through Thursday, August 12, 2021 at 11:59 PM.</p>
 		<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSckhDnpE7uQGa1_qmOjC6XcWvvMQCA6cz6-UIN9okDKBCEEnw/viewform?usp=sf_link" target="new">Apply now!</a></p>
 			
 		<br>
 		<br>
 			
-		<h1>Meet the Fellows</h1> 
+		<h1><a name="meet-the-fellows">Meet the Fellows</a></h1> 
 		<h2><span class="style8">Cohort 1, Fall 2021 - Spring 2022</span></h2>
 		<p>Coming soon!</p>
 
 		<br>
 		<br>
 			
-		<h1>Questions</h1> 
+		<h1><a name="questions">Questions</a></h1> 
 		<p>Email the NFCDS Pedagogy Fellowship Team at <a href="mailto:nfcds-pedagogy-fellowship-list@nd.edu" target="new">nfcds-pedagogy-fellowship-list@nd.edu</a>.</p>
 		<ul>
 			<li>Arnaud Zimmern, Program Facilitator</li>
